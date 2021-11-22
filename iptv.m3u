@@ -288,8 +288,6 @@ https://nilotv.ozelip.com:3665/multi_web/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Maşa ile Koca Ayı TV" tvg-logo="https://i.imgur.com/ZdB0stp.png" group-title="ÇOCUK KANALI", Maşa ile Koca Ayı TV
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/1034.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Kestel TV" tvg-logo="https://i.imgur.com/1sucV3U.png"group-title="ÇOCUK KANALI", Kestel TV
-http://snmtv.ozelip.com:2052/kesteltv/kesteltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://i.resimyukle.xyz/55LaOf.png" group-title="ÇOCUK KANALI", NICK JR
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/88.ts
