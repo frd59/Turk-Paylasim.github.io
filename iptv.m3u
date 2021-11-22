@@ -136,6 +136,25 @@ https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://mn-nl.mncdn.com/blutv_teve2_dvr/live.m3u8
 
+#EXTINF:0 tvg-name="ATV HD TR" tvg-logo="https://i.imgur.com/8t5aAVx.png" tvg-id="" group-title="ULUSAL-UHD",ATV Avrupa 
+#EXTVLCOPT:http-user-agent=stream
+http://93.157.62.180/ATVTurk/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-name="EUROSTAR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" group-title="ULUSAL-UHD",EUROSTAR TV
+https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
+
+#EXTINF:0 tvg-name="Show Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_turk.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TÜRK UHD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
+
+#EXTINF:0 tvg-name="EURO D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurod.png"tvg-id="" group-title="ULUSAL-UHD",EURO D
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8
+#EXTINF:0 tvg-name="TV8 int" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr_international.png"tvg-id="" group-title="ULUSAL-UHD",TV8 INT
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png" group-title="ULUSAL-UHD", 360 TV UHD
 https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 #EXTINF:0 tvg-name="KANAL 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal7_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL 7 UHD
