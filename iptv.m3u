@@ -95,7 +95,7 @@ https://59c7ea6bec1c6.streamlock.net/filbox/atv.stream/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_startv_dvr/live_720p2000000/index.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV FHD
-https://59c7ea6bec1c6.streamlock.net/filbox/star.stream/playlist.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/startv.stream/playlist.m3u8
 
 #EXTINF:0 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D UHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
