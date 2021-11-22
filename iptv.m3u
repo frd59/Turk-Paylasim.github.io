@@ -340,14 +340,14 @@ http://195.142.1.213:1935/avtv/avtv/chunklist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",NATIONAL GEOGRAPHIC HD
 #EXTVLCOPT:http-user-agent=stream
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/137
+http://505plus.eu:8080/live/5656/5656/758.ts
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",NAT GEO WILD HD
 #EXTVLCOPT:http-user-agent=exoplayer-codelab
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/138
+http://505plus.eu:8080/live/5656/5656/711.ts
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",DISCOVERY CHANNEL HD
 #EXTVLCOPT:http-user-agent=stream
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/140
+http://505plus.eu:8080/live/5656/5656/766.ts
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",DISCOVERY SCIENCE HD
 #EXTVLCOPT:http-user-agent=stream
@@ -377,4 +377,4 @@ http://194.40.240.171:83/play/n6AYe30oDXrMtonQt5mlcAnHo-C56fKT3vlqOA6mUp0hY8rzxm
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/85
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",BEIN İZ HD
 #EXTVLCOPT:http-user-agent=stream
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/135
+http://505plus.eu:8080/live/5656/5656/20838.ts
