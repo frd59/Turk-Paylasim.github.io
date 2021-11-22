@@ -368,10 +368,10 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/142
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/136
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",HISTORY HD
 #EXTVLCOPT:http-user-agent=stream
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/143
-#EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",HISTORY HD
+http://194.40.240.171:83/play/x-QOorRu-2btTlfPIvqzPIobiTivc03QkKPUMeyGuGoNXSMQMCJR2AfeyI9TVuh092E4Tc6Agmr4LPrWY98bvA5WGr5BzBqt01GQu-03F3ZnniaaIpgY3A0-NV2bfABBVBqLKbR7zECi8a7XQN9VBg?ext=.ts
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",Viasat HISTORY HD
 #EXTVLCOPT:http-user-agent=exoplayer-codelab
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/144
+http://194.40.240.171:83/play/n6AYe30oDXrMtonQt5mlcAnHo-C56fKT3vlqOA6mUp0hY8rzxm_GtKhmGKMjbnWTMb4XWNsblkjN6LszHVjEYaJHSfVQ9QE-YMUgW4__H3WiXFAK7aDdZtE-u7k7Pu4A0nRPFVP22ZPDJXhRQlSmaA?ext=.ts
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",BEIN GURME HD
 #EXTVLCOPT:http-user-agent=stream
 http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/85
