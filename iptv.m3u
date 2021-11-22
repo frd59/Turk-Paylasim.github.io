@@ -121,15 +121,11 @@ https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 UHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://185.226.88.3:1036/live/backup/backup/22.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 FHD
-http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
+https://livex458745.livestreamlive.xyz/tv8.m3u8
 
-
-#EXTINF:0 tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png"tvg-id="" group-title="ULUSAL-UHD",TV8 HD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://213.115.248.46:9000/TR_-_TV_8_HD_PLUS/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-UHD",TV8.5 UHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
