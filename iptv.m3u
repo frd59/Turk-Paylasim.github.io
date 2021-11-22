@@ -39,9 +39,9 @@ http://505plus.eu:8080/live/5656/5656/807.ts
 http://505plus.eu:8080/live/5656/5656/31421.ts
 
 #EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="Spor Kanali",SMARTSPOR HD 1
-https://xxx.buulkedehardkapitalizmvar.ml/72fe9bb58e02e669273c902c1f48f501/102/qs.m3u8
+http://505plus.eu:8080/live/5656/5656/808.ts
 #EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="Spor Kanali",SMARTSPOR HD 2
-https://xxx.buulkedehardkapitalizmvar.ml/72fe9bb58e02e669273c902c1f48f501/104/qs.m3u8
+http://505plus.eu:8080/live/5656/5656/126808.ts
 
 #EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="Spor Kanali",Tivibu Spor 1
 http://505plus.eu:8080/live/5656/5656/812.ts
