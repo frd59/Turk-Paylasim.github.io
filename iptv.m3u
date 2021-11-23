@@ -417,3 +417,270 @@ https://vizyontv.yayin.com.tr/yesilcam-komedi-tv/yesilcam-komedi-tv/chunklist_w1
 https://vizyontv.yayin.com.tr/yesilcam-nostalji-tv/yesilcam-nostalji-tv/chunklist_w993048745.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA KANALLARI" logo="https://1.bp.blogspot.com/-qu5nrKmxTyU/X4ieG2ybniI/AAAAAAAAPUY/5ZVaZOVoCE8MsT0CcUevo-Suk7qucaRqACLcBGAsYHQ/s462/afyonturk.png", AFYON TURK HD
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="====SİNAMA====" tvg-logo="" group-title="TR SINEMA",====SİNAMA====
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/44300
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MOVIESMART TURK HD" tvg-logo="" group-title="TR SINEMA",[TR] MOVIESMART TURK HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/60
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MOVIESMART  PREMIUM HD" tvg-logo="" group-title="TR SINEMA",[TR] MOVIESMART  PREMIUM HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/61
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MOVIESMART  PREMIUM 2 HD" tvg-logo="" group-title="TR SINEMA",[TR] MOVIESMART  PREMIUM 2 HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/62
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MOVIESMART CLASSIC HD" tvg-logo="" group-title="TR SINEMA",[TR] MOVIESMART CLASSIC HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/68
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SERIES SCFI HD" tvg-logo="" group-title="TR SINEMA",[TR] BEIN SERIES SCFI HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/80
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SERIES COMEDY HD" tvg-logo="" group-title="TR SINEMA",[TR] BEIN SERIES COMEDY HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/80352
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN SERIES VICE HD" tvg-logo="" group-title="TR SINEMA",[TR] BEIN SERIES VICE HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/80353
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN MOVIES FAMILY HD" tvg-logo="" group-title="TR SINEMA",[TR] BEIN MOVIES FAMILY HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/83
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN MOVIES STARS HD" tvg-logo="" group-title="TR SINEMA",[TR] BEIN MOVIES STARS HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/84
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN MOVIES ACTION 2 HD" tvg-logo="" group-title="TR SINEMA",[TR] BEIN MOVIES ACTION 2 HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/85
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN MOVIES ACTION HD" tvg-logo="" group-title="TR SINEMA",[TR] BEIN MOVIES ACTION HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/86
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN MOVIES PIREMIERE 2 HD" tvg-logo="" group-title="TR SINEMA",[TR] BEIN MOVIES PIREMIERE 2 HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/87
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN MOVIES PIREMIERE HD" tvg-logo="" group-title="TR SINEMA",[TR] BEIN MOVIES PIREMIERE HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/88
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEIN MOVIES TURK HD" tvg-logo="" group-title="TR SINEMA",[TR] BEIN MOVIES TURK HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/89
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SiNEMA TV 1001 HD" tvg-logo="" group-title="TR SINEMA",[TR] SiNEMA TV 1001 HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/91
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEMA TV 1002 HD" tvg-logo="" group-title="TR SINEMA",[TR] SINEMA TV 1002 HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/84060
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SiNEMA TV KOMEDi HD" tvg-logo="" group-title="TR SINEMA",[TR] SiNEMA TV KOMEDi HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/92
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEMA TV KOMEDI 2" tvg-logo="" group-title="TR SINEMA",[TR] SINEMA TV KOMEDI 2
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/84062
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEMA TV AILE HD" tvg-logo="" group-title="TR SINEMA",[TR] SINEMA TV AILE HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/93
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEMA TV AILE 2 HD" tvg-logo="" group-title="TR SINEMA",[TR] SINEMA TV AILE 2 HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/84271
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SiNEMA TV AKSiYON HD" tvg-logo="" group-title="TR SINEMA",[TR] SiNEMA TV AKSiYON HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/94
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEMA TV AKSIYON 2 HD" tvg-logo="" group-title="TR SINEMA",[TR] SINEMA TV AKSIYON 2 HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/84063
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SiNEMA TV HD" tvg-logo="" group-title="TR SINEMA",[TR] SiNEMA TV HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/95
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEMA TV 2 HD" tvg-logo="" group-title="TR SINEMA",[TR] SINEMA TV 2 HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/84061
+#EXTINF:-1 tvg-id="" tvg-name="[TR]  SiNEMA TV YERLi HD" tvg-logo="" group-title="TR SINEMA",[TR]  SiNEMA TV YERLi HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/96
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEMA TV YERLI 2 HD" tvg-logo="" group-title="TR SINEMA",[TR] SINEMA TV YERLI 2 HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/84059
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEiN BOX OFFİCE 1 HD" tvg-logo="" group-title="TR SINEMA",[TR] BEiN BOX OFFİCE 1 HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/14654
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEiN BOX OFFİCE 2 HD" tvg-logo="" group-title="TR SINEMA",[TR] BEiN BOX OFFİCE 2 HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/14655
+#EXTINF:-1 tvg-id="" tvg-name="[TR] BEiN BOX OFFİCE 3 HD" tvg-logo="" group-title="TR SINEMA",[TR] BEiN BOX OFFİCE 3 HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/14656
+#EXTINF:-1 tvg-id="" tvg-name="[TR] FOX LIFE" tvg-logo="" group-title="TR SINEMA",[TR] FOX LIFE
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/17567
+#EXTINF:-1 tvg-id="" tvg-name="[TR] FOX CRIME" tvg-logo="" group-title="TR SINEMA",[TR] FOX CRIME
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/17568
+#EXTINF:-1 tvg-id="" tvg-name="[TR] FX HD" tvg-logo="" group-title="TR SINEMA",[TR] FX HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/90
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Dizismart Max HD" tvg-logo="" group-title="TR SINEMA",[TR] Dizismart Max HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/64666
+#EXTINF:-1 tvg-id="" tvg-name="[TR] DIZI SMART PREMIUM HD" tvg-logo="" group-title="TR SINEMA",[TR] DIZI SMART PREMIUM HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/72713
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 1" tvg-logo="" group-title="TR SINEMA",[TR] ENO ViZYON 1
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82184
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 2" tvg-logo="" group-title="TR SINEMA",[TR] ENO ViZYON 2
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82185
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 3" tvg-logo="" group-title="TR SINEMA",[TR] ENO ViZYON 3
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82186
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 4" tvg-logo="" group-title="TR SINEMA",[TR] ENO ViZYON 4
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82187
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 5" tvg-logo="" group-title="TR SINEMA",[TR] ENO ViZYON 5
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82188
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 6" tvg-logo="" group-title="TR SINEMA",[TR] ENO ViZYON 6
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82189
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 7" tvg-logo="" group-title="TR SINEMA",[TR] ENO ViZYON 7
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82190
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 8" tvg-logo="" group-title="TR SINEMA",[TR] ENO ViZYON 8
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82191
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 9" tvg-logo="" group-title="TR SINEMA",[TR] ENO ViZYON 9
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82192
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 10" tvg-logo="" group-title="TR SINEMA",[TR] ENO ViZYON 10
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82193
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 11" tvg-logo="" group-title="TR SINEMA",[TR] ENO ViZYON 11
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82194
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 12" tvg-logo="" group-title="TR SINEMA",[TR] ENO ViZYON 12
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82195
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 13" tvg-logo="" group-title="TR SINEMA",[TR] ENO ViZYON 13
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82196
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 14" tvg-logo="" group-title="TR SINEMA",[TR] ENO ViZYON 14
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82197
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO ViZYON 15" tvg-logo="" group-title="TR SINEMA",[TR] ENO ViZYON 15
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82198
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO TURK" tvg-logo="" group-title="TR SINEMA",[TR] ENO TURK
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82199
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO TURK 2" tvg-logo="" group-title="TR SINEMA",[TR] ENO TURK 2
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82200
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENOFLIX 1" tvg-logo="" group-title="TR SINEMA",[TR] ENOFLIX 1
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82201
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENOFLIX 2" tvg-logo="" group-title="TR SINEMA",[TR] ENOFLIX 2
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82202
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO NETFLIX 1" tvg-logo="" group-title="TR SINEMA",[TR] ENO NETFLIX 1
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82203
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO NETFLIX 2" tvg-logo="" group-title="TR SINEMA",[TR] ENO NETFLIX 2
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82204
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO NETFLIX 3" tvg-logo="" group-title="TR SINEMA",[TR] ENO NETFLIX 3
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82205
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO MACERA 1" tvg-logo="" group-title="TR SINEMA",[TR] ENO MACERA 1
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82206
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO MACERA 2" tvg-logo="" group-title="TR SINEMA",[TR] ENO MACERA 2
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82207
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO MACERA 3" tvg-logo="" group-title="TR SINEMA",[TR] ENO MACERA 3
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82208
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENO WESTERN" tvg-logo="" group-title="TR SINEMA",[TR] ENO WESTERN
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82209
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 1" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON 1
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82210
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 2" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON 2
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82211
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 3" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON 3
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82212
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 4" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON 4
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82213
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 5" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON 5
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82214
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 6" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON 6
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82215
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 7" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON 7
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82216
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 8" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON 8
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82217
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 9" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON 9
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82218
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 10" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON 10
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82219
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 11" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON 11
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82220
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 12" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON 12
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82221
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 13" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON 13
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82222
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 14" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON 14
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82223
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 15" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON 15
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82224
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 16" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON 16
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82225
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 18" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON 18
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82226
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 17" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON 17
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82227
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 19" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON 19
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82228
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON 20" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON 20
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82229
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 1" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON TURK 1
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82230
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 2" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON TURK 2
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82231
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 3" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON TURK 3
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82232
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 4" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON TURK 4
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82233
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 5" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON TURK 5
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82234
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 6" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON TURK 6
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82235
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 7" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON TURK 7
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82236
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 8" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON TURK 8
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82237
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 9" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON TURK 9
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82238
+#EXTINF:-1 tvg-id="" tvg-name="[TR] SINEVIZYON TURK 10" tvg-logo="" group-title="TR SINEMA",[TR] SINEVIZYON TURK 10
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82239
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 1" tvg-logo="" group-title="TR SINEMA",[TR] MULTIVIZYON 1
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82240
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 2" tvg-logo="" group-title="TR SINEMA",[TR] MULTIVIZYON 2
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82241
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 3" tvg-logo="" group-title="TR SINEMA",[TR] MULTIVIZYON 3
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82242
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 4" tvg-logo="" group-title="TR SINEMA",[TR] MULTIVIZYON 4
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82243
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 5" tvg-logo="" group-title="TR SINEMA",[TR] MULTIVIZYON 5
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82244
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 6" tvg-logo="" group-title="TR SINEMA",[TR] MULTIVIZYON 6
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82245
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 7" tvg-logo="" group-title="TR SINEMA",[TR] MULTIVIZYON 7
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82246
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 8" tvg-logo="" group-title="TR SINEMA",[TR] MULTIVIZYON 8
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82247
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 9" tvg-logo="" group-title="TR SINEMA",[TR] MULTIVIZYON 9
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82248
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 10" tvg-logo="" group-title="TR SINEMA",[TR] MULTIVIZYON 10
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82249
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 11" tvg-logo="" group-title="TR SINEMA",[TR] MULTIVIZYON 11
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82250
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 12" tvg-logo="" group-title="TR SINEMA",[TR] MULTIVIZYON 12
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82251
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 13" tvg-logo="" group-title="TR SINEMA",[TR] MULTIVIZYON 13
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82252
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 14" tvg-logo="" group-title="TR SINEMA",[TR] MULTIVIZYON 14
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82253
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 15" tvg-logo="" group-title="TR SINEMA",[TR] MULTIVIZYON 15
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82254
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 16" tvg-logo="" group-title="TR SINEMA",[TR] MULTIVIZYON 16
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82255
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 17" tvg-logo="" group-title="TR SINEMA",[TR] MULTIVIZYON 17
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82256
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 18" tvg-logo="" group-title="TR SINEMA",[TR] MULTIVIZYON 18
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82257
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 19" tvg-logo="" group-title="TR SINEMA",[TR] MULTIVIZYON 19
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82258
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MULTIVIZYON 20" tvg-logo="" group-title="TR SINEMA",[TR] MULTIVIZYON 20
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82259
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENOFLIX 1" tvg-logo="" group-title="TR SINEMA",[TR] ENOFLIX 1
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82154
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENOFLIX 2" tvg-logo="" group-title="TR SINEMA",[TR] ENOFLIX 2
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82155
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENOFLIX 3" tvg-logo="" group-title="TR SINEMA",[TR] ENOFLIX 3
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82156
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENOFLIX 4" tvg-logo="" group-title="TR SINEMA",[TR] ENOFLIX 4
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82157
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENOFLIX 5" tvg-logo="" group-title="TR SINEMA",[TR] ENOFLIX 5
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82158
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENOFLIX 6" tvg-logo="" group-title="TR SINEMA",[TR] ENOFLIX 6
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82159
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ENOFLIX 7" tvg-logo="" group-title="TR SINEMA",[TR] ENOFLIX 7
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82160
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Sinevizyon 1" tvg-logo="" group-title="TR SINEMA",[TR] Sinevizyon 1
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82161
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Sinevizyon 2" tvg-logo="" group-title="TR SINEMA",[TR] Sinevizyon 2
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82162
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Sinevizyon 3" tvg-logo="" group-title="TR SINEMA",[TR] Sinevizyon 3
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82163
+#EXTINF:-1 tvg-id="" tvg-name="[TR] PRIMEBOX TURK 1" tvg-logo="" group-title="TR SINEMA",[TR] PRIMEBOX TURK 1
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82164
+#EXTINF:-1 tvg-id="" tvg-name="[TR] PRIMEBOX TURK 2" tvg-logo="" group-title="TR SINEMA",[TR] PRIMEBOX TURK 2
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82165
+#EXTINF:-1 tvg-id="" tvg-name="[TR] PRIMEBOX YESILCAM" tvg-logo="" group-title="TR SINEMA",[TR] PRIMEBOX YESILCAM
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82166
+#EXTINF:-1 tvg-id="" tvg-name="[TR] POPCORN BOLLYWOOD" tvg-logo="" group-title="TR SINEMA",[TR] POPCORN BOLLYWOOD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82167
+#EXTINF:-1 tvg-id="" tvg-name="[TR] POPCORN GOLD" tvg-logo="" group-title="TR SINEMA",[TR] POPCORN GOLD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82168
+#EXTINF:-1 tvg-id="" tvg-name="[TR] POPCORN CASUZLUK" tvg-logo="" group-title="TR SINEMA",[TR] POPCORN CASUZLUK
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82169
+#EXTINF:-1 tvg-id="" tvg-name="[TR] POPCORN FANTASTIK" tvg-logo="" group-title="TR SINEMA",[TR] POPCORN FANTASTIK
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82170
+#EXTINF:-1 tvg-id="" tvg-name="[TR] POPCORN WESTREN KOVBOY" tvg-logo="" group-title="TR SINEMA",[TR] POPCORN WESTREN KOVBOY
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82171
+#EXTINF:-1 tvg-id="" tvg-name="[TR] MaGicBoX Kino1 HD" tvg-logo="" group-title="TR SINEMA",[TR] MaGicBoX Kino1 HD
+http://ftnh1881.xyz:8080/muzafferbey/V3pzJwHywE/82172
+
+#EXTM3U
+
