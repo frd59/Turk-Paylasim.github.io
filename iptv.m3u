@@ -88,7 +88,7 @@ https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV FHD
-https://59c7ea6bec1c6.streamlock.net/filbox/atv.stream/playlist.m3u8
+http://vip.cms-xtream.com:8080/live/DreamSkype2021/hP2LTZ2TV8/12.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV UHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
