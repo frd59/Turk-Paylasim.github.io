@@ -395,3 +395,25 @@ http://505plus.eu:8080/live/5656/5656/21749.ts
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",BEIN İZ HD
 #EXTVLCOPT:http-user-agent=stream
 http://505plus.eu:8080/live/5656/5656/20838.ts
+
+
+#EXTM3U
+
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA KANALLARI" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288_YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon AVRUPA YAKASI
+https://vizyontv.yayin.com.tr/avrupa-yakasi-tv/avrupa-yakasi-tv/chunklist_w647114382.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA KANALLARI" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288_YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon BIZIMKILER TV
+https://vizyontv.yayin.com.tr/bizimkiler-tv/bizimkiler-tv/chunklist_w1856567925.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA KANALLARI" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288_YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon KEMAL SUNAL TV
+https://vizyontv.yayin.com.tr/kemal-sunal-tv/kemal-sunal-tv/chunklist_w1091739803.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title ="SİNEMA KANALLARI" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288_YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon SENER SEN TV
+https://vizyontv.yayin.com.tr/senersen-tv/senersen-tv/chunklist_w1524488266.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA KANALLARI" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288_YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon RECEP IVEDIK TV
+https://vizyontv.yayin.com.tr/recep-ivedik-tv/recep-ivedik-tv/chunklist_w793354047.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA KANALLARI" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288_YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon TURK TV
+https://vizyontv.yayin.com.tr/turk-sinemasi-tv/turk-sinemasi-tv/chunklist_w315505879.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA KANALLARI" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288_YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon YESILCAM KOMEDI
+https://vizyontv.yayin.com.tr/yesilcam-komedi-tv/yesilcam-komedi-tv/chunklist_w1541287259.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA KANALLARI" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288_YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon YESILCAM NOSTALJI TV
+https://vizyontv.yayin.com.tr/yesilcam-nostalji-tv/yesilcam-nostalji-tv/chunklist_w993048745.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA KANALLARI" logo="https://1.bp.blogspot.com/-qu5nrKmxTyU/X4ieG2ybniI/AAAAAAAAPUY/5ZVaZOVoCE8MsT0CcUevo-Suk7qucaRqACLcBGAsYHQ/s462/afyonturk.png", AFYON TURK HD
+https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
