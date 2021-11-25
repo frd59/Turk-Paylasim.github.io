@@ -290,7 +290,7 @@ http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/85.ts
 http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Minika Go" tvg-logo="https://i.imgur.com/1SaT0la.png" group-title="ÇOCUK KANALI" , Minika Go
-http://yayin2.tvizlehd.com/minikago.m3u8
+http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Minika Go" tvg-logo="https://i.imgur.com/1SaT0la.png" group-title="ÇOCUK KANALI" , Minika Go
 http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
