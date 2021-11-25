@@ -65,8 +65,6 @@ https://mn-nl.mncdn.com/blutv_trtspor_dvr/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="Spor Kanali", TRT SPOR 2 HD
 https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/87oulg6.png" group-title="Spor Kanali", TRT SPOR 3 HD
-http://iptvmasterlink.dyndns.org:8080/Entry/meclistv_yeni/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="Spor Kanali", Sports TV HD
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
