@@ -281,7 +281,7 @@ http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TRT Çocuk" tvg-logo="https://i.imgur.com/Visnwr4.png" group-title="ÇOCUK KANALI" , TRT Çocuk
-http://iptvmasterlink.dyndns.org:8080/Entry/trtcocukhd_yeni/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_trtcocuk2/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Minika Çocuk" tvg-logo="https://i.imgur.com/BXgsbWk.png" group-title="ÇOCUK KANALI", Minika Çocuk
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/85.ts
