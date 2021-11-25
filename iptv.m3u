@@ -325,6 +325,9 @@ http://vip.cms-xtream.com:8080/live/DreamSkype2021/hP2LTZ2TV8/331.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR:CBEEBIES HD" tvg-logo="" group-title="ÇOCUK KANALI",CBEEBIES HD
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/90.ts
 
+#EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="|TR| COCUK",KIDS TURK
+https://mn-nl.mncdn.com/blutv_cocuk/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="EBA TV İlkokul" tvg-logo="https://i.imgur.com/O8KPQ9J.png" group-title="ÇOCUK KANALI" , EBA TV İlkokul
 https://mn-nl.mncdn.com/blutv_ebai2/live.m3u8
 
