@@ -84,14 +84,14 @@ https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV FHD
-http://xtrastv.club:8080/live/salahdin/1EqJY6XrgL/5257.m3u8
+http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/2.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV UHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://mn-nl.mncdn.com/blutv_startv_dvr/live_720p2000000/index.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV FHD
-http://xtrastv.club:8080/live/salahdin/1EqJY6XrgL/5256.m3u8
+http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/4.m3u8
 
 #EXTINF:0 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D UHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
