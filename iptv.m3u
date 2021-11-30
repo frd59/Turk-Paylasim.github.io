@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="Spor Kanali",BeIN Sports Haber
-https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
+http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/64.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor Kanali" ,BeIN Sports HD 1
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/63.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor Kanali" ,BeIN Sports HD 1 Ydk
