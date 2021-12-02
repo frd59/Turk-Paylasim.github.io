@@ -101,7 +101,7 @@ http://xtream-ui03.feel-tv.com:25461/live/Vwelsbfa/widnv39573sldba/520.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV UHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://mn-nl.mncdn.com/blutv_startv_dvr/live_720p2000000/index.m3u8
+https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV FHD
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/4.m3u8
@@ -114,7 +114,7 @@ http://xtream-ui03.feel-tv.com:25461/live/Vwelsbfa/widnv39573sldba/519.m3u8
 
 #EXTINF:0 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D FHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000/index.m3u8
+https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D HD
 https://59c7ea6bec1c6.streamlock.net/filbox/kanald.stream/playlist.m3u8
@@ -124,7 +124,7 @@ http://xtrastv.club:8080/live/salahdin/1EqJY6XrgL/5259.ts
 
 #EXTINF:0 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV FHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://mn-nl.mncdn.com/blutv_showtv_dvr/live_720p2000000/index.m3u8
+https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
 
 #EXTINF:0 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -132,7 +132,7 @@ https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 
 #EXTINF:0 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-UHD",FOX TV UHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000/index.m3u8
+https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
 
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-UHD",FOX TV FHD
 https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8
@@ -157,7 +157,7 @@ https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
 
 #EXTINF:0 tvg-name="TEVE2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png"tvg-id="" group-title="ULUSAL-UHD",TEVE2 UHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://mn-nl.mncdn.com/blutv_teve2_dvr/live.m3u8
+https://mn-nl.mncdn.com/blutv_teve22/live.m3u8
 
 #EXTINF:0 tvg-name="ATV HD TR" tvg-logo="https://i.imgur.com/8t5aAVx.png" tvg-id="" group-title="ULUSAL-UHD",ATV Avrupa 
 #EXTVLCOPT:http-user-agent=stream
