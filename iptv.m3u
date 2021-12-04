@@ -52,17 +52,17 @@ http://fastrunner.live:8080/live/paulo3pr/8U3CXwh2dT/1092.m3u8
 http://fastrunner.live:8080/live/paulo3pr/8U3CXwh2dT/1091.m3u8
 
 #EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="Spor Kanali",Tivibu Spor 1
-http://fastrunner.live:8080/live/paulo3pr/8U3CXwh2dT/1094.m3u8
+http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/71.m3u8
 #EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="Spor Kanali",Tivibu Spor 2
-http://fastrunner.live:8080/live/paulo3pr/8U3CXwh2dT/1093.m3u8
+http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/72.m3u8
 #EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="Spor Kanali", Tivibu Spor 3
-http://fastrunner.live:8080/live/paulo3pr/8U3CXwh2dT/2082.m3u8
+http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/73.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0O8xAZy.png" group-title="Spor Kanali", GS TV HD
-https://srvzzz.herseykisitli.xyz/kaynakstreamradarco/39/naxi/caxi.m3u8
+http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/79.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pkQxiS0.png" group-title="Spor Kanali", FB TV HD
-https://srvzzz.herseykisitli.xyz/kaynakstreamradarco/37/naxi/caxi.m3u8
+http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/78.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="Spor Kanali", A SPOR HD
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
