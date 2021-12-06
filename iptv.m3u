@@ -122,7 +122,7 @@ https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
 https://59c7ea6bec1c6.streamlock.net/filbox/kanald.stream/playlist.m3u8
 
 #EXTINF:0 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV UHD
-http://xt.bossna-caffe.com:25461/live/@lens@k@25819/39bYksQkUg/15678.m3u8
+http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/6.ts
 
 #EXTINF:0 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV FHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
