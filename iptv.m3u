@@ -117,7 +117,7 @@ http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/4.m3u8
 http://ip.spybox.xyz:8000/live/S11Sxdvb2909x/s11SxDVB2909x/17.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D UHD
-http://zero2.site:8080/live/zero/zero/10.m3u8
+http://zero2.site:8080/live/zero/zero/11.m3u8
 
 #EXTINF:0 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D FHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -151,7 +151,7 @@ http://zero2.site:8080/live/zero/zero/9.m3u8
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/10.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 FHD
-http://zero2.site:8080/live/zero/zero/12.m3u8
+http://zero2.site:8080/live/zero/zero/13.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
