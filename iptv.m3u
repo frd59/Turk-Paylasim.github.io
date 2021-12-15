@@ -124,7 +124,7 @@ http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/8.m3u8
 https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D HD
-https://59c7ea6bec1c6.streamlock.net/filbox/kanald.stream/playlist.m3u8
+http://worldiptv.me:8080/live/carter/GUV1bMq2VK/3706.m3u8
 
 #EXTINF:0 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV UHD
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/6.ts
@@ -141,7 +141,7 @@ https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/11.m3u8
 
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-UHD",FOX TV FHD
-https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8
+http://worldiptv.me:8080/live/carter/GUV1bMq2VK/3711.m3u8
 
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-UHD",FOX TV HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -154,8 +154,7 @@ http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/10.ts
 http://ip.spybox.xyz:8000/live/S11Sxdvb2909x/s11SxDVB2909x/475.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 HD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8
+http://worldiptv.me:8080/live/carter/GUV1bMq2VK/3712.m3u8
 
 #EXTINF:0 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-UHD",TV8.5 UHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
