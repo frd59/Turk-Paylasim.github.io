@@ -226,19 +226,22 @@ http://sanal.siber.vip:2086/live/Sanal2967/bwZSZvmsE7fc/44757.ts
 
 #EXTM3U
 
-#EXTINF:0 tvg-name="Ntv tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_tr.png"tvg-id="" group-title="HABER KANALI",NTV HABER
+#EXTINF:-1 tvg-name="Ntv tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_tr.png"tvg-id="" group-title="HABER KANALI",NTV HABER
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/31.ts
 
 #EXTINF:0 tvg-name="Ntv tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_tr.png"tvg-id="" group-title="HABER KANALI",NTV HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://mn-nl.mncdn.com/blutv_ntv_dvr/live.m3u8
 
-EXTINF:0 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="HABER KANALI",CNN TÜRK
+EXTINF:-1 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="HABER KANALI",CNN TÜRK
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/30.ts
 
 #EXTINF:0 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="HABER KANALI",CNN TÜRK
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live.m3u8
+
+#EXTINF:-1 tvg-name="Haber Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber_turk.png"tvg-id="" group-title="HABER KANALI",HABERTÜRK
+http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/28.ts
 
 #EXTINF:0 tvg-name="Haber Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber_turk.png"tvg-id="" group-title="HABER KANALI",HABERTÜRK
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
