@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="Spor Kanali",BeIN Sports Haber
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/64.ts
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor Kanali" ,BeIN Sports HD 1
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor Kanali" ,BeIN Sports UHD 1
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/63.ts
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor Kanali" ,BeIN Sports HD 1 Ydk
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor Kanali" ,BeIN Sports FHD 1
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/67.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor Kanali" ,BeIN SPORTS 4K
 http://zero2.site:8080/live/zero/zero/15.m3u8
@@ -13,8 +13,8 @@ http://zero2.site:8080/live/zero/zero/5.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor Kanali" ,BeIN Sports(FEED Yayın)
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCJrLCvpLYjOLJYfOb8jyMnPPxMdZ7AnSP2kAi_77d-f/ts
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor Kanali" ,BeIN SPORT_ Maç Saati ÖZEL_
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/UgpFtvUsRymvUOd9UYb7-nX5IG6SFpuIJ0W8VRAkaBKwsCLKmqPMgZvFEKempXY_KBjyDzfDct5bnAlU2d1MaA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor Kanali" ,BeIN SPORT HD 1
+http://nomorecable.xyz:80/live/hahaiptv-/079652/56847.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor Kanali" ,Maç Saati Aktiv(1)
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann35/chunklist.m3u8
