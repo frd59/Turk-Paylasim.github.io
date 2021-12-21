@@ -251,6 +251,9 @@ https://mn-nl.mncdn.com/blutv_haberturk_dvr/live.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live.m3u8
 
+#EXTINF:-1 tvg-name="Haber 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png"tvg-id="" group-title="HABER KANALI",HABER 24
+http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/32.ts
+
 #EXTINF:0 tvg-name="Haber 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png"tvg-id="" group-title="HABER KANALI",HABER 24
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://mn-nl.mncdn.com/blutv_kanal242/live.m3u8
@@ -269,9 +272,15 @@ http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/36.ts
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://mn-nl.mncdn.com/blutv_tgrthaber2/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ulke_tv_tr.png"tvg-id="" group-title="HABER KANALI",ÜLKE TV
+http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/24.ts
+
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ulke_tv_tr.png"tvg-id="" group-title="HABER KANALI",ÜLKE TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/halk_tv_tr.png"tvg-id="" group-title="HABER KANALI",HALK TV
+http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/33.ts
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/halk_tv_tr.png"tvg-id="" group-title="HABER KANALI",HALK TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
