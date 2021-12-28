@@ -148,7 +148,7 @@ http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/10.ts
 http://ip.spybox.xyz:8000/live/S11Sxdvb2909x/s11SxDVB2909x/475.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 HD
-http://worldiptv.me:8080/live/carter/GUV1bMq2VK/3712.m3u8
+http://bizimip.com:8000/live/live:brkamg/CboHauTOEr/21.m3u8
 
 #EXTINF:0 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-UHD",TV8.5 UHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
