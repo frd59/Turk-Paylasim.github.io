@@ -88,8 +88,7 @@ https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:0 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 FHD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
+http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/12.m3u8
 
 #EXTINF:0 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 HD
 http://ip.spybox.xyz:8000/live/S11Sxdvb2909x/s11SxDVB2909x/14.m3u8
