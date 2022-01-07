@@ -91,7 +91,7 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/12.m3u8
 
 #EXTINF:0 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 HD
-http://ip.spybox.xyz:8000/live/S11Sxdvb2909x/s11SxDVB2909x/14.m3u8
+http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/19.ts
 
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV UHD
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
@@ -110,7 +110,7 @@ https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/4.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV HD
-http://ip.spybox.xyz:8000/live/S11Sxdvb2909x/s11SxDVB2909x/17.m3u8
+http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/18.ts
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D UHD
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/8.m3u8
@@ -147,7 +147,7 @@ https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/10.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 FHD
-http://ip.spybox.xyz:8000/live/S11Sxdvb2909x/s11SxDVB2909x/475.m3u8
+http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/21.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 HD
 http://bizimip.com:8000/live/live:brkamg/CboHauTOEr/21.m3u8
@@ -244,7 +244,7 @@ http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/28.ts
 https://mn-nl.mncdn.com/blutv_haberturk_dvr/live.m3u8
 
 #EXTINF:0 tvg-name="Haber Global" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png"tvg-id="" group-title="HABER KANALI",HABER GLOBAL
-http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/652.ts
+http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/1128.ts
 
 #EXTINF:0 tvg-name="Haber Global" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png"tvg-id="" group-title="HABER KANALI",HABER GLOBAL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
