@@ -470,7 +470,7 @@ https://vizyontv.yayin.com.tr/yesilcam-nostalji-tv/yesilcam-nostalji-tv/chunklis
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA KANALLARI" logo="https://1.bp.blogspot.com/-qu5nrKmxTyU/X4ieG2ybniI/AAAAAAAAPUY/5ZVaZOVoCE8MsT0CcUevo-Suk7qucaRqACLcBGAsYHQ/s462/afyonturk.png", AFYON TURK HD
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/67ef93d5-84cc-4995-a74e-cd0e87661ef7.png" group-title="SİNEMA KANALLARI",TELE ON ᴴᴰ
-https://vkvsd56.mycdn.me:443/hls/1851575241436.m3u8/sig/2qbK4OCAHCY/srcIp/46.223.162.218/expires/1640465985075/clientType/13/srcAg/CHROME_ANDROID_TABLET/fromCache/1/mid/2779615275996/id/1851575241436/1851575241436_high/index.m3u8
+https://streaming.netdirekt.com.tr:443/35757/msyapi/teleontv_nowmediagroup_digitalplatform/chunks.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="TR: BTV MOVIES 1 HD" tvg-logo="" group-title="SİNEMA KANALLARI",TR: BTV MOVIES 1 HD
 http://worldiptv.me:8080/carter/GUV1bMq2VK/42773
