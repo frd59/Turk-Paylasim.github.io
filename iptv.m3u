@@ -91,13 +91,13 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/12.m3u8
 
 #EXTINF:0 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-UHD",TRT 1 HD
-http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/19.ts
+http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3141.ts
 
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV UHD
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV FHD
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/2.m3u8
+http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3149.ts
 
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-UHD",ATV HD
 http://bizimip.com:8000/live/live:brkamg/CboHauTOEr/17.m3u8
@@ -110,10 +110,10 @@ https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/4.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-UHD",STAR TV HD
-http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/18.ts
+http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3147.ts
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D UHD
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/8.m3u8
+http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3144.ts
 
 #EXTINF:0 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-UHD",KANAL D FHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -123,7 +123,7 @@ https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
 http://bizimip.com:8000/live/live:brkamg/CboHauTOEr/15.m3u8
 
 #EXTINF:0 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV UHD
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/6.ts
+http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3146.ts
 
 #EXTINF:0 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-UHD",SHOW TV FHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -134,7 +134,7 @@ https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 
 #EXTINF:0 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-UHD",FOX TV UHD
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/11.m3u8
+http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3142.ts
 
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-UHD",FOX TV FHD
 http://bizimip.com:8000/live/live:brkamg/CboHauTOEr/40.m3u8
@@ -147,7 +147,7 @@ https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/10.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 FHD
-http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/21.ts
+http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3140.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-UHD",TV8 HD
 http://bizimip.com:8000/live/live:brkamg/CboHauTOEr/21.m3u8
