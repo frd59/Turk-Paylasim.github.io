@@ -337,7 +337,7 @@ https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 https://mn-nl.mncdn.com/blutv_trtcocuk2/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Minika Çocuk" tvg-logo="https://i.imgur.com/BXgsbWk.png" group-title="ÇOCUK KANALI", Minika Çocuk
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/85.ts
+http://s1.showplustv.com:1997/live/iptvtree2021/adAXCXhWuH9Mj515sda/51884.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Minika Çocuk" tvg-logo="https://i.imgur.com/BXgsbWk.png" group-title="ÇOCUK KANALI" , Minika Çocuk
 http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
@@ -352,7 +352,7 @@ http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
 http://185.129.1.242:80/cartoonnetworkturk/mpegts
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/qYEVDbP.png" group-title="ÇOCUK KANALI" , Disney Channel
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/86.ts
+http://s1.showplustv.com:1997/live/iptvtree2021/adAXCXhWuH9Mj515sda/51882.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Niyola TV" tvg-logo="https://i.imgur.com/0iUh0ib.png" group-title="ÇOCUK KANALI", Niloya TV
 https://nilotv.ozelip.com:3665/multi_web/play.m3u8
@@ -362,16 +362,16 @@ http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/1034.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://i.resimyukle.xyz/55LaOf.png" group-title="ÇOCUK KANALI", NICK JR
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/88.ts
+http://s1.showplustv.com:1997/live/iptvtree2021/adAXCXhWuH9Mj515sda/51881.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="https://i.resimyukle.xyz/bxKy30.png" group-title="ÇOCUK KANALI", NICKELODEON HD
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/87.ts
+http://s1.showplustv.com:1997/live/iptvtree2021/adAXCXhWuH9Mj515sda/51880.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD" tvg-logo="https://i.resimyukle.xyz/dTRPQ2.png" group-title="ÇOCUK KANALI", DISNEY JR HD
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/91.ts
+http://s1.showplustv.com:1997/live/iptvtree2021/adAXCXhWuH9Mj515sda/51883.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://i.resimyukle.xyz/0aGQ6T.png" group-title="ÇOCUK KANALI", BABY TV
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/89.ts
+http://worldiptv.me:8080/live/carter/GUV1bMq2VK/21137.m3u8
 
 #EXTINF:-1 tvg-id="smartcocuk.tr" tvg-name="TR:COCUK SMART HD" tvg-logo="" group-title="ÇOCUK KANALI",COCUK SMART HD
 http://vip.cms-xtream.com:8080/live/DreamSkype2021/hP2LTZ2TV8/331.ts
