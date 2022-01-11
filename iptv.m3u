@@ -1,83 +1,83 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="Spor Kanali",BeIN Sports Haber
-http://bizimip.com:8000/live/live:brkamg/CboHauTOEr/1297.ts
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor Kanali" ,BeIN Sports UHD 1
+#EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI",BeIN Sports Haber
+https://pmpa.09fb1529840428.cdn.fdcservers.com/test/chann8/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports UHD 1
 http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3085.ts
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor Kanali" ,BeIN Sports FHD 1
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FHD 1
 http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3086.ts
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor Kanali" ,BeIN SPORTS 4K
-http://bizimip.com:8000/live/live:brkamg/CboHauTOEr/828.ts
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor Kanali" ,BeIN Sports(ZERO)
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN SPORTS 4K
+https://pmpa.09fb1529840428.cdn.fdcservers.com/test/chann2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports(ZERO)
 http://s1.showplustv.com:1997/live/iptvtree2021/adAXCXhWuH9Mj515sda/51915.ts
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor Kanali" ,BeIN Sports(FEED Yayın)
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports(FEED Yayın)
 http://server.sibfungold.info:8080/live/gaicu84/NeDlHL0bF1NeDlHL0bF1/469.ts
 
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor Kanali" ,Maç Saati Aktiv(1)
-http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/edweras78vcdgA4dGFDBVC/331793.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Maç Saati Aktiv(1)
+https://pmpa.09fb1529840428.cdn.fdcservers.com/test/chann35/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor Kanali" ,Maç Saati Aktiv(2) 
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Maç Saati Aktiv(2) 
 http://20.79.216.135/hls/yekportal.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="Spor Kanali" ,Maç Saati Aktiv(3)
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Maç Saati Aktiv(3)
 http://olmbenidarlamayinananizisikerim.oldstreaming.diyim.ananin.amina.sokalim.nolvadexpricescompare.com:80/nirvana5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="Spor Kanali",BeIN Sports HD 2
+#EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports HD 2
 http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3084.ts
 
 
-#EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="Spor Kanali",BeIN Sports HD 3
+#EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports HD 3
 http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3083.ts
 
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="Spor Kanali", BeIN Sports HD 4
+#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports HD 4
 http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3082.ts
 
 
 
-#EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="Spor Kanali",BEIN MAX 1 HD
+#EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SPOR KANALI",BEIN MAX 1 HD
 http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3081.ts
-#EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="Spor Kanali",BEIN MAX 2 HD
+#EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="SPOR KANALI",BEIN MAX 2 HD
 http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3080.ts
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="Spor Kanali",S SPORT HD 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="SPOR KANALI",S SPORT HD 1
 http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3079.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-2-tr.png" group-title="Spor Kanali",S SPORT HD 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-2-tr.png" group-title="SPOR KANALI",S SPORT HD 2
 http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3078.ts
 
-#EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="Spor Kanali",SMARTSPOR HD 1
+#EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="SPOR KANALI",SMARTSPOR HD 1
 http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3077.ts
-#EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="Spor Kanali",SMARTSPOR HD 2
+#EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="SPOR KANALI",SMARTSPOR HD 2
 http://bizimip.com:8000/live/live:brkamg/CboHauTOEr/216.ts
 
-#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="Spor Kanali",Tivibu Spor 1
+#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI",Tivibu Spor 1
 http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3075.ts
-#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="Spor Kanali",Tivibu Spor 2
+#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI",Tivibu Spor 2
 http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3074.ts
-#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="Spor Kanali", Tivibu Spor 3
+#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI", Tivibu Spor 3
 http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3073.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0O8xAZy.png" group-title="Spor Kanali", GS TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0O8xAZy.png" group-title="SPOR KANALI", GS TV HD
 http://bizimip.com:8000/live/live:brkamg/CboHauTOEr/471.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pkQxiS0.png" group-title="Spor Kanali", FB TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pkQxiS0.png" group-title="SPOR KANALI", FB TV HD
 http://bizimip.com:8000/live/live:brkamg/CboHauTOEr/526.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="Spor Kanali", A SPOR UHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR UHD
 http://bizimip.com:8000/live/live:brkamg/CboHauTOEr/387.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="Spor Kanali", A SPOR HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR HD
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="Spor Kanali", TRT SPOR 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="SPOR KANALI", TRT SPOR 1 HD
 https://mn-nl.mncdn.com/blutv_trtspor_dvr/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="Spor Kanali", TRT SPOR 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="SPOR KANALI", TRT SPOR 2 HD
 https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="Spor Kanali", Sports TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="SPOR KANALI", Sports TV HD
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
 
