@@ -223,63 +223,63 @@ http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/Simcae56s15vc23fk7asdcs1
 #EXTM3U
 
 #EXTINF:-1 tvg-name="Ntv tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_tr.png"tvg-id="" group-title="HABER KANALI",NTV HABER
-http://bizimip.com:8000/live/live:brkamg/CboHauTOEr/84.m3u8
+http://163.172.100.127:1991/live/EWESrtD2lX/st2xcRDz67pHcpSV/84383.ts
 
 #EXTINF:0 tvg-name="Ntv tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_tr.png"tvg-id="" group-title="HABER KANALI",NTV HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://mn-nl.mncdn.com/blutv_ntv_dvr/live.m3u8
 
 EXTINF:-1 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="HABER KANALI",CNN TÜRK
-http://bizimip.com:8000/live/live:brkamg/CboHauTOEr/24.m3u8
+http://163.172.100.127:1991/live/EWESrtD2lX/st2xcRDz67pHcpSV/84386.ts
 
 #EXTINF:0 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="HABER KANALI",CNN TÜRK
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live.m3u8
 
 #EXTINF:-1 tvg-name="Haber Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber_turk.png"tvg-id="" group-title="HABER KANALI",HABERTÜRK
-http://bizimip.com:8000/live/live:brkamg/CboHauTOEr/22.m3u8
+http://163.172.100.127:1991/live/EWESrtD2lX/st2xcRDz67pHcpSV/84380.ts
 
 #EXTINF:0 tvg-name="Haber Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber_turk.png"tvg-id="" group-title="HABER KANALI",HABERTÜRK
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://mn-nl.mncdn.com/blutv_haberturk_dvr/live.m3u8
 
 #EXTINF:0 tvg-name="Haber Global" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png"tvg-id="" group-title="HABER KANALI",HABER GLOBAL
-http://bizimip.com:8000/live/live:brkamg/CboHauTOEr/1108.m3u8
+https://stream-01.ix7.dailymotion.com:443/sec(JtO5HO8PrOFTKKYNhfGSpiErAZc5UxjuFzX3DfwCoGs)/dm/3/x81x3cd/s/live-2.m3u8
 
 #EXTINF:0 tvg-name="Haber Global" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png"tvg-id="" group-title="HABER KANALI",HABER GLOBAL
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live.m3u8
 
 #EXTINF:-1 tvg-name="Haber 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png"tvg-id="" group-title="HABER KANALI",HABER 24
-http://bizimip.com:8000/live/live:brkamg/CboHauTOEr/27.m3u8
+http://163.172.100.127:1991/live/EWESrtD2lX/st2xcRDz67pHcpSV/84377.ts
 
 #EXTINF:0 tvg-name="Haber 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png"tvg-id="" group-title="HABER KANALI",HABER 24
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://mn-nl.mncdn.com/blutv_kanal242/live.m3u8
 
 #EXTINF:-1 tvg-name="TRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_haber.png"tvg-id="" group-title="HABER KANALI",TRT HABER
-http://bizimip.com:8000/live/live:brkamg/CboHauTOEr/39.m3u8
+http://163.172.100.127:1991/live/EWESrtD2lX/st2xcRDz67pHcpSV/84382.ts
 
 #EXTINF:0 tvg-name="TRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_haber.png"tvg-id="" group-title="HABER KANALI",TRT HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://mn-nl.mncdn.com/blutv_trthaber_dvr/live.m3u8
 
 #EXTINF:-1 tvg-name="TGRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_haber.png"tvg-id="" group-title="HABER KANALI",TGRT HABER
-http://bizimip.com:8000/live/live:brkamg/CboHauTOEr/37.m3u8
+http://163.172.100.127:1991/live/EWESrtD2lX/st2xcRDz67pHcpSV/84376.ts
 
 #EXTINF:0 tvg-name="TGRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_haber.png"tvg-id="" group-title="HABER KANALI",TGRT HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://mn-nl.mncdn.com/blutv_tgrthaber2/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ulke_tv_tr.png"tvg-id="" group-title="HABER KANALI",ÜLKE TV
-http://s1.showplustv.com:1997/live/iptvtree2021/adAXCXhWuH9Mj515sda/51801.m3u8
+http://163.172.100.127:1991/live/EWESrtD2lX/st2xcRDz67pHcpSV/84371.ts
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ulke_tv_tr.png"tvg-id="" group-title="HABER KANALI",ÜLKE TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/halk_tv_tr.png"tvg-id="" group-title="HABER KANALI",HALK TV
-http://bizimip.com:8000/live/live:brkamg/CboHauTOEr/699.m3u8
+http://163.172.100.127:1991/live/EWESrtD2lX/st2xcRDz67pHcpSV/84374.ts
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/halk_tv_tr.png"tvg-id="" group-title="HABER KANALI",HALK TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
