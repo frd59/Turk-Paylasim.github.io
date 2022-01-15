@@ -337,7 +337,7 @@ https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 https://mn-nl.mncdn.com/blutv_trtcocuk2/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Minika Çocuk" tvg-logo="https://i.imgur.com/BXgsbWk.png" group-title="ÇOCUK KANALI", Minika Çocuk
-http://s1.showplustv.com:1997/live/iptvtree2021/adAXCXhWuH9Mj515sda/51884.ts
+http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/6857.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Minika Çocuk" tvg-logo="https://i.imgur.com/BXgsbWk.png" group-title="ÇOCUK KANALI" , Minika Çocuk
 http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
@@ -352,7 +352,7 @@ http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
 http://185.129.1.242:80/cartoonnetworkturk/mpegts
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/qYEVDbP.png" group-title="ÇOCUK KANALI" , Disney Channel
-http://s1.showplustv.com:1997/live/iptvtree2021/adAXCXhWuH9Mj515sda/51882.ts
+http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/6892.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Niyola TV" tvg-logo="https://i.imgur.com/0iUh0ib.png" group-title="ÇOCUK KANALI", Niloya TV
 https://nilotv.ozelip.com:3665/multi_web/play.m3u8
@@ -362,13 +362,13 @@ http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/1034.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://i.resimyukle.xyz/55LaOf.png" group-title="ÇOCUK KANALI", NICK JR
-http://s1.showplustv.com:1997/live/iptvtree2021/adAXCXhWuH9Mj515sda/51881.ts
+http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/6923.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="https://i.resimyukle.xyz/bxKy30.png" group-title="ÇOCUK KANALI", NICKELODEON HD
-http://s1.showplustv.com:1997/live/iptvtree2021/adAXCXhWuH9Mj515sda/51880.ts
+http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/6843.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD" tvg-logo="https://i.resimyukle.xyz/dTRPQ2.png" group-title="ÇOCUK KANALI", DISNEY JR HD
-http://s1.showplustv.com:1997/live/iptvtree2021/adAXCXhWuH9Mj515sda/51883.ts
+http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/8709.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://i.resimyukle.xyz/0aGQ6T.png" group-title="ÇOCUK KANALI", BABY TV
 http://worldiptv.me:8080/live/carter/GUV1bMq2VK/21137.m3u8
