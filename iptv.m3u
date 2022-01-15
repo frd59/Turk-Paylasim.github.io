@@ -412,27 +412,27 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe46
 http://195.142.1.213:1935/avtv/avtv/chunklist.m3u8
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",NATIONAL GEOGRAPHIC HD
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/112.ts
+http://163.172.100.127:1991/live/EWESrtD2lX/st2xcRDz67pHcpSV/84365.ts
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",NAT GEO WILD HD
 #EXTVLCOPT:http-user-agent=exoplayer-codelab
-http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/isbcgfegdf456vcvxv2v1fdsiscemse0a78x6s/179639.m3u8
+http://163.172.100.127:1991/live/EWESrtD2lX/st2xcRDz67pHcpSV/84364.ts
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",DISCOVERY CHANNEL HD
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/110.ts
+http://163.172.100.127:1991/live/EWESrtD2lX/st2xcRDz67pHcpSV/84368.ts
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",DISCOVERY SCIENCE HD
 #EXTVLCOPT:http-user-agent=stream
 http://194.40.240.171:83/play/n6AYe30oDXrMtonQt5mlcAnHo-C56fKT3vlqOA6mUp0hY8rzxm_GtKhmGKMjbnWTpkXEsVAEILXg8auNxdgMZMlAveOmvz4wsKYZczlTjstLgkASVErhruR3EWtSfvIEa3e-m2DvUNBzid0uSZLiXg?ext=.ts
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",DISCOVERY ID HD
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/106.ts
+http://163.172.100.127:1991/live/EWESrtD2lX/st2xcRDz67pHcpSV/84366.ts
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",DISCOVERY SHOWCASE HD
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/54c34a1d8f66450.m3u8
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",ANIMAL PLANET HD
 #EXTVLCOPT:http-user-agent=stream
-http://232santral.xruistream.com:8080/live/onurpehlivan/wtv2uyCdRE/498.m3u8
+http://163.172.100.127:1991/live/EWESrtD2lX/st2xcRDz67pHcpSV/84361.ts
 
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="BELGESEL",BBC EARTH HD
 #EXTVLCOPT:http-user-agent=exoplayer-codelab
