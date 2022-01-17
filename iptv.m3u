@@ -6,9 +6,9 @@ http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/wQgxmyvzKR5S/331793.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FHD 1
 http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/wQgxmyvzKR5S/331792.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN SPORTS 4K
-https://streamlivegroup.xyz:2096/hls/b1.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports(ZERO)
 http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/681951.ts
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports(ZERO)
+http://flus3pnl.xyz:25461/live/speedhdhd/acjQyHovsC/70869.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports(FEED Yayın)
 http://mtda.bluefish1.xyz:43666/live/albdream1/albdream2/300.ts
