@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI",BeIN Sports Haber
 http://163.172.100.127:1991/live/EWESrtD2lX/st2xcRDz67pHcpSV/84169.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports UHD 1
-http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3085.ts
+http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/wQgxmyvzKR5S/331793.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FHD 1
-http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3086.ts
+http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/wQgxmyvzKR5S/331792.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN SPORTS 4K
-http://163.172.100.127:1991/live/EWESrtD2lX/st2xcRDz67pHcpSV/84172.ts
+https://cdn1.sourcelive2.xyz:2096/hls/b1.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports(ZERO)
 http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/681951.ts
 
@@ -150,7 +150,7 @@ https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
 http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/8647.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-KANALLAR",TV8 FHD
-https://pmpa.09fb1529840428.cdn.fdcservers.com/test/chann24/chunklist.m3u8
+http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/wQgxmyvzKR5S/179504.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-KANALLAR",TV8 HD
 http://portal.zexo.site:8080/zero/zero/13
