@@ -109,7 +109,7 @@ http://portal.zexo.site:8080/zero/zero/8
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-KANALLAR",STAR TV FHD
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/4.m3u8
+http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/12834.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-KANALLAR",STAR TV HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -147,7 +147,7 @@ http://portal.zexo.site:8080/zero/zero/9
 https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-KANALLAR",TV8 UHD
-http://istanbul.tvizlehd.com:80/live/tv8720.m3u8
+http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/8647.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-KANALLAR",TV8 FHD
 https://pmpa.09fb1529840428.cdn.fdcservers.com/test/chann24/chunklist.m3u8
