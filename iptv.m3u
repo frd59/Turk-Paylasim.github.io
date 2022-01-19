@@ -261,7 +261,7 @@ https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
 https://mn-nl.mncdn.com/blutv_kanal242/live.m3u8
 
 #EXTINF:-1 tvg-name="TRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_haber.png"tvg-id="" group-title="HABER KANALI",TRT HABER
-http://163.172.100.127:1991/live/EWESrtD2lX/st2xcRDz67pHcpSV/84382.ts
+https://tv-trthaber.medya.trt.com.tr:443/master_1080.m3u8
 
 #EXTINF:0 tvg-name="TRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt_haber.png"tvg-id="" group-title="HABER KANALI",TRT HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
