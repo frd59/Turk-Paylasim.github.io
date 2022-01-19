@@ -233,7 +233,7 @@ https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
 https://mn-nl.mncdn.com/blutv_ntv2/live.m3u8
 
 EXTINF:-1 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="HABER KANALI",CNN TÜRK
-http://163.172.100.127:1991/live/EWESrtD2lX/st2xcRDz67pHcpSV/84386.ts
+https://live.duhnet.tv:443/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 
 #EXTINF:0 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="HABER KANALI",CNN TÜRK
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
