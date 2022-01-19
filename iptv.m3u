@@ -254,7 +254,7 @@ https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
 
 #EXTINF:-1 tvg-name="Haber 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png"tvg-id="" group-title="HABER KANALI",HABER 24
-http://163.172.100.127:1991/live/EWESrtD2lX/st2xcRDz67pHcpSV/84377.ts
+https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
 
 #EXTINF:0 tvg-name="Haber 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24-tv-tr.png"tvg-id="" group-title="HABER KANALI",HABER 24
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
