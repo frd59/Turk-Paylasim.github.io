@@ -282,7 +282,7 @@ http://163.172.100.127:1991/live/EWESrtD2lX/st2xcRDz67pHcpSV/84371.ts
 https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/halk_tv_tr.png"tvg-id="" group-title="HABER KANALI",HALK TV
-http://163.172.100.127:1991/live/EWESrtD2lX/st2xcRDz67pHcpSV/84374.ts
+https://halktv-live.ercdn.net:443/halktv/halktv_1080p.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/halk_tv_tr.png"tvg-id="" group-title="HABER KANALI",HALK TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
