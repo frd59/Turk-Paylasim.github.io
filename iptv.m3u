@@ -268,14 +268,14 @@ https://tv-trthaber.medya.trt.com.tr:443/master_1080.m3u8
 https://mn-nl.mncdn.com/blutv_trthaber2/live.m3u8
 
 #EXTINF:-1 tvg-name="TGRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_haber.png"tvg-id="" group-title="HABER KANALI",TGRT HABER
-http://163.172.100.127:1991/live/EWESrtD2lX/st2xcRDz67pHcpSV/84376.ts
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
 
 #EXTINF:0 tvg-name="TGRT Haber" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_haber.png"tvg-id="" group-title="HABER KANALI",TGRT HABER
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://mn-nl.mncdn.com/blutv_tgrthaber2/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ulke_tv_tr.png"tvg-id="" group-title="HABER KANALI",ÜLKE TV
-http://163.172.100.127:1991/live/EWESrtD2lX/st2xcRDz67pHcpSV/84371.ts
+http://iptvmasterlink.dyndns.org:8080/UlkeTv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/ulke_tv_tr.png"tvg-id="" group-title="HABER KANALI",ÜLKE TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
