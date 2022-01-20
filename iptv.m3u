@@ -42,7 +42,7 @@ http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/16006.m3u8
 http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/16005.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="SPOR KANALI",S SPORT HD 1
-http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3079.ts
+http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/8729.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-2-tr.png" group-title="SPOR KANALI",S SPORT HD 2
 http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3078.ts
 
@@ -52,11 +52,11 @@ http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3077
 https://pmpa.09fb1529840428.cdn.fdcservers.com/test/chann13/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI",Tivibu Spor 1
-http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3075.ts
+http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/8725.m3u8
 #EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI",Tivibu Spor 2
-http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3074.ts
+http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/8724.m3u8
 #EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI", Tivibu Spor 3
-http://visionmediaclub.online:25461/live/VisionCEpicinKodlar2021/Obi7UoEHJl/3073.ts
+http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/8723.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0O8xAZy.png" group-title="SPOR KANALI", GS TV HD
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/9936.m3u8
