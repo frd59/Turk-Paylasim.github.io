@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI",BeIN Sports Haber
 https://livesx.canlitv.center/beinsportshaber.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports UHD 1
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/dWXHhDdmaCophUvQ-yWwS0rzNbr41GuyKn041QHXBFq38xYYBSFhfwk740nZ0WZuV0plLi8fj_5RSwMLpGMeIg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_highlatency.m3u8?type=live
+http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/6908.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FHD 1
 http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/13232.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN SPORTS 4K
 http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/681951.ts
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports(ZERO)
-http://portal.zexo.site:8080/live/zero/zero/1.ts
+http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/623692.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports(FEED Yayın)
 http://portal.zexo.site:8080/live/zero/zero/5.ts
