@@ -1,14 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI",BeIN Sports Haber
 https://livesx.canlitv.center/beinsportshaber.m3u8
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports UHD 1
 http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/6908.ts
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FHD 1
 http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/13232.ts
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports HD 1
+http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/623692.ts
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN SPORTS 4K
 http://152.89.61.154:25461/live/spor/spor/2.ts
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports(ZERO)
-http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/623692.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports(FEED Yayın)
 http://11121314.org:8000/live/Exchange/Vjkfdbbnfdd/162818.ts
@@ -25,14 +29,11 @@ http://olmbenidarlamayinananizisikerim.oldstreaming.diyim.ananin.amina.sokalim.n
 #EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports HD 2
 http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/6907.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SPOR KANALI",BeIN Sports HD 3
 http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/6906.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SPOR KANALI", BeIN Sports HD 4
 http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/6905.m3u8
-
 
 
 #EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SPOR KANALI",BEIN MAX 1 HD
@@ -42,6 +43,7 @@ http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/16005.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="SPOR KANALI",S SPORT HD 1
 http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/8729.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-2-tr.png" group-title="SPOR KANALI",S SPORT HD 2
 http://probox.mio4ever.eu:7575/live/m1roxbr0x012/gs7z2Ghs51x8q/26500.m3u8
 
