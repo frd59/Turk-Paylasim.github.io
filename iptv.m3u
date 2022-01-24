@@ -150,10 +150,10 @@ https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
 http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/8647.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-KANALLAR",TV8 FHD
-http://mtda.bluefish1.xyz:43666/live/albdream1/albdream2/705.ts
+http://11121314.org:8000/live/Exchange/Vjkfdbbnfdd/162707.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-KANALLAR",TV8 HD
-http://probox.mio4ever.eu:7575/live/m1roxbr0x012/gs7z2Ghs51x8q/2638.m3u8
+http://11121314.org:8000/live/Exchange/Vjkfdbbnfdd/162723.ts
 
 #EXTINF:0 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",TV8.5 UHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
