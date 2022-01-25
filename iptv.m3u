@@ -18,7 +18,7 @@ http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/
 http://webtv360.org:2578/live/live:687aff41af3421a4/KJF4Rfretjc13tghp/392.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Maç Saati Aktiv(1)
-https://pmpa.09fb1529840428.cdn.fdcservers.com/test/chann35/chunklist.m3u8
+http://152.89.61.154:25461/live/spor/spor/2.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Maç Saati Aktiv(2) 
 https://pmpa.09fb1529840428.cdn.fdcservers.com/test/chann2/chunklist.m3u8
