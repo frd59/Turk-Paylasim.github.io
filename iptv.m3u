@@ -103,7 +103,7 @@ https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
 
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",ATV HD
-http://portal.zexo.site:8080/zero/zero/8
+http://webtv360.org:2578/live/live:687aff41af3421a4/KJF4Rfretjc13tghp/415.ts
 
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-KANALLAR",STAR TV UHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -124,7 +124,7 @@ http://93.157.62.180/KanalD/index.m3u8
 https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",KANAL D HD
-http://portal.zexo.site:8080/zero/zero/11
+http://webtv360.org:2578/live/live:687aff41af3421a4/KJF4Rfretjc13tghp/398.ts
 
 #EXTINF:0 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",SHOW TV UHD
 http://93.157.62.180/ShowTV/index.m3u8
@@ -141,7 +141,7 @@ https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 http://93.157.62.180/FoxTurk/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-KANALLAR",FOX TV FHD
-http://portal.zexo.site:8080/zero/zero/9
+http://webtv360.org:2578/live/live:687aff41af3421a4/KJF4Rfretjc13tghp/1834.ts
 
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-KANALLAR",FOX TV HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
