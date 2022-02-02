@@ -211,17 +211,17 @@ http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 2
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281455.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 3
-http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/Simcae56s15vc23fk7asdcs1d/329941.m3u8
+http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/wQgxmyvzKR5S/349759.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 4
-http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/Simcae56s15vc23fk7asdcs1d/329943.m3u8
+http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/wQgxmyvzKR5S/349768.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 5
-http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/Simcae56s15vc23fk7asdcs1d/329945.m3u8
+http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/wQgxmyvzKR5S/349770.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 6
-http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/Simcae56s15vc23fk7asdcs1d/329947.m3u8
+http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/wQgxmyvzKR5S/349771.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 7
-http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/Simcae56s15vc23fk7asdcs1d/331830.m3u8
+http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/wQgxmyvzKR5S/349772.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 8
-http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/Simcae56s15vc23fk7asdcs1d/331831.m3u8
+http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/wQgxmyvzKR5S/349773.m3u8
 
 
 #EXTM3U
@@ -812,7 +812,7 @@ https://vizyontv.yayin.com.tr/yesilcam-nostalji-tv/yesilcam-nostalji-tv/chunklis
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA KANALLARI" logo="https://1.bp.blogspot.com/-qu5nrKmxTyU/X4ieG2ybniI/AAAAAAAAPUY/5ZVaZOVoCE8MsT0CcUevo-Suk7qucaRqACLcBGAsYHQ/s462/afyonturk.png", AFYON TURK HD
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-name="TELE ON TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/67ef93d5-84cc-4995-a74e-cd0e87661ef7.png" group-title="SİNEMA KANALLARI",TELE ON ᴴᴰ
-https://streaming.netdirekt.com.tr:443/35757/msyapi/teleontv_nowmediagroup_digitalplatform/chunks.m3u8
+https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_nowmediagroup_digitalplatform_/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="TR: BTV MOVIES 1 HD" tvg-logo="" group-title="SİNEMA KANALLARI",TR: BTV MOVIES 1 HD
 http://worldiptv.me:8080/carter/GUV1bMq2VK/42773
