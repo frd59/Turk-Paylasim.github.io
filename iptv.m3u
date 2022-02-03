@@ -85,7 +85,7 @@ https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
 #EXTM3U
 #EXTINF:0 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-KANALLAR",TRT 4K UHD
-http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/wQgxmyvzKR5S/350106.m3u8
+http://play.iptivihd.org:80/live/HKucukVision2022@QwEFT/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/50857.m3u8
 
 #EXTINF:0 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-KANALLAR",TRT 4K FHD
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1810.m3u8
