@@ -9,13 +9,13 @@ http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/6908.ts
 http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/13232.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports HD 1
-http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/wQgxmyvzKR5S/321342.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN SPORTS 4K
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1735.ts
 
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN SPORTS 4K
+http://iptvsmarters.icu:25461/live/68dygl.,/mMsB56ekEj/10313.ts
+
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports(FEED Yayın)
-http://webtv360.org:2578/live/live:687aff41af3421a4/KJF4Rfretjc13tghp/392.ts
+http://iptvsmarters.icu:25461/live/68dygl.,/mMsB56ekEj/10311.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Maç Saati Aktiv(1)
 http://dndwrmlojcmyp6og4ucstk.m8u.newnow.me:80/live/dash.php?z=111&u=YqDcKggeCL&s=176467174616&id=79312&t=live&f=ts
