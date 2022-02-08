@@ -1537,3 +1537,294 @@ http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/57791
 http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/56816
 #EXTINF:-1 group-title="TR| TURQUIE" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-turk/suryoyosat.png" ,TR| SURYOYO SAT
 http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/56817
+
+
+#EXTM3U
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/PICON/entrepicon.png" ,=DE= DEUTSCHLAND =DE=
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58141
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/ardalphahd.png" tvg-id="ARD-alpha.de" ,DE| RTL ZWEI FULL HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58142
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/zdfhd.png" tvg-id="ZDF.de" ,DE| ZDF
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58143
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/zdfhd.png" tvg-id="ZDF.de" ,DE| ZDF HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58144
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/rtl.png" tvg-id="RTL.de" ,DE| RTL HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58145
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/rtl2-clavecloha.png" tvg-id="RTL2.de" ,DE| RTL II
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58146
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/rtlplus.png" tvg-id="RTLPlus.de" ,DE| RTL PLUS
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58148
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/prosiebenhd.png" tvg-id="Pro7.de" ,DE| PRO 7 HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58150
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/sat1goldhd.png" tvg-id="Sat1Gold.de" ,DE| SAT 1 GOLD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58152
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/voxhd.png" tvg-id="Vox.de" ,DE| VOX HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58154
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/prosiebenmaxxhd.png" tvg-id="ProSiebenMaxx.de" ,DE| PRO 7 MAXX
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58155
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/kabeleinshd.png" tvg-id="Kabel1.de" ,DE| KABEL 1 HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58156
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/tele5hd.png" tvg-id="Tele5.de" ,DE| TELE 5 HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58157
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/dmaxhd.png" ,DE| MAX PREMIERE
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58161
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/artehd.png" tvg-id="ARTE.de" ,DE| ARTE HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58162
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/ndrhd.png" tvg-id="ndr.de" ,DE| NDR HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58163
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/ntvhd.png" tvg-id="ntv.de" ,DE| N-TV HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58167
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/deluxemusichd.png" tvg-id="DeLuxeMusic.de" ,DE| DELUX MUSIC HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58168
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/xite.png" ,DE| XITE
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58170
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/kikahd.png" tvg-id="Kika.de" ,DE| KIKA-HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58172
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/nickelodeonhd.png" tvg-id="Nickelodeon.de" ,DE| NICKELODEON
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58174
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/spiegelgeschichtehd.png" tvg-id="SpiegelGeschichte.de" ,DE| SPIEGEL GESCHICHTE HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58175
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/tlchd.png" tvg-id="TLC.de" ,DE| TLC HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58177
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/kabeleinsdoku.png" tvg-id="KabelEinsDoku.de" ,DE| KABEL EINS DOKU
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58180
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/kabeleinsclassicshd.png" tvg-id="KabelEinsClassic.de" ,DE| KABEL 1 CLASSIC HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58181
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/welt.png" tvg-id="WeltDerWunder.de" ,DE| WELT DER WUNDER
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58183
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/automotorsporthd.png" tvg-id="AutoMotorundSportChannel.de" ,DE| AUTO MOTOR SPORT HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58184
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/zdfneo.png" tvg-id="ZDFneo.de" ,DE| ZDF NEO
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58186
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/onehd.png" tvg-id="One.de" ,DE| ONE HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58187
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/anixe.png" tvg-id="Anixe.de" ,DE| ANIXE HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58191
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/DAS%20ERSTE.png" tvg-id="ARD.de" ,DE | DAS ERSTE
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231072
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/3SAT%20HD.png" tvg-id="3sat.de" ,DE | 3SAT
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231071
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/SAT%201%20HD.png" tvg-id="Sat1.de" ,DE | SAT 1
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231070
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/SIXX%20HD.png" tvg-id="Sixx.de" ,DE | SIXX
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231069
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/WDR%20HD.png" tvg-id="WDR.de" ,DE | WDR HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231067
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/SWR%20HD.png" tvg-id="SWR.de" ,DE | SWR
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231066
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/SRF%201.png" tvg-id="SRFernsehen.de" ,DE | SRF 1
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231062
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/ATV.png" ,DE | ATV
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231061
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/PHOENIX.png" tvg-id="phoenix.de" ,DE | PHOENIX
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231058
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/TAGESCHAU%2024.png" tvg-id="tagesschau24.de" ,DE | TAGESCHAU 24
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231056
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/PRO%207%20FUN%20HD.png" ,DE | PRO7 FUN
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231055
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/PRO%207%20MAXX.png" ,DE | PRO7 MAXX
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231054
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/NICKTOONS.png" tvg-id="Nickelodeon.de" ,DE | NICKTOONS
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231049
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/PLANET%20HD.png" tvg-id="PLANET.de" ,DE | PLANET
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231041
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/GEO%20TV.png" ,DE | UNIVERSAL CHANNEL
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231037
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/CLASSICA.png" tvg-id="KabelEinsClassic.de" ,DE | CLASSICA
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231030
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/servustv.png" tvg-id="ServusHD.de" ,DE| SERVUS TV
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58196
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/PICON/entrepicon.png" ,=DE= SKY SKI CINEMA =DE=
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58202
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skycinema.png" tvg-id="SkyCinema.de" ,DE| SKY CINEMA HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58203
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skycinemaplus1hd.png" tvg-id="SkyCinemaPlus1.de" ,DE| SKY CINEMA +1 HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58204
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skycinemaplus24hd-wispelutri.png" tvg-id="SkyCinemaPlus24.de" ,DE| SKY CINEMA +24 HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58205
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/sky1hd.png" tvg-id="Sky1.de" ,DE| SKY 1 HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58206
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skycinemaaction-wispelutri.png" tvg-id="SkyHits.de" ,DE| SKY CINEMA HITS
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58207
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skycinemaaction-wispelutri.png" tvg-id="SkyAction.de" ,DE| SKY ACTION HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58208
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skycinemacomedyhd.png" tvg-id="SkyComedy.de" ,DE| SKY COMEDY
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58209
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skycinemafamilyhd.png" tvg-id="SkyFamily.de" ,DE| SKY CINEMA FAMILY
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58210
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/kinowelttvhd.png" tvg-id="Kinowelt.de" ,DE| SKY KINOWELT TV
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58212
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/SKY%201%20HD.png" tvg-id="Sky1.de" ,DE | SKY ONE
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231219
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/Sky%20Cinema%20Premieren.png" tvg-id="SkyCinema.de" ,DE | SKY CINEMA PREMIEREN
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231218
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/SKY%20CINEMA%20PREMIEREN%2024.png" tvg-id="SkyCinemaPlus24.de" ,DE | SKY CINEMA PREMIEREN 24
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231217
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/SKY%20CINEMA%20BEST%20OF.png" tvg-id="SkyCinemaSpecial.de" ,DE | SKY CINEMA BEST OF
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231214
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/SKY%20KRIMI.png" tvg-id="SkyKrimi.de" ,DE | SKY KRIMI
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231211
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/SKY%20ATLANTIC%20HD.png" tvg-id="SkyAtlanticHD.de" ,DE | SKY ATLANTIC
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231210
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/skyselect.png" tvg-id="SkySport1.de" ,DE | SKY SELECT PREMIERE 1
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231198
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/skyselect.png" tvg-id="SkySelect4.de" ,DE | SKY SELECT PREMIERE 4
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231195
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/skyselect.png" tvg-id="SkySelect5.de" ,DE | SKY SELECT PREMIERE 5
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231194
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/skyselect.png" tvg-id="SkySelect8.de" ,DE | SKY SELECT PREMIERE 8
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231191
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/EAGLE%20CINEMA.png" ,DE | EAGLE CINEMA THRILLER
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231181
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/HEIMAT%20KANAL.png" ,DE |  SONY
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231000
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/TNT%20FILM%20%28TCM%29.png" tvg-id="TNTFilm.de" ,DE | TNT FILM
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231220
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/13thstreethd.png" tvg-id="13thStreet.de" ,DE| 13TH STREET HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58214
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/foxhd.png" tvg-id="Fox.de" ,DE| SKY FOX
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58216
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/discoverychannel.png" tvg-id="DiscoveryChannel.de" ,DE| DISCOVERY CHANNEL
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58218
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/nationalgeographichd.png" tvg-id="NatGeoWild.de" ,DE| NAT GEO WILD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58219
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/nationalgeographichd.png" tvg-id="NatGeo.de" ,DE| NATIONAL GEO HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58220
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skyatlantichd.png" tvg-id="SkyAtlantic.de" ,DE| SKY ATLANTIC HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58221
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/axnhd.png" tvg-id="AXN.de" ,DE| AXN HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58222
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/rtlcrimehd.png" tvg-id="RTLCrime.de" ,DE| RTL CRIME
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58224
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/rtllivinghd.png" tvg-id="RTLLiving.de" ,DE| RTL LIVING
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58225
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/universaltvhd.png" tvg-id="Universal.de" ,DE| UNIVERSAL HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58226
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/rtlpassionhd.png" tvg-id="RTLPassion.de" ,DE| RTL PASSION
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58227
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/romancetvhd.png" tvg-id="Romance.de" ,DE| ROMANCE TV
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58228
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/historyhd.png" tvg-id="History.de" ,DE| HISTORY CHANNEL
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58229
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/tntseriehd.png" tvg-id="TNTSerie.de" ,DE| SKY TNT SERIE HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58230
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/spiegelgeschichtehd.png" tvg-id="SpiegelTVWissen.de" ,DE| SPIEGEL TV WISSEN HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58231
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/syfyhd.png" tvg-id="Syfy.de" ,DE| SKY SYFY HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58232
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/tntcomedyhd.png" tvg-id="TNTComedy.de" ,DE| TNT COMEDY HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58234
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/crimeandinvestigationhd.png" tvg-id="CrimeInvestigation.de" ,DE| Crime +Investigation
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58235
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/disneyjuniorhd.png" tvg-id="DisneyJunior.de" ,DE| DISNEY JUNIOR
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58237
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/junior.png" tvg-id="Junior.de" ,DE| JUNIOR
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58238
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/boomeranghd.png" tvg-id="Boomerang.de" ,DE| BOOMERANG
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58239
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skycinema.png" tvg-id="SkyCinemaSpezial.de" ,DE| SKY CINEMA SPECIAL HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58240
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/cartoonnetworkhd.png" tvg-id="CartoonNetwork.de" ,DE| CARTOON NETWORK
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58241
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/PICON/entrepicon.png" ,=DE= SPORT =DE=
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58242
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/SPORT%20DIGITAL%20HD.png" ,DE | SPORTDIGITAL
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231230
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/DAZN%20SPORT%202.png" ,DE | DAZN SPORT 2
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/231228
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportnewshd.png" tvg-id="SkySportNews.de" ,DE| SKY SPORT NEWS HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58243
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga1hd.png" tvg-id="SkyBundesliga1.de" ,DE| SKY BUNDESLIGA 1 HD (Match Time)
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58244
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga2hd.png" tvg-id="SkyBundesliga2.de" ,DE| SKY BUNDESLIGA 2 HD (Match Time)
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58245
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga4hd.png" tvg-id="SkyBundesliga4.de" ,DE| SKY BUNDESLIGA 4 HD (Match Time)
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58247
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga5hd.png" tvg-id="SkyBundesliga5.de" ,DE| SKY BUNDESLIGA 5 HD (Match Time)
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58248
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga6hd.png" tvg-id="SkyBundesliga6.de" ,DE| SKY BUNDESLIGA 6 HD (Match Time)
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58249
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga7hd.png" tvg-id="SkyBundesliga7.de" ,DE| SKY BUNDESLIGA 7 HD (Match Time)
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58250
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga8hd.png" tvg-id="SkyBundesliga8.de" ,DE| SKY BUNDESLIGA 8 HD (Match Time)
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58251
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga9hd.png" tvg-id="SkyBundesliga9.de" ,DE| SKY BUNDESLIGA 9 HD (Match Time)
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58252
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga10hd.png" tvg-id="SkyBundesliga10.de" ,DE| SKY BUNDESLIGA 10 HD (Match Time)
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58253
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga1hd.png" tvg-id="SkyBundesliga1.de" ,DE| SKY BUNDESLIGA 1 (Match Time)
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58254
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga2hd.png" tvg-id="SkyBundesliga2.de" ,DE| SKY BUNDESLIGA 2 (Match Time)
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58255
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga4hd.png" tvg-id="SkyBundesliga4.de" ,DE| SKY BUNDESLIGA 4 (Match Time)
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58257
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga5hd.png" tvg-id="SkyBundesliga5.de" ,DE| SKY BUNDESLIGA 5 (Match Time)
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58258
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga6hd.png" tvg-id="SkyBundesliga6.de" ,DE| SKY BUNDESLIGA 6 (Match Time)
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58259
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga7hd.png" tvg-id="SkyBundesliga7.de" ,DE| SKY BUNDESLIGA 7 (Match Time)
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58260
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga8hd.png" tvg-id="SkyBundesliga8.de" ,DE| SKY BUNDESLIGA 8 (Match Time)
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58261
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportbundesliga10hd.png" tvg-id="SkyBundesliga10.de" ,DE| SKY BUNDESLIGA 10 (Match Time)
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58263
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysport1hd.png" tvg-id="SkySport1.de" ,DE| SKY SPORT 1 HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58264
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysport2hd.png" tvg-id="SkySport2.de" ,DE| SKY SPORT 2 HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58265
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysport3hd.png" ,DE| SKY SPORT 3 HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58266
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysport4hd.png" ,DE| SKY SPORT 4 HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58267
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysport5hd.png" ,DE| SKY SPORT 5 HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58268
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysport6hd.png" ,DE| SKY SPORT 6 HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58269
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysport7hd.png" ,DE| SKY SPORT 7 HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58270
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysport8hd.png" ,DE| SKY SPORT 8 HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58271
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysport1hd.png" tvg-id="SkySport1.de" ,DE| SKY SPORT 1
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58275
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysport2hd.png" tvg-id="SkySport2.de" ,DE| SKY SPORT 2
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58276
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysport3hd.png" tvg-id="SkySport3.de" ,DE| SKY SPORT 3
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58277
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysport4hd.png" tvg-id="SkySport4.de" ,DE| SKY SPORT 4
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58278
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysport5hd.png" tvg-id="SkySport5.de" ,DE| SKY SPORT 5
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58279
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysport6hd.png" tvg-id="SkySport6.de" ,DE| SKY SPORT 6
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58280
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysport7hd.png" tvg-id="SkySport7.de" ,DE| SKY SPORT 7
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58281
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysport8hd.png" tvg-id="SkySport8.de" ,DE| SKY SPORT 8
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58282
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skysportaustriahd.png" tvg-id="SkySportAustria.de" ,DE| SKY SPORT AUSTRIA HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58286
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/eurosport1hd.png" tvg-id="Eurosport1.de" ,DE| EUROSPORT 1 HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58287
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/eurosport2hd.png" tvg-id="Eurosport2.de" ,DE| EUROSPORT 2 HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58288
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/eurosport2hdxtra.png" tvg-id="Eurosport2Xtra.de" ,DE| EUROSPORT 2 HD XTRA ( BULI )
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58289
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/sport1hd-wispelutri.png" tvg-id="Sport1.de" ,DE| SPORT 1 HD
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58291
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/sport1plushd-wispelutri.png" tvg-id="Sport1HD.de" ,DE| SPORT 1 PLUS
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58292
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/fcbayerntv.png" tvg-id="FCBayernTV.de" ,DE| FC BAYERN TV
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58294
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/motorvisiontvhd.png" tvg-id="MotorVision.de" ,DE| MOTORVISION TV
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58295
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skyselecthd-wispelutri.png" tvg-id="SkySelect1.de" ,DE| SKY SELECT HD 1 (Match Time)
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58296
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skyselecthd-wispelutri.png" tvg-id="SkySelect2.de" ,DE| SKY SELECT HD 2 (Match Time)
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58297
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skyselecthd-wispelutri.png" tvg-id="SkySelect3.de" ,DE| SKY SELECT HD 3 (Match Time)
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58298
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" ,=DE= SKY SELECT LIVE =DE=
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58301
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skyselecthd-wispelutri.png" tvg-id="SkySelect6.de" ,DE| SKY SELECT HD 6 (Match Time)
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58303
+#EXTINF:-1 group-title="DE| DEUTSCHLAND" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-deutch/alpha/skyselecthd-wispelutri.png" tvg-id="SkySelect7.de" ,DE| SKY SELECT HD 7 (Match Time)
+http://foxx-tv.com:9600/EsX15BWAxg1duRR/gr7qvc0yezp2v3V/58304
