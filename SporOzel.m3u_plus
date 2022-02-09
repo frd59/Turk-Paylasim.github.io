@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="bein spor haber hd" tvg-logo="https://bit.ly/302Lfmo",BeIN Sports Haber
+https://livesx.canlitv.center/beinsportshaber.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet",BeIN Sports UHD 1
+http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/6908.ts
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet",BeIN Sports FHD 1
+http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/13232.ts
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet",BeIN Sports HD 1
+http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1735.ts
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet",BeIN SPORTS 4K
+http://21929815.rossteleccom.net:80/iptv/ZA9N4BRQTKCS9V/6781/index.ts
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet",BeIN Sports(FEED YAYIN)
+http://server.sibfungold.info:8080/live/gaicu84/iVMawDNfwV@/469.ts
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet",BeIN Sports (ÖZEL YAYIN) 
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/Z-8H0VnnltrTyPOqswS_t-jUZlZoDCFA64du42bzQ4spRRpEJtKLXDtPPl1wXZgWOFocrgmB8ir5beOYBWGhpQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet",BeIN Sports(Maç Saati1)
+http://olmbenidarlamayinananizisikerim.oldstreaming.diyim.ananin.amina.sokalim.nolvadexpricescompare.com:80/nirvana5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet",BeIN Sports-(Maç Saati2)
+http://iptvsmarters.icu:25461/live/68dygl.,/mMsB56ekEj/10312.ts
+
+#EXTINF:-1, tvg-logo="https://bit.ly/3f86zet",Beinsport 1 MAÇ SAATİ AKTİF
+http://klasman1.xyz/hls/b1.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="",BeIN Sports HD 2
+http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/6907.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="",BeIN Sports HD 3
+http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/6906.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="", BeIN Sports HD 4
+http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/6905.m3u8
+
+#EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="",BEIN MAX 1 HD
+http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/16006.m3u8
+
+#EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="",BEIN MAX 2 HD
+http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/16005.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="", A SPOR HD
+https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="",S SPORT HD 1
+http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/8729.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-2-tr.png" group-title="",S SPORT HD 2
+http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/10167.ts
+
+#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="",Tivibu Spor 1
+http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/8725.m3u8
+#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="",Tivibu Spor 2
+http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/8724.m3u8
+#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="", Tivibu Spor 3
+http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/8723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/39c4181dadabd0b0d7c5b6d5dba76695.png" group-title="",Tivibu Spor 4
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286778
+
+#EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="",SMARTSPOR HD 1
+http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/8739.m3u8
+#EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="",SMARTSPOR HD 2
+http://maveniptv.tv:2095/live/s9hboxksomka7a/s9hboxksomka7a2w/72382.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0O8xAZy.png" group-title="", GS TV HD
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/9936.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pkQxiS0.png" group-title="", FB TV HD
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/9937.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="", TRT SPOR 1 HD
+https://mn-nl.mncdn.com/blutv_trtspor_dvr/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="", TRT SPOR 2 HD
+https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="", Sports TV HD
+https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPORT UHD 1
+http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281454.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPORT UHD 2
+http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281455.ts
