@@ -86,3 +86,21 @@ https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281454.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPORT UHD 2
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281455.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPORT UHD 1
+http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/R2FzEJEZgYZT/349748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPORT UHD 2
+http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/R2FzEJEZgYZT/349753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPORT UHD 3
+http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/R2FzEJEZgYZT/349759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPORT UHD 4
+http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/R2FzEJEZgYZT/349768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPORT UHD 5
+http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/R2FzEJEZgYZT/349770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPORT UHD 6
+http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/R2FzEJEZgYZT/349771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPORT UHD 7
+http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/R2FzEJEZgYZT/349772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPORT UHD 8
+http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/R2FzEJEZgYZT/349773.m3u8
