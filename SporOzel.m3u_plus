@@ -84,18 +84,18 @@ https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPOR UHD 1
-http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281454.ts
+https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/j-Ne3lW3yGF3eBXf59lPfAArAlLDG38BKLwlFf_5GqpHjq_3qAxZzgdtR5GYnpmfq_dS1ZZd3VvZxTSxD7YdkA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPOR FHD 1
 http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/R2FzEJEZgYZT/349748.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPOR HD 1
-http://iptvsmarters.icu:25461/live/68dygl.,/mMsB56ekEj/10305.ts
+https://prod-ec-ap-northeast-2.video.pscp.tv/Transcoding/v1/hls/y-66Hh3CVlwrGz0OxJrPIFIP8GGYCWOBZWEAMbbSJMx7j2iWcglSD3YN-iOgbuKG13cT0wAZZMlB8XAtY4RANg/transcode/ap-northeast-2/periscope-replay-direct-prod-ap-northeast-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPOR UHD 2
 http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/R2FzEJEZgYZT/349753.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPOR UHD 2
-http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281455.ts
+https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/ALaoW5FloHra2tNel9ex-1Yt6YtP3GqlEGeHz42z8wjMtise3HDRhC0m_strCOdsHDrBpMrD7tTv-44KmwhvRA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPOR HD 2
-http://iptvsmarters.icu:25461/live/68dygl.,/mMsB56ekEj/10306.ts
+https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/ALaoW5FloHra2tNel9ex-1Yt6YtP3GqlEGeHz42z8wjMtise3HDRhC0m_strCOdsHDrBpMrD7tTv-44KmwhvRA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPOR UHD 3
 http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/R2FzEJEZgYZT/349759.m3u8
