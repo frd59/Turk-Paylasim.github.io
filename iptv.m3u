@@ -92,7 +92,7 @@ http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/
 
 #EXTINF:0 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-KANALLAR",TRT 1 UHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://iptvsmarters.icu:25461/live/68dygl.,/mMsB56ekEj/10433.ts
+http://190.2.148.141:80/bar1102/index.m3u8
 
 #EXTINF:0 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-KANALLAR",TRT 1 FHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -116,7 +116,7 @@ http://portal.zexo.site:8080/live/canli/canli/8.m3u8
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-KANALLAR",STAR TV FHD
-http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/12834.m3u8
+http://190.2.148.141:80/bar1109/index.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-KANALLAR",STAR TV HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -157,7 +157,7 @@ https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
 http://ip.bosszx.net:80/live/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/37062.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-KANALLAR",TV8 FHD
-http://fasttvuk.com:2086/live/muhammad1/muhammad1/67294.ts
+http://190.2.148.141:80/bar1118/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-KANALLAR",TV8 HD
 http://portal.zexo.site:8080/live/canli/canli/13.m3u8
