@@ -200,7 +200,7 @@ https://mn-nl.mncdn.com/blutv_kanal7_dvr/live.m3u8
 https://mn-nl.mncdn.com/blutv_beyaztv_dvr/live.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg" group-title="ULUSAL-KANALLAR",SHOW MAX UHD
-https://aeonian-wage.000webhostapp.com/kanal/showmax.php
+http://190.2.148.141:80/bar1115/index.m3u8
 #EXTINF:0 tvg-name="Ntv tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",NTV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://mn-nl.mncdn.com/blutv_ntv_dvr/live.m3u8
