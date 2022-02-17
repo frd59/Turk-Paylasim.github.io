@@ -84,22 +84,19 @@ https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
 
 #EXTM3U
-#EXTINF:0 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-KANALLAR",TRT 4K UHD
+#EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-KANALLAR",TRT 4K UHD
 http://iptvsmarters.icu:25461/live/68dygl.,/mMsB56ekEj/10432.ts
 
-#EXTINF:0 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-KANALLAR",TRT 4K FHD
+#EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-KANALLAR",TRT 4K FHD
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1810.m3u8
 
-#EXTINF:0 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-KANALLAR",TRT 1 UHD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-KANALLAR",TRT 1 UHD
 http://93.157.62.180/TRT1/index.m3u8
 
-#EXTINF:0 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-KANALLAR",TRT 1 FHD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-KANALLAR",TRT 1 FHD
 https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
 
-#EXTINF:0 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-KANALLAR",TRT 1 HD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-KANALLAR",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",ATV UHD
@@ -112,45 +109,39 @@ https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
 http://portal.zexo.site:8080/live/canli/canli/8.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-KANALLAR",STAR TV UHD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-KANALLAR",STAR TV FHD
 http://190.2.148.141:80/bar1109/index.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-KANALLAR",STAR TV HD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",KANAL D UHD
 http://93.157.62.180/KanalD/index.m3u8
 
-#EXTINF:0 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",KANAL D FHD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",KANAL D FHD
 https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",KANAL D HD
 http://portal.zexo.site:8080/live/canli/canli/11.m3u8
 
-#EXTINF:0 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",SHOW TV UHD
+#EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",SHOW TV UHD
 http://93.157.62.180/ShowTV/index.m3u8
 
-#EXTINF:0 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",SHOW TV FHD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",SHOW TV FHD
 https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
 
-#EXTINF:0 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",SHOW TV HD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",SHOW TV HD
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 
-#EXTINF:0 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-KANALLAR",FOX TV UHD
+#EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-KANALLAR",FOX TV UHD
 http://93.157.62.180/FoxTurk/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-KANALLAR",FOX TV FHD
 http://portal.zexo.site:8080/live/canli/canli/9.m3u8
 
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-KANALLAR",FOX TV HD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-KANALLAR",TV8 UHD
@@ -162,53 +153,39 @@ http://190.2.148.141:80/bar1118/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-KANALLAR",TV8 HD
 http://portal.zexo.site:8080/live/canli/canli/13.m3u8
 
-#EXTINF:0 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",TV8.5 UHD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",TV8.5 UHD
 https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
 
-
-#EXTINF:0 tvg-name="TEVE2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",TEVE2 UHD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-name="TEVE2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",TEVE2 UHD
 https://mn-nl.mncdn.com/blutv_teve22/live.m3u8
 
-#EXTINF:0 tvg-name="ATV HD TR" tvg-logo="https://i.imgur.com/8t5aAVx.png" tvg-id="" group-title="ULUSAL-KANALLAR",ATV Avrupa 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://i.imgur.com/8t5aAVx.png" tvg-id="" group-title="ULUSAL-KANALLAR",ATV Avrupa 
 http://93.157.62.180/ATVTurk/index.m3u8
 
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-name="EUROSTAR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" group-title="ULUSAL-KANALLAR",EUROSTAR TV
 https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
 
-#EXTINF:0 tvg-name="Show Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_turk.png"tvg-id="" group-title="ULUSAL-KANALLAR",SHOW TÜRK UHD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-name="Show Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_turk.png"tvg-id="" group-title="ULUSAL-KANALLAR",SHOW TÜRK UHD
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 
-#EXTINF:0 tvg-name="EURO D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurod.png"tvg-id="" group-title="ULUSAL-KANALLAR",EURO D
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-name="EURO D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurod.png"tvg-id="" group-title="ULUSAL-KANALLAR",EURO D
 https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8
-#EXTINF:0 tvg-name="TV8 int" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr_international.png"tvg-id="" group-title="ULUSAL-KANALLAR",TV8 INT
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-name="TV8 int" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr_international.png"tvg-id="" group-title="ULUSAL-KANALLAR",TV8 INT
 https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="https://i.imgur.com/DDj2Edt.png" group-title="ULUSAL-KANALLAR", 360 TV UHD
 https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
-#EXTINF:0 tvg-name="KANAL 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal7_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",KANAL 7 UHD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-name="KANAL 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal7_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",KANAL 7 UHD
 https://mn-nl.mncdn.com/blutv_kanal7_dvr/live.m3u8
-#EXTINF:0 tvg-name="Beyaz tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",BEYAZ TV UHD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-name="Beyaz tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/beyaz_tv_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",BEYAZ TV UHD
 https://mn-nl.mncdn.com/blutv_beyaztv_dvr/live.m3u8
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/showmaxtr.jpg" group-title="ULUSAL-KANALLAR",SHOW MAX UHD
 http://190.2.148.141:80/bar1115/index.m3u8
-#EXTINF:0 tvg-name="Ntv tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",NTV
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-name="Ntv tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",NTV
 https://mn-nl.mncdn.com/blutv_ntv_dvr/live.m3u8
-#EXTINF:0 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="ULUSAL-KANALLAR",CNN TÜRK UHD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="ULUSAL-KANALLAR",CNN TÜRK UHD
 https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live.m3u8
-#EXTINF:0 tvg-name="Haber Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber_turk.png"tvg-id="" group-title="ULUSAL-KANALLAR",HABERTÜRK UHD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTINF:-1 tvg-name="Haber Türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber_turk.png"tvg-id="" group-title="ULUSAL-KANALLAR",HABERTÜRK UHD
 https://mn-nl.mncdn.com/blutv_haberturk_dvr/live.m3u8
 
 #EXTM3U
