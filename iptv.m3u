@@ -190,15 +190,15 @@ https://mn-nl.mncdn.com/blutv_haberturk_dvr/live.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPOR UHD 1
-http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281454.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPOR FHD 1
 http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/R2FzEJEZgYZT/349748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPOR FHD 1
+http://perasblancos3.xyz:80/fatih2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="EXXEN SPORT",EXXEN SPOR HD 1
 http://iptvsmarters.icu:25461/live/68dygl.,/mMsB56ekEj/10305.ts
-
+http://perasblancos3.xyz:80/fatih2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPOR UHD 2
 http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/R2FzEJEZgYZT/349753.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPOR UHD 2
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPOR FHD 2
 http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281455.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPOR HD 2
 http://iptvsmarters.icu:25461/live/68dygl.,/mMsB56ekEj/10306.ts
@@ -216,12 +216,12 @@ http://iptvsmarters.icu:25461/live/68dygl.,/mMsB56ekEj/10308.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPOR UHD 5
 http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/R2FzEJEZgYZT/349770.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPOR FHD 5
-http://iptvsmarters.icu:25461/live/68dygl.,/mMsB56ekEj/10309.ts
+http://iptvsmarters.icu:25461/live/68dygl.,/mMsB56ekEj/24652.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPOR UHD 6
 http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/R2FzEJEZgYZT/349771.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPOR FHD 6
-http://iptvsmarters.icu:25461/live/68dygl.,/mMsB56ekEj/10310.ts
+http://iptvsmarters.icu:25461/live/68dygl.,/mMsB56ekEj/24655.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPOR UHD 7
 http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/R2FzEJEZgYZT/349772.m3u8
