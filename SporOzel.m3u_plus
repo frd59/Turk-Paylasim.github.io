@@ -83,42 +83,72 @@ https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPOR UHD 1
-https://prod-ec-ap-northeast-2.video.pscp.tv/Transcoding/v1/hls/_LADhKKDdLo246OZ2vto1SXy6AGIGg3surVfK8qPx_UYbtcCFMDca46UrHNuxvGArrRem1x3lhTwmVTp09BfmA/transcode/ap-northeast-2/periscope-replay-direct-prod-ap-northeast-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPOR FHD 1
-http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/gCbWvqdxQ68L/349748.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPOR HD 1
-http://perasblancos4.xyz:80/fatih1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPOR UHD 2
-http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/gCbWvqdxQ68L/349753.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPOR FHD 2
-https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/J_tzwLxTssfE0lPCDlzPovxQ3wrkE5yn12XVf6IbaI8B0bkQq_IGkKaGAupJJWERVWEJcSgMU06kU_UFcGX47g/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPOR HD 2
-http://srvccc.tool7663bought.xyz/kaynakstreamradarco/selcukbein1app/naxi/caxi.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPOR UHD 3
-http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/gCbWvqdxQ68L/349759.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPOR FHD 3
-http://iptvsmarters.icu:25461/live/68dygl.,/mMsB56ekEj/10307.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPOR UHD 4
-http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/gCbWvqdxQ68L/349768.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPOR FHD 4
-http://iptvsmarters.icu:25461/live/68dygl.,/mMsB56ekEj/24652.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPOR UHD 5
-http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/gCbWvqdxQ68L/349770.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPOR FHD 5
-http://iptvsmarters.icu:25461/live/68dygl.,/mMsB56ekEj/24655.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPOR UHD 6
-http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/gCbWvqdxQ68L/349771.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPOR FHD 6
-http://iptvsmarters.icu:25461/live/68dygl.,/mMsB56ekEj/10310.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPOR UHD 7
-http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/gCbWvqdxQ68L/349772.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="",EXXEN SPOR UHD 8
-http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/gCbWvqdxQ68L/349773.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN FEED" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="",EXXEN FEED
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349740
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="",Exxen Spor 1 HD
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349741
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN FEED 1+" tvg-logo="https://i.hizliresim.com/6t7vh43.jpg" group-title="",EXXEN FEED 1+
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349742
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 1 HD+" tvg-logo="https://i.hizliresim.com/6t7vh43.jpg" group-title="",Exxen Spor 1 HD+
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349743
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 1 RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="",Exxen Spor 1 RAW
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349744
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="",EXXEN SPOR 1 HD
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349745
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 1 +UHD" tvg-logo="https://i.hizliresim.com/bazy0an.jpg" group-title="",TR: EXXEN SPOR 1 +UHD
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349746
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 1 HD" tvg-logo="https://i.hizliresim.com/bazy0an.jpg" group-title="",TR: EXXEN SPOR 1 HD
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349747
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 1 HD+" tvg-logo="https://i.hizliresim.com/6t7vh43.jpg" group-title="",TR: EXXEN SPOR 1 HD+
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349748
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 1 RAW" tvg-logo="https://i.hizliresim.com/stvsm3p.jpg" group-title="",Exxen Spor 1 RAW
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349749
+#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPOR 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="",TR:EXXEN SPOR 1
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349750
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="",Exxen Spor 2 HD
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349751
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="",TR: EXXEN SPOR 2
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349752
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 2 HD +" tvg-logo="https://i.hizliresim.com/bazy0an.jpg" group-title="",TR: EXXEN SPOR 2 HD +
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349753
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 2 HD+" tvg-logo="https://i.hizliresim.com/6t7vh43.jpg" group-title="",Exxen Spor 2 HD+
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349754
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 2 RAW" tvg-logo="https://i.hizliresim.com/stvsm3p.jpg" group-title="",Exxen Spor 2 RAW
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349755
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 2 RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="",Exxen Spor 2 RAW
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349756
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 2 HD+" tvg-logo="https://i.hizliresim.com/6t7vh43.jpg" group-title="",TR: EXXEN SPOR 2 HD+
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349757
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 3 HD +" tvg-logo="" group-title="",TR: EXXEN SPOR 3 HD +
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349758
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 3 RAW" tvg-logo="https://i.hizliresim.com/stvsm3p.jpg" group-title="",Exxen Spor 3 RAW
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349759
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="",Exxen Spor 3 HD
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349760
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 3 HD+" tvg-logo="https://i.hizliresim.com/6t7vh43.jpg" group-title="",Exxen Spor 3 HD+
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349761
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 3 RAW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="",Exxen Spor 3 RAW
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349762
+#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPOR 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="",TR:EXXEN SPOR 3
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349763
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 3HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="",EXXEN SPOR 3HD
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349764
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 3 HD+" tvg-logo="https://i.hizliresim.com/6t7vh43.jpg" group-title="",TR: EXXEN SPOR 3 HD+
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349765
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 4 HD+" tvg-logo="https://i.hizliresim.com/6t7vh43.jpg" group-title="",Exxen Spor 4 HD+
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349766
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="",Exxen Spor 4 HD
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349767
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 4 HD RAW +" tvg-logo="https://i.hizliresim.com/stvsm3p.jpg" group-title="",Exxen Spor 4 HD RAW +
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349768
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPOR 4 HD+" tvg-logo="https://i.hizliresim.com/6t7vh43.jpg" group-title="",TR: EXXEN SPOR 4 HD+
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349769
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 5 HD RAW+" tvg-logo="https://i.hizliresim.com/stvsm3p.jpg" group-title="",Exxen Spor 5 HD RAW+
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349770
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 6 HD RAW +" tvg-logo="https://i.hizliresim.com/stvsm3p.jpg" group-title="",Exxen Spor 6 HD RAW +
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349771
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 7 HD RAW +" tvg-logo="https://i.hizliresim.com/stvsm3p.jpg" group-title="",Exxen Spor 7 HD RAW +
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349772
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 8 HD RAW +" tvg-logo="https://i.hizliresim.com/stvsm3p.jpg" group-title="",Exxen Spor 8 HD RAW +
+http://eu.exxeniptv.net:8080/canlitvworldatacenter/gCbWvqdxQ68L/349773
