@@ -192,10 +192,10 @@ https://mn-nl.mncdn.com/blutv_haberturk_dvr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPOR UHD 1
 http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/gCbWvqdxQ68L/349748.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPOR FHD 1
-http://perasblancos3.xyz:80/fatih2/index.m3u8
+http://perasblancos4.xyz:80/fatih1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group- title="EXXEN SPORT",EXXEN SPOR HD 1
-http://iptvsmarters.icu:25461/live/68dygl.,/mMsB56ekEj/10305.ts
-http://perasblancos3.xyz:80/fatih2/index.m3u8
+https://prod-ec-ap-northeast-2.video.pscp.tv/Transcoding/v1/hls/_LADhKKDdLo246OZ2vto1SXy6AGIGg3surVfK8qPx_UYbtcCFMDca46UrHNuxvGArrRem1x3lhTwmVTp09BfmA/transcode/ap-northeast-2/periscope-replay-direct-prod-ap-northeast-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPOR UHD 2
 http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/gCbWvqdxQ68L/349753.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPOR FHD 2
