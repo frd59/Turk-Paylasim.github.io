@@ -1,6 +1,290 @@
 #EXTM3U
-
-
+#EXTINF:-1 tvg-id="NULL" tvg-name="[--- TÜRKIYE ULUSAL --]" tvg-logo="http://tv.iptvboss.net/ch_logo/Turkey2.png" group-title="|TR| TURK ULUSAL FHD/HD",[--- TÜRKIYE ULUSAL --]
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1780
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="|TR| ATV FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/ATVHDPLUS.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| ATV FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1779
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="|TR| ATV HD" tvg-logo="http://tv.iptvboss.net/ch_logo/ATVHDPLUS.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| ATV HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1778
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="|TR| KANAL D FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/KANALD.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| KANAL D FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1777
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="|TR| KANAL D HD" tvg-logo="http://tv.iptvboss.net/ch_logo/KANALD.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| KANAL D HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1776
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="|TR| STAR TV FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/145px-Star_TV_logosu.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| STAR TV FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1775
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="|TR| STAR TV HD" tvg-logo="http://tv.iptvboss.net/ch_logo/145px-Star_TV_logosu.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| STAR TV HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1774
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="|TR| SHOW TV FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/SHOWHD.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| SHOW TV FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1773
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="|TR| SHOW TV HD" tvg-logo="http://tv.iptvboss.net/ch_logo/SHOWHD.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| SHOW TV HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1772
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="|TR| TRT 1 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/TRT1HD.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| TRT 1 FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1771
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="|TR| TRT 1 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/TRT1HD.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| TRT 1 HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1770
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="|TR| FOX TV FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/foxtvyeni.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| FOX TV FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1769
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="|TR| FOX TV HD" tvg-logo="http://tv.iptvboss.net/ch_logo/foxtvyeni.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| FOX TV HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1768
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="|TR| TV8 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/TV8HDPLUS.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| TV8 FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1767
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="|TR| TV8 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/TV8HDPLUS.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| TV8 HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1766
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="|TR| TV 8.5 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/TV8.5HD.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| TV 8.5 FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1765
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="|TR| NTV FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/NTVHDPLUS.png" group-title="|TR| HABER FHD/HD",|TR| NTV FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1754
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="|TR| TEVE 2 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/teve_2_tr.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| TEVE 2 FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1764
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="|TR| A2 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/atv_tr_2.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| A2 FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1763
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="|TR| BEYAZ TV FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/BEYAZHDPLUS.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| BEYAZ TV FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/37457
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="|TR| KANAL 7 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/KANAL7.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| KANAL 7 FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1762
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="|TR| A2 H265" tvg-logo="http://tv.iptvboss.net/ch_logo/atv_tr_2.png" group-title="|TR| ULUSAL H.265/4K",|TR| A2 H265
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/37065
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="|TR| ATV H265" tvg-logo="http://tv.iptvboss.net/ch_logo/ATVHDPLUS.png" group-title="|TR| ULUSAL H.265/4K",|TR| ATV H265
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/37057
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="|TR| BEYAZ TV H265" tvg-logo="http://tv.iptvboss.net/ch_logo/BEYAZHDPLUS.png" group-title="|TR| ULUSAL H.265/4K",|TR| BEYAZ TV H265
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/37064
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="|TR| FOX TV H265" tvg-logo="http://tv.iptvboss.net/ch_logo/foxtvyeni.png" group-title="|TR| ULUSAL H.265/4K",|TR| FOX TV H265
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/37061
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="|TR| KANAL 7 H265" tvg-logo="http://tv.iptvboss.net/ch_logo/KANAL7.png" group-title="|TR| ULUSAL H.265/4K",|TR| KANAL 7 H265
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/37066
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="|TR| KANAL D H265" tvg-logo="http://tv.iptvboss.net/ch_logo/KANALD.png" group-title="|TR| ULUSAL H.265/4K",|TR| KANAL D H265
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/37060
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="|TR| SHOW TV H265" tvg-logo="http://tv.iptvboss.net/ch_logo/SHOWHD.png" group-title="|TR| ULUSAL H.265/4K",|TR| SHOW TV H265
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/37059
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="|TR| STAR TV H265" tvg-logo="http://tv.iptvboss.net/ch_logo/145px-Star_TV_logosu.png" group-title="|TR| ULUSAL H.265/4K",|TR| STAR TV H265
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/37058
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="|TR| TRT 1 H265" tvg-logo="http://tv.iptvboss.net/ch_logo/TRT1HD.png" group-title="|TR| ULUSAL H.265/4K",|TR| TRT 1 H265
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/37055
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| TRT 2 H265" tvg-logo="http://tv.iptvboss.net/ch_logo/trt-2-tr.png" group-title="|TR| ULUSAL H.265/4K",|TR| TRT 2 H265
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/37056
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="|TR| TV 8.5 H265" tvg-logo="http://tv.iptvboss.net/ch_logo/TV8.5HD.png" group-title="|TR| ULUSAL H.265/4K",|TR| TV 8.5 H265
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/37063
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="|TR| TV8 H265" tvg-logo="http://tv.iptvboss.net/ch_logo/TV8HDPLUS.png" group-title="|TR| ULUSAL H.265/4K",|TR| TV8 H265
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/37062
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="|TR| A HABER FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/ahaberplus.png" group-title="|TR| HABER FHD/HD",|TR| A HABER FHD/HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1860
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="|TR| HABERTURK FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/HABERTURKHDPLUS.png" group-title="|TR| HABER FHD/HD",|TR| HABERTURK FHD/HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1858
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="|TR| CNN TURK FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/CNNTURKHDPLUS.png" group-title="|TR| HABER FHD/HD",|TR| CNN TURK FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2033
+#EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="|TR| BLOOMBERG HT" tvg-logo="http://tv.iptvboss.net/ch_logo/bloomberg_ht.png" group-title="|TR| HABER FHD/HD",|TR| BLOOMBERG HT
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1847
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="|TR| SHOWMAX" tvg-logo="http://tv.iptvboss.net/ch_logo/SHOWMAX.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| SHOWMAX
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1760
+#EXTINF:-1 tvg-id="skyturk360.tr" tvg-name="|TR| 360 TV FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/360TVHDPLUS.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| 360 TV FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1759
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="|TR| TLC FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/TLC.png" group-title="|TR| BELGESEL FHD/HD",|TR| TLC FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1758
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| AKILLI TV" tvg-logo="http://tv.iptvboss.net/ch_logo/akilli_tv_tr.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| AKILLI TV
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1838
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| AKIT FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/akit_tv_tr.png" group-title="|TR| HABER FHD/HD",|TR| AKIT FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1818
+#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="|TR| CARTOON NETWORK" tvg-logo="http://tv.iptvboss.net/ch_logo/CARTOONNETWORK.png" group-title="|TR| COCUK FHD/HD",|TR| CARTOON NETWORK
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1835
+#EXTINF:-1 tvg-id="disneychannel.tr" tvg-name="|TR| DISNEY CHANNEL" tvg-logo="http://tv.iptvboss.net/ch_logo/DISNEYCHANNEL.png" group-title="|TR| COCUK FHD/HD",|TR| DISNEY CHANNEL
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1836
+#EXTINF:-1 tvg-id="minikacocuk.tr" tvg-name="|TR| MINIKA COCUK" tvg-logo="http://tv.iptvboss.net/ch_logo/MINIKACOCUK.png" group-title="|TR| COCUK FHD/HD",|TR| MINIKA COCUK
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1833
+#EXTINF:-1 tvg-id="minikago.tr" tvg-name="|TR| MINIKA GO" tvg-logo="http://tv.iptvboss.net/ch_logo/MINIKAGO.png" group-title="|TR| COCUK FHD/HD",|TR| MINIKA GO
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1834
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="|TR| TRT COCUK FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/TRTCOCUKHDPLUS.png" group-title="|TR| COCUK FHD/HD",|TR| TRT COCUK FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1832
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| CEM TV" tvg-logo="http://tv.iptvboss.net/ch_logo/CEMTV.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| CEM TV
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1814
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="|TR| HALK TV FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/HALKTV.png" group-title="|TR| HABER FHD/HD",|TR| HALK TV FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1850
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| KANAL 26 ESKISEHIR" tvg-logo="http://tv.iptvboss.net/ch_logo/kanal_26_tr.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| KANAL 26 ESKISEHIR
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1839
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| KANAL 3" tvg-logo="http://tv.iptvboss.net/ch_logo/KANAL3ISPARTA.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| KANAL 3
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1840
+#EXTINF:-1 tvg-id="kontv.tr" tvg-name="|TR| KONTV HD" tvg-logo="http://tv.iptvboss.net/ch_logo/KANAL42KONYA.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| KONTV HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1813
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| KANAL AVRUPA" tvg-logo="http://tv.iptvboss.net/ch_logo/KANALAVRUPA.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| KANAL AVRUPA
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1811
+#EXTINF:-1 tvg-id="kanalb.tr" tvg-name="|TR| KANAL B" tvg-logo="http://tv.iptvboss.net/ch_logo/KANALB.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| KANAL B
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1820
+#EXTINF:-1 tvg-id="dreamturk.tr" tvg-name="|TR| DREAM TURK" tvg-logo="http://tv.iptvboss.net/ch_logo/DREAMTURK.png" group-title="|TR| MUZIK FHD/HD",|TR| DREAM TURK
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1827
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| NICKTOONS" tvg-logo="http://tv.iptvboss.net/ch_logo/NICKELODEONHD.png" group-title="|TR| COCUK FHD/HD",|TR| NICKTOONS
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1828
+#EXTINF:-1 tvg-id="kralpop.tr" tvg-name="|TR| KRAL POP" tvg-logo="http://tv.iptvboss.net/ch_logo/KRALPOP.png" group-title="|TR| MUZIK FHD/HD",|TR| KRAL POP
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1830
+#EXTINF:-1 tvg-id="kraltv.tr" tvg-name="|TR| KRAL TV HD" tvg-logo="http://tv.iptvboss.net/ch_logo/KRALTV.png" group-title="|TR| MUZIK FHD/HD",|TR| KRAL TV HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1831
+#EXTINF:-1 tvg-id="powerturk.tr" tvg-name="|TR| POWERTURK FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/POWERTURKHDPLUS.png" group-title="|TR| MUZIK FHD/HD",|TR| POWERTURK FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1829
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| LALEGUL" tvg-logo="http://tv.iptvboss.net/ch_logo/lalegul-tv-tr.png" group-title="|TR| DIN",|TR| LALEGUL
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1842
+#EXTINF:-1 tvg-id="meltemtv.tr" tvg-name="|TR| MELTEM TV" tvg-logo="http://tv.iptvboss.net/ch_logo/meltem_tv_tr.png" group-title="|TR| DIN",|TR| MELTEM TV
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1846
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| TGRT EU FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/TGRTHABER.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| TGRT EU FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1848
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="|TR| TGRT HABER FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/TGRTHABER.png" group-title="|TR| HABER FHD/HD",|TR| TGRT HABER FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1856
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="|TR| TRT AVAZ" tvg-logo="http://tv.iptvboss.net/ch_logo/trt_avaz_tr.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| TRT AVAZ
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1825
+#EXTINF:-1 tvg-id="trtdiyanet.tr" tvg-name="|TR| TRT DIYANET FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/diyanet-tv-tr.png" group-title="|TR| DIN",|TR| TRT DIYANET FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1824
+#EXTINF:-1 tvg-id="trtmuzik.tr" tvg-name="|TR| TRT MUZIK" tvg-logo="http://tv.iptvboss.net/ch_logo/TRTMUZIKHDPLUS.png" group-title="|TR| MUZIK FHD/HD",|TR| TRT MUZIK
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1826
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| TRT 2 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/trt-2-tr.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| TRT 2 HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1822
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-name="|TR| TRT TURK" tvg-logo="http://tv.iptvboss.net/ch_logo/TRTTÜRK.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| TRT TURK
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1823
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| TV 5" tvg-logo="http://tv.iptvboss.net/ch_logo/TV5.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| TV 5
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1844
+#EXTINF:-1 tvg-id="tvnet.tr" tvg-name="|TR| TVNET FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/TVNETHDPLUS.png" group-title="|TR| HABER FHD/HD",|TR| TVNET FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1855
+#EXTINF:-1 tvg-id="ulketv.tr" tvg-name="|TR| ULKE TV FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/ulke_tv_tr.png" group-title="|TR| HABER FHD/HD",|TR| ULKE TV FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1852
+#EXTINF:-1 tvg-id="ulusalkanal.tr" tvg-name="|TR| ULUSAL TV" tvg-logo="http://tv.iptvboss.net/ch_logo/ULUSALKANAL.png" group-title="|TR| HABER FHD/HD",|TR| ULUSAL TV
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1851
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| VATAN TV" tvg-logo="http://tv.iptvboss.net/ch_logo/VATANTV.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| VATAN TV
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1816
+#EXTINF:-1 tvg-id="NULL" tvg-name="|BE| AKTIF TV BELCIKA FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/AKTİFTVLOGOYAYIN.png" group-title="|TR| TURK ULUSAL FHD/HD",|BE| AKTIF TV BELCIKA FHD/HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2038
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| CIFTCI TV" tvg-logo="http://tv.iptvboss.net/ch_logo/ciftci_tv_tr.png" group-title="|TR| BELGESEL FHD/HD",|TR| CIFTCI TV
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2050
+#EXTINF:-1 tvg-id="dosttv.tr" tvg-name="|TR| DOST TV" tvg-logo="http://tv.iptvboss.net/ch_logo/dost_tv_tr.png" group-title="|TR| DIN",|TR| DOST TV
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2037
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| MAVI KARADENIZ" tvg-logo="http://tv.iptvboss.net/ch_logo/MAVIKARADENIZ.png" group-title="|TR| MUZIK FHD/HD",|TR| MAVI KARADENIZ
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2040
+#EXTINF:-1 tvg-id="semerkandtv.tr" tvg-name="|TR| SEMERKAND FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/semerkand_tv.png" group-title="|TR| DIN",|TR| SEMERKAND FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2035
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| RUMELI" tvg-logo="http://tv.iptvboss.net/ch_logo/turkmeneli_tv.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| RUMELI
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2054
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| TV KAYSERI" tvg-logo="http://tv.iptvboss.net/ch_logo/TV 1KAYSERI.png" group-title="|TR| TURK ULUSAL FHD/HD",|TR| TV KAYSERI
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2056
+#EXTINF:-1 tvg-id="NULL" tvg-name="[--- TÜRKIYE BELGESEL ---]" tvg-logo="http://tv.iptvboss.net/ch_logo/Turkey2.png" group-title="|TR| BELGESEL FHD/HD",[--- TÜRKIYE BELGESEL ---]
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2116
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="|TR| TRT BELGESEL FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/TRTBELGESELHDPLUS.png" group-title="|TR| BELGESEL FHD/HD",|TR| TRT BELGESEL FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2052
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| TGRT BELGESEL" tvg-logo="http://tv.iptvboss.net/ch_logo/tgrt_belgesel.png" group-title="|TR| BELGESEL FHD/HD",|TR| TGRT BELGESEL
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2053
+#EXTINF:-1 tvg-id="davinci.tr" tvg-name="|TR| DA VINCI LEARNING FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/da-vinci-de.png" group-title="|TR| BELGESEL FHD/HD",|TR| DA VINCI LEARNING FHD/HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2108
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="|TR| DISCOVERY CHANNEL FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/DISCOVERYCHANNELHDPLUS.png" group-title="|TR| BELGESEL FHD/HD",|TR| DISCOVERY CHANNEL FHD/HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2115
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-name="|TR| HISTORY CHANNEL FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/HISTORYHD.png" group-title="|TR| BELGESEL FHD/HD",|TR| HISTORY CHANNEL FHD/HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2111
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="|TR| NATIONAL GEOGRAPHIC FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/NGCHD.png" group-title="|TR| BELGESEL FHD/HD",|TR| NATIONAL GEOGRAPHIC FHD/HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2106
+#EXTINF:-1 tvg-id="NULL" tvg-name="[--- TÜRKIYE SINEMA ---]" tvg-logo="http://tv.iptvboss.net/ch_logo/Turkey2.png" group-title="|TR| SiNEMA FHD/HD",[--- TÜRKIYE SINEMA ---]
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2101
+#EXTINF:-1 tvg-id="" tvg-name="|TR| YESIL SINEMA TV" tvg-logo="" group-title="|TR| SiNEMA FHD/HD",|TR| YESIL SINEMA TV
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2081
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 1 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/Boss 200x200.png" group-title="|TR| SiNEMA FHD/HD",|TR| BOSS MOVIES 1 HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2074
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 2 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/Boss 200x200.png" group-title="|TR| SiNEMA FHD/HD",|TR| BOSS MOVIES 2 HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2073
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 3 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/Boss 200x200.png" group-title="|TR| SiNEMA FHD/HD",|TR| BOSS MOVIES 3 HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2072
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 4 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/Boss 200x200.png" group-title="|TR| SiNEMA FHD/HD",|TR| BOSS MOVIES 4 HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2071
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 5 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/Boss 200x200.png" group-title="|TR| SiNEMA FHD/HD",|TR| BOSS MOVIES 5 HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2070
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 6 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/Boss 200x200.png" group-title="|TR| SiNEMA FHD/HD",|TR| BOSS MOVIES 6 HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2069
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 7 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/Boss 200x200.png" group-title="|TR| SiNEMA FHD/HD",|TR| BOSS MOVIES 7 HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2068
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 8 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/Boss 200x200.png" group-title="|TR| SiNEMA FHD/HD",|TR| BOSS MOVIES 8 HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2067
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 9 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/Boss 200x200.png" group-title="|TR| SiNEMA FHD/HD",|TR| BOSS MOVIES 9 HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2066
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES 10 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/Boss 200x200.png" group-title="|TR| SiNEMA FHD/HD",|TR| BOSS MOVIES 10 HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2065
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BOSS MOVIES KEMAL SUNAL" tvg-logo="http://tv.iptvboss.net/ch_logo/kemal.png" group-title="|TR| SiNEMA FHD/HD",|TR| BOSS MOVIES KEMAL SUNAL
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/19043
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="|TR| BEIN BOX OFFICE 1 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/BEIN Box Office.png" group-title="|TR| SiNEMA FHD/HD",|TR| BEIN BOX OFFICE 1 FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2095
+#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="|TR| BEIN BOX OFFICE 2 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/BEIN Box Office.png" group-title="|TR| SiNEMA FHD/HD",|TR| BEIN BOX OFFICE 2 FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2094
+#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="|TR| BEIN BOX OFFICE 3 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/BEIN Box Office.png" group-title="|TR| SiNEMA FHD/HD",|TR| BEIN BOX OFFICE 3 FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2093
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO ANiMASYON" tvg-logo="http://tv.iptvboss.net/ch_logo/ENOANIMASYON.png" group-title="|TR| COCUK FHD/HD",|TR| ENO ANiMASYON
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/7472
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| ENO TURK 1" tvg-logo="http://tv.iptvboss.net/ch_logo/Eno 200x106 orjinal.png" group-title="|TR| SiNEMA FHD/HD",|TR| ENO TURK 1
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/7789
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO ViZYON 1" tvg-logo="http://tv.iptvboss.net/ch_logo/Eno 200x106 orjinal.png" group-title="|TR| SiNEMA FHD/HD",|TR| ENO ViZYON 1
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/7757
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO ViZYON 2" tvg-logo="http://tv.iptvboss.net/ch_logo/Eno 200x106 orjinal.png" group-title="|TR| SiNEMA FHD/HD",|TR| ENO ViZYON 2
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/7760
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO ViZYON 3" tvg-logo="http://tv.iptvboss.net/ch_logo/Eno 200x106 orjinal.png" group-title="|TR| SiNEMA FHD/HD",|TR| ENO ViZYON 3
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/7767
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO ViZYON 4" tvg-logo="http://tv.iptvboss.net/ch_logo/Eno 200x106 orjinal.png" group-title="|TR| SiNEMA FHD/HD",|TR| ENO ViZYON 4
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/7768
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO ViZYON 5" tvg-logo="http://tv.iptvboss.net/ch_logo/Eno 200x106 orjinal.png" group-title="|TR| SiNEMA FHD/HD",|TR| ENO ViZYON 5
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/7773
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO ViZYON 6" tvg-logo="http://tv.iptvboss.net/ch_logo/Eno 200x106 orjinal.png" group-title="|TR| SiNEMA FHD/HD",|TR| ENO ViZYON 6
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/7774
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO ViZYON 7" tvg-logo="http://tv.iptvboss.net/ch_logo/Eno 200x106 orjinal.png" group-title="|TR| SiNEMA FHD/HD",|TR| ENO ViZYON 7
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/7776
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO ViZYON 8" tvg-logo="http://tv.iptvboss.net/ch_logo/Eno 200x106 orjinal.png" group-title="|TR| SiNEMA FHD/HD",|TR| ENO ViZYON 8
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/7783
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO ViZYON 9" tvg-logo="http://tv.iptvboss.net/ch_logo/Eno 200x106 orjinal.png" group-title="|TR| SiNEMA FHD/HD",|TR| ENO ViZYON 9
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/29064
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO ViZYON 10" tvg-logo="http://tv.iptvboss.net/ch_logo/Eno 200x106 orjinal.png" group-title="|TR| SiNEMA FHD/HD",|TR| ENO ViZYON 10
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/29063
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO ViZYON 11" tvg-logo="http://tv.iptvboss.net/ch_logo/Eno 200x106 orjinal.png" group-title="|TR| SiNEMA FHD/HD",|TR| ENO ViZYON 11
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/29062
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO ViZYON 12" tvg-logo="http://tv.iptvboss.net/ch_logo/Eno 200x106 orjinal.png" group-title="|TR| SiNEMA FHD/HD",|TR| ENO ViZYON 12
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/29061
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO ViZYON 13" tvg-logo="http://tv.iptvboss.net/ch_logo/Eno 200x106 orjinal.png" group-title="|TR| SiNEMA FHD/HD",|TR| ENO ViZYON 13
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/29060
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO ViZYON 14" tvg-logo="http://tv.iptvboss.net/ch_logo/Eno 200x106 orjinal.png" group-title="|TR| SiNEMA FHD/HD",|TR| ENO ViZYON 14
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/29059
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO ViZYON 15" tvg-logo="http://tv.iptvboss.net/ch_logo/Eno 200x106 orjinal.png" group-title="|TR| SiNEMA FHD/HD",|TR| ENO ViZYON 15
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/29058
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ENO WESTERN" tvg-logo="http://tv.iptvboss.net/ch_logo/Eno 200x106 orjinal.png" group-title="|TR| SiNEMA FHD/HD",|TR| ENO WESTERN
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/29057
+#EXTINF:-1 tvg-id="NULL" tvg-name="[-SPOR -]" tvg-logo="http://tv.iptvboss.net/ch_logo/Turkey2.png" group-title="|TR| SPOR FHD/HD",[-SPOR -]
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1810
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="|TR| BEINSPORTS HABER FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/BEINSPORTSHABERHDPLUS.png" group-title="|TR| SPOR FHD/HD",|TR| BEINSPORTS HABER FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1809
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="|TR| BEINSPORTS 1 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/BEINSPORTS.png" group-title="|TR| SPOR FHD/HD",|TR| BEINSPORTS 1 HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1808
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="|TR| BEINSPORTS 1 HD *" tvg-logo="http://tv.iptvboss.net/ch_logo/BEINSPORTS.png" group-title="|TR| SPOR FHD/HD",|TR| BEINSPORTS 1 HD *
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1807
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="|TR| BEINSPORTS 2 HD TR" tvg-logo="http://tv.iptvboss.net/ch_logo/BEINSPORT21.2MB.png" group-title="|TR| SPOR FHD/HD",|TR| BEINSPORTS 2 HD TR
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1804
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="|TR| BEINSPORTS 2 HD TR YEDEK" tvg-logo="http://tv.iptvboss.net/ch_logo/BEINSPORT21.2MB.png" group-title="|TR| SPOR FHD/HD",|TR| BEINSPORTS 2 HD TR YEDEK
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1803
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="|TR| BEINSPORTS 3 HD TR" tvg-logo="http://tv.iptvboss.net/ch_logo/BEINSPORT31.2MB.png" group-title="|TR| SPOR FHD/HD",|TR| BEINSPORTS 3 HD TR
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1802
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="|TR| BEINSPORTS 3 HD TR YEDEK" tvg-logo="http://tv.iptvboss.net/ch_logo/BEINSPORT31.2MB.png" group-title="|TR| SPOR FHD/HD",|TR| BEINSPORTS 3 HD TR YEDEK
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1801
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="|TR| BEINSPORTS 4 HD TR" tvg-logo="http://tv.iptvboss.net/ch_logo/BEINSPORT41.2MB.png" group-title="|TR| SPOR FHD/HD",|TR| BEINSPORTS 4 HD TR
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1800
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="|TR| BEIN SPORTS MAX 1 HD TR" tvg-logo="https://i.imgyukle.com/2021/06/09/O9a1DG.png" group-title="|TR| SPOR FHD/HD",|TR| BEIN SPORTS MAX 1 HD TR
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1798
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="|TR| BEIN SPORTS MAX 2 HD TR" tvg-logo="https://i.imgyukle.com/2021/06/09/O9a1DG.png" group-title="|TR| SPOR FHD/HD",|TR| BEIN SPORTS MAX 2 HD TR
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1797
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="|TR| EUROSPORT 1 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/EUROSPORT1HD.png" group-title="|TR| SPOR FHD/HD",|TR| EUROSPORT 1 HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1794
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="|TR| SARAN SPOR FHD (VIP)" tvg-logo="http://tv.iptvboss.net/ch_logo/SARANSPORTHD.png" group-title="|TR| SPOR FHD/HD",|TR| SARAN SPOR FHD (VIP)
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1796
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="|TR| SMART SPOR FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/SMARTSPOR.png" group-title="|TR| SPOR FHD/HD",|TR| SMART SPOR FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1795
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| TIVIBU SPOR HD" tvg-logo="http://tv.iptvboss.net/ch_logo/TIVIBUSPOR.png" group-title="|TR| SPOR FHD/HD",|TR| TIVIBU SPOR HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1793
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| TIVIBU SPOR 2 HD" tvg-logo="http://tv.iptvboss.net/ch_logo/TIVIBUSPOR.png" group-title="|TR| SPOR FHD/HD",|TR| TIVIBU SPOR 2 HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1792
+#EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="|TR| TIVIBU SPOR 2 FHD YEDEK" tvg-logo="http://tv.iptvboss.net/ch_logo/TIVIBUSPOR.png" group-title="|TR| SPOR FHD/HD",|TR| TIVIBU SPOR 2 FHD YEDEK
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1791
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| TIVIBU SPOR 3 FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/TIVIBUSPOR.png" group-title="|TR| SPOR FHD/HD",|TR| TIVIBU SPOR 3 FHD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1790
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="|TR| DMAX FHD/HD" tvg-logo="http://tv.iptvboss.net/ch_logo/DMAXHD.png" group-title="|TR| BELGESEL FHD/HD",|TR| DMAX FHD/HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1788
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| GS TV" tvg-logo="http://tv.iptvboss.net/ch_logo/GSTV.png" group-title="|TR| SPOR FHD/HD",|TR| GS TV
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1785
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="|TR| FB TV HD" tvg-logo="http://tv.iptvboss.net/ch_logo/FBTVHDPLUS.png" group-title="|TR| SPOR FHD/HD",|TR| FB TV HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1784
+#EXTINF:-1 tvg-id="NULL" tvg-name="|TR| TAY TV" tvg-logo="http://tv.iptvboss.net/ch_logo/TAYTVHDPLUS.png" group-title="|TR| SPOR FHD/HD",|TR| TAY TV
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/1781
 
 #EXTM3U
 #EXTINF:-1 group-title="TR| TURQUIE" tvg-logo="http://covers.dragons-ott.com/PICON/entrepicon.png" ,=TR=TURK KANALLARI=TR=
