@@ -380,13 +380,12 @@ http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/6843.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD" tvg-logo="https://i.resimyukle.xyz/dTRPQ2.png" group-title="ÇOCUK KANALI", DISNEY JR HD
 http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/8709.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://i.resimyukle.xyz/0aGQ6T.png" group-title="ÇOCUK KANALI", BABY TV
-http://worldiptv.me:8080/live/carter/GUV1bMq2VK/21137.m3u8
-
-#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-name="TR:COCUK SMART HD" tvg-logo="" group-title="ÇOCUK KANALI",COCUK SMART HD
-http://vip.cms-xtream.com:8080/live/DreamSkype2021/hP2LTZ2TV8/331.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR:CBEEBIES HD" tvg-logo="" group-title="ÇOCUK KANALI",CBEEBIES HD
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/90.ts
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Mr. Bean Cartoon" tvg-logo="https://img.search.brave.com/W69x9lBdu5d2EUfVyN4fGQlQHnrDSt4PCWqOt8GCvoU/rs:fit:632:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5J/VnJYRGpIOHFiTERJ/bVNfay0xV1h3SGFG/aiZwaWQ9QXBp" group-title="",Mr. Bean Cartoon
+https://i.top4top.io/m_1479evu575.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Tom & Jerry" tvg-logo="https://img.search.brave.com/oLgMxhNg9zE3nreL0lURwxCoxOd64s1Z9Yq2cPJS5OI/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5I/U2VLUFFsTHMtUVdt/Tzk4Rk14LTl3SGFI/YSZwaWQ9QXBp" group-title="",Tom & Jerry
+https://c.top4top.io/m_1477kp8904.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Br8zg1p.jpg" group-title="",Mr Bean Show
+https://www.dropbox.com/s/86zww54vybbqipw/Mr.Bean.mp4?raw=1
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/NLqVCks/blutv.png" group-title="ÇOCUK KANALI",KIDS TURK
 https://mn-nl.mncdn.com/blutv_cocuk/live.m3u8
