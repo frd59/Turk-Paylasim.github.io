@@ -15,7 +15,7 @@ http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/682946.ts
 http://server.sibfungold.info:8080/live/gaicu84/iVMawDNfwV@/469.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet",BeIN Sports(FEED YAYIN)
-http://21929815.rossteleccom.net:80/iptv/ZA9N4BRQTKCS9V/6781/index.ts
+https://prod-ec-ap-northeast-2.video.pscp.tv/Transcoding/v1/hls/qZHModACsF1MkkgPPvTAj_WgKdDgWHbsiMwHw0GgA8nwA0nm3Vds-npr4EYzK1opJXefo3mIXLjV-C7nYiKROg/transcode/ap-northeast-2/periscope-replay-direct-prod-ap-northeast-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet",BeIN Sports (ÖZEL YAYIN) 
 https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/qJdOjjMbDHXqLk4W8ipRRCgLg3cy0H-ZhRWgTMEx_liBS-MaxcIguH3iSEyuOz_bk9FA2cWg_yI8W8jlYRBdKA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
