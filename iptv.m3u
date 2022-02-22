@@ -124,7 +124,7 @@ http://93.157.62.180/KanalD/index.m3u8
 https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",KANAL D HD
-http://portal.zexo.site:8080/live/canli/canli/11.m3u8
+http://vt.protoniumtv.net:1997/live/iptvtree2021/POAIHfsmm525adA/68449.ts
 
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",SHOW TV UHD
 http://93.157.62.180/ShowTV/index.m3u8
@@ -139,7 +139,7 @@ https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 http://93.157.62.180/FoxTurk/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-KANALLAR",FOX TV FHD
-http://portal.zexo.site:8080/live/canli/canli/9.m3u8
+http://vt.protoniumtv.net:1997/live/iptvtree2021/POAIHfsmm525adA/68450.ts
 
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-KANALLAR",FOX TV HD
 https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
