@@ -60,13 +60,13 @@ http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/8724.m3u8
 http://mypanel.tv:8080/live/iptvpoint/85g7sjaS6t/8723.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0O8xAZy.png" group-title="SPOR KANALI", GS TV HD
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/9936.m3u8
+http://vt.protoniumtv.net:1997/live/iptvtree2021/POAIHfsmm525adA/51902.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pkQxiS0.png" group-title="SPOR KANALI", FB TV HD
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/9937.m3u8
+http://vt.protoniumtv.net:1997/live/iptvtree2021/POAIHfsmm525adA/51902.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR UHD
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/373.m3u8
+http://vt.protoniumtv.net:1997/live/iptvtree2021/POAIHfsmm525adA/51900.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SPOR KANALI", A SPOR HD
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
