@@ -106,7 +106,7 @@ https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
 
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",ATV HD
-http://portal.zexo.site:8080/live/canli/canli/8.m3u8
+http://vt.protoniumtv.net:1997/live/iptvtree2021/POAIHfsmm525adA/68446.ts
 
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-KANALLAR",STAR TV UHD
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
