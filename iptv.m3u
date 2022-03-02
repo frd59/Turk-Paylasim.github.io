@@ -238,7 +238,7 @@ https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
 https://mn-nl.mncdn.com/blutv_ntv2/live.m3u8
 
 EXTINF:-1 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="HABER KANALI",CNN TÜRK
-http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/628.ts
+http://stream.detr.xyz:8080/live/TvBezGra401/@bezgRa94asr4@skype/1129.ts
 
 #EXTINF:0 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="HABER KANALI",CNN TÜRK
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
