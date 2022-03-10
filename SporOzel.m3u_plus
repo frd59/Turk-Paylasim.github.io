@@ -93,7 +93,7 @@ https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/QHAJFE6JS2zwONyS8RPkC
 http://platinumxmedia.xyz:8080/live/C0rl/SQnJJmZmsw/430.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 2
-http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/gCbWvqdxQ68L/349753.m3u8
+http://77.247.109.109:3333/sunshine/2CCpV6ieFpC7E_5A0AZiz877BRYmPoKHTH3H-rGAKO6wWKo2zfDREF0F3L_0qhbDteDKnpJ_Mk64uh3O8v50LbRVAQU0eXQHgnBlv3hWFvgKYnHzMlydw0hS7va-XalCWw7hISDQacmuSWMJN38MLINEFTx7mU-lMgo9o6lUoYbvcISfA2JWX8at1Hgxbyfq/v.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 2
 http://eu.exxeniptv.net:8080/live/canlitvworldatacenter/gCbWvqdxQ68L/349754.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT HD 2
