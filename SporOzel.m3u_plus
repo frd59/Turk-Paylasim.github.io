@@ -29,57 +29,57 @@ https://sectokentest.parkbtcpanel.com/test/chann34/chunklist.m3u8
 EXTINF:-1 tvg-logo="https://bit.ly/3f86zet",BeIN Sports-(Maç Saati3)
 https://sectokentest.parkbtcpanel.com/test/chann2/chunklist.m3u8
 
-#EXTINF:-1, tvg-logo="https://bit.ly/3f86zet",Beinsport 1 MAÇ SAATİ AKTİF
+#EXTINF:-1, tvg-logo="https://bit.ly/3f86zet"group-title="SÜPER LİG",Beinsport 1 MAÇ SAATİ AKTİF
 http://klasman1.xyz/hls/b1.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="",BeIN Sports HD 2
+#EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SÜPER LİG",BeIN Sports HD 2
 https://sectokentest.parkbtcpanel.com/test/chann3/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="",BeIN Sports HD 3
+#EXTINF:-1 tvg-logo="https://bit.ly/30Rtjua" group-title="SÜPER LİG",BeIN Sports HD 3
 https://sectokentest.parkbtcpanel.com/test/chann4/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="", BeIN Sports HD 4
+#EXTINF:-1 tvg-logo="https://bit.ly/3hFUgrj" group-title="SÜPER LİG", BeIN Sports HD 4
 https://sectokentest.parkbtcpanel.com/test/chann5/chunklist.m3u8
 
-#EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="",BEIN MAX 1 HD
+#EXTINF:-1, BEIN MAX 1 HD tvg-logo="https://bit.ly/2X3QhNt" group-title="SÜPER LİG",BEIN MAX 1 HD
 https://sectokentest.parkbtcpanel.com/test/chann6/chunklist.m3u8
 
-#EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="",BEIN MAX 2 HD
+#EXTINF:-1, BEIN MAX 2 HD tvg-logo="https://bit.ly/3175vmj" group-title="SÜPER LİG",BEIN MAX 2 HD
 https://sectokentest.parkbtcpanel.com/test/chann7/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="", A SPOR HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NYeAXXj.png" group-title="SÜPER LİG", A SPOR HD
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="",S SPORT HD 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="SÜPER LİG",S SPORT HD 1
 https://sectokentest.parkbtcpanel.com/test/chann14/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-2-tr.png" group-title="",S SPORT HD 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-2-tr.png" group-title="SÜPER LİG",S SPORT HD 2
 https://sectokentest.parkbtcpanel.com/test/chann15/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="",Tivibu Spor 1
+#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SÜPER LİG",Tivibu Spor 1
 https://istanbul.tvizlehd.com/live/tivibuspor.m3u8
-#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="",Tivibu Spor 2
+#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SÜPER LİG",Tivibu Spor 2
 https://sectokentest.parkbtcpanel.com/test/chann10/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="", Tivibu Spor 3
+#EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SÜPER LİG", Tivibu Spor 3
 https://sectokentest.parkbtcpanel.com/test/chann11/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/39c4181dadabd0b0d7c5b6d5dba76695.png" group-title="",Tivibu Spor 4
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/39c4181dadabd0b0d7c5b6d5dba76695.png" group-title="SÜPER LİG",Tivibu Spor 4
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286778
 
-#EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="",SMARTSPOR HD 1
+#EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="SÜPER LİG",SMARTSPOR HD 1
 https://sectokentest.parkbtcpanel.com/test/chann12/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="",SMARTSPOR HD 2
+#EXTINF:-1 tvg-logo="http://maxxplus.eu/tvlogo/smartspor.png" group-title="SÜPER LİG",SMARTSPOR HD 2
 https://sectokentest.parkbtcpanel.com/test/chann13/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0O8xAZy.png" group-title="", GS TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0O8xAZy.png" group-title="SÜPER LİG", GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pkQxiS0.png" group-title="", FB TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pkQxiS0.png" group-title="SÜPER LİG", FB TV HD
 http://istanbul.tvizlehd.com/live/fbtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="", TRT SPOR 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="SÜPER LİG", TRT SPOR 1 HD
 https://mn-nl.mncdn.com/blutv_trtspor_dvr/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="", TRT SPOR 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TKThpim.png" group-title="SÜPER LİG", TRT SPOR 2 HD
 https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="", Sports TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2rXglfH.png" group-title="SÜPER LİG", Sports TV HD
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
 
