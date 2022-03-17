@@ -88,7 +88,7 @@ http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234382.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 1
 https://sectokentest.parkbtcpanel.com/test/chann31/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT HD 1
-https://www.mediacdnclub.club/hlslive/95.m3u8
+https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/RDqSTSZKSj3ADlG0A4aR9aDtvmzytEtqA9ixLptMEuVqRRKlDpzngILb361E2_TeFnmpL7gtx1Xci2nNdQkyUg/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 2
 https://sectokentest.parkbtcpanel.com/test/chann32/chunklist.m3u8
