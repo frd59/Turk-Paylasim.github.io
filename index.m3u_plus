@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports Haber Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-haber.png" group-title="Spor",beIN Sports Haber Hd
 http://almanya101.com:80/live/yucel0101/yucel0101/151092.ts
 #EXTINF:-1 tvg-id="" tvg-name="beIN Spor Haber Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-haber.png" group-title="Spor",beIN Spor Haber Hd
