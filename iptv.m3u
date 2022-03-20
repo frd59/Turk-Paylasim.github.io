@@ -83,7 +83,7 @@ https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-KANALLAR",TRT 4K UHD
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/4001/index.m3u8
+http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/1215.ts
 
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-KANALLAR",TRT 4K FHD
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/4001/index.m3u8
@@ -360,7 +360,7 @@ http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
 http://185.129.1.242:80/cartoonnetworkturk/mpegts
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/qYEVDbP.png" group-title="ÇOCUK KANALI" , Disney Channel
-http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/6892.ts
+http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/1136.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Niyola TV" tvg-logo="https://i.imgur.com/0iUh0ib.png" group-title="ÇOCUK KANALI", Niloya TV
 https://nilotv.ozelip.com:3665/multi_web/play.m3u8
