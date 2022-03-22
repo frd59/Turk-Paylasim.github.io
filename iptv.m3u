@@ -143,7 +143,7 @@ http://izmir.tvizlehd.com/live/foxtv.m3u8
 https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-KANALLAR",TV8 UHD
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/2286/index.m3u8
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6896/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-KANALLAR",TV8 FHD
 http://izmir.tvizlehd.com/live/tv8.m3u8
@@ -158,7 +158,7 @@ https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
 https://mn-nl.mncdn.com/blutv_teve22/live.m3u8
 
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://i.imgur.com/8t5aAVx.png" tvg-id="" group-title="ULUSAL-KANALLAR",ATV Avrupa 
-http://93.157.62.180/ATVTurk/index.m3u8
+http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6888/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSTAR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" group-title="ULUSAL-KANALLAR",EUROSTAR TV
 https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
