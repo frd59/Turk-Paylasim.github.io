@@ -199,6 +199,8 @@ https://tv-trt3.live.trt.com.tr/master.m3u8
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="|TR| SPOR",B.I.S HABER
 https://www.yilmaztv.ru/beceroz/oz.php?channel=bein-sports-haber&stream=1&type=m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="|TR| SPOR",BeIN Sports HD 1
+http://portal.zexo.site:8080/live/zero/zero/5.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1M6Tvp1/sports.jpg" group-title="|TR| SPOR",SPORTS TV
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1M6Tvp1/sports.jpg" group-title="|TR| SPOR",SPORTS TV
