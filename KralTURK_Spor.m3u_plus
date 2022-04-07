@@ -66,7 +66,7 @@ https://sectokentest.parkbtcpanel.com/test/chann13/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0O8xAZy.png" group-title="SPOR KANALI", GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pkQxiS0.png" group-title="SPOR KANALI", FB TV HD
-http://bosstr.net:80/live/nomoreacble/dsfsdfsfds/1784.m3u8
+http://195.155.98.170:8585/FBTV/mpegts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/krwgu8g.png" group-title="SPOR KANALI", TRT SPOR 1 HD
 https://mn-nl.mncdn.com/blutv_trtspor_dvr/live.m3u8
