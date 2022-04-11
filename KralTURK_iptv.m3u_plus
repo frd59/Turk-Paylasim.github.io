@@ -83,13 +83,13 @@ https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-KANALLAR",TRT 4K UHD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1810
+http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1810.m3u8
 
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-KANALLAR",TRT 4K FHD
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/9032/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-KANALLAR",TRT 1 UHD
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/2293/index.m3u8
+http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/507.m3u8
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt1.png"tvg-id="" group-title="ULUSAL-KANALLAR",TRT 1 FHD
 https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
@@ -116,7 +116,7 @@ http://190.2.148.141:80/bar1109/index.m3u8
 https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",KANAL D UHD
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/2304/index.m3u8
+http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/510.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",KANAL D FHD
 https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
@@ -125,7 +125,7 @@ https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
 http://tv.romanija.xyz:8080/live/22maky/test111/1158.ts
 
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",SHOW TV UHD
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/2307/index.m3u8
+http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/516.m3u8
 
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",SHOW TV FHD
 https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
@@ -134,7 +134,7 @@ https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-KANALLAR",FOX TV UHD
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/2309/index.m3u8
+http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/514.m3u8
 
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-KANALLAR",FOX TV FHD
 http://tv.romanija.xyz:8080/live/22maky/test111/1147.ts
