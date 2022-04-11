@@ -83,7 +83,7 @@ https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-KANALLAR",TRT 4K UHD
-http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/1215.ts
+http://tv.romanija.xyz:8080/live/22maky/test111/1215.ts
 
 #EXTINF:-1 tvg-name="TRT4K TR" tvg-logo="http://pici.life/TR/TRT%204K.png"tvg-id="TRT4K.TR" group-title="ULUSAL-KANALLAR",TRT 4K FHD
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/9032/index.m3u8
@@ -122,7 +122,7 @@ http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/2304/index.m3u8
 https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",KANAL D HD
-http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/1158.ts
+http://tv.romanija.xyz:8080/live/22maky/test111/1158.ts
 
 #EXTINF:-1 tvg-name="SHOW TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/show_tv_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",SHOW TV UHD
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/2307/index.m3u8
@@ -137,7 +137,7 @@ https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/2309/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-KANALLAR",FOX TV FHD
-http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/1147.ts
+http://tv.romanija.xyz:8080/live/22maky/test111/1147.ts
 
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-KANALLAR",FOX TV HD
 https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
@@ -1928,7 +1928,7 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/199550.mkv
 #EXTINF:-1 tvg-id="" tvg-name="TR: Bajrangi Bhaijaan " tvg-logo="https://image.tmdb.org/t/p/original/jVfQ4JEA5k5miu9WwqOkUDcbEPQ.jpg" group-title="VOD Turk",TR: Bajrangi Bhaijaan 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/199549.mkv
 #EXTINF:-1 tvg-id="" tvg-name="TR: Instant Death " tvg-logo="https://image.tmdb.org/t/p/original/sVm3AUJhZb6lPjkhTVLtSTZQIV4.jpg" group-title="VOD Turk",TR: Instant Death 
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/199548.mkv
+http://c.server.in:8080/movie/vodstest/lw5p6ojDQq/199548.mkv
 #EXTINF:-1 tvg-id="" tvg-name="TR: Mara " tvg-logo="https://image.tmdb.org/t/p/original/gQDmXAef1Oc1SXci5mui2x5DJwt.jpg" group-title="VOD Turk",TR: Mara 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/199547.mkv
 #EXTINF:-1 tvg-id="" tvg-name="TR: Mumya " tvg-logo="https://image.tmdb.org/t/p/original" group-title="VOD Turk",TR: Mumya 
