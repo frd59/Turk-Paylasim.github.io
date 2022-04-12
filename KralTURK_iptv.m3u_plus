@@ -864,97 +864,189 @@ http://bosstr.net:80/nomoreacble/dsfsdfsfds/29057
 
 
 #EXTM3U
-#EXTINF:-1 group-title="Germany", Das Erste
-http://78.94.228.8:9981/stream/channelid/1209967314
-#EXTINF:-1 group-title="Germany",ZDF
-http://78.94.228.8:9981/stream/channelid/361122498
-#EXTINF:-1 group-title="Germany",VOX
-http://78.94.228.8:9981/stream/channelid/96164519
-#EXTINF:-1 group-title="Germany",RTL
-http://78.94.228.8:9981/stream/channelid/269167166
-#EXTINF:-1 group-title="Germany",RTLZWEI
-http://78.94.228.8:9981/stream/channelid/1134311174
-#EXTINF:-1 group-title="Germany",SAT.1
-http://78.94.228.8:9981/stream/channelid/1407411312
-#EXTINF:-1 group-title="Germany",ProSieben
-http://78.94.228.8:9981/stream/channelid/740442088
-#EXTINF:-1 group-title="Germany",kabel eins
-http://78.94.228.8:9981/stream/channelid/1012802096
-#EXTINF:-1 group-title="Germany",3sat
-http://78.94.228.8:9981/stream/channelid/1575277728
-#EXTINF:-1 group-title="Germany",Tele 5
-http://78.94.228.8:9981/stream/channelid/1190597533
-#EXTINF:-1 group-title="Germany",Vodafone TV
-http://78.94.228.8:9981/stream/channelid/1439597766
-#EXTINF:-1 group-title="Germany",WDR Siegen
-http://78.94.228.8:9981/stream/channelid/2085921021
-#EXTINF:-1 group-title="Germany",phoenix
-http://78.94.228.8:9981/stream/channelid/1078801245
-#EXTINF:-1 group-title="Germany",tagesschau24
-http://78.94.228.8:9981/stream/channelid/727111266
-#EXTINF:-1 group-title="Germany",ntv
-http://78.94.228.8:9981/stream/channelid/475497902
-#EXTINF:-1 group-title="Germany",arte
-http://78.94.228.8:9981/stream/channelid/1037582656
-#EXTINF:-1 group-title="Germany",kabel eins Doku
-http://78.94.228.8:9981/stream/channelid/1467994658
-#EXTINF:-1 group-title="Germany",N24 Doku
-http://78.94.228.8:9981/stream/channelid/188688700
-#EXTINF:-1 group-title="Germany",zdf_neo
-http://78.94.228.8:9981/stream/channelid/497920014
-#EXTINF:-1 group-title="Germany",WELT
-http://78.94.228.8:9981/stream/channelid/1875806481
-#EXTINF:-1 group-title="Germany",Nitro
-http://78.94.228.8:9981/stream/channelid/1080340900
-#EXTINF:-1 group-title="Germany",SAT.1 GOLD
-http://78.94.228.8:9981/stream/channelid/955298737
-#EXTINF:-1 group-title="Germany",SIXX
-http://78.94.228.8:9981/stream/channelid/1386997276
-#EXTINF:-1 group-title="Germany",ProSieben MAXX
-http://78.94.228.8:9981/stream/channelid/1744572159
-#EXTINF:-1 group-title="Germany",ONE
-http://78.94.228.8:9981/stream/channelid/1756821403
-#EXTINF:-1 group-title="Germany",COMEDY CENTRAL
-http://78.94.228.8:9981/stream/channelid/1387206473
-#EXTINF:-1 group-title="Germany",MTV
-http://78.94.228.8:9981/stream/channelid/1411800158
-#EXTINF:-1 group-title="Germany",Super RTL
-http://78.94.228.8:9981/stream/channelid/1340951179
-#EXTINF:-1 group-title="Germany",KiKA
-http://78.94.228.8:9981/stream/channelid/1697083238
-#EXTINF:-1 group-title="Germany",Nick
-http://78.94.228.8:9981/stream/channelid/841361511
-#EXTINF:-1 group-title="Germany",ServusTV
-http://78.94.228.8:9981/stream/channelid/5714665
-#EXTINF:-1 group-title="Germany",ZDFinfo
-http://78.94.228.8:9981/stream/channelid/762438525
-#EXTINF:-1 group-title="Germany",ARD-alpha
-http://78.94.228.8:9981/stream/channelid/1407239539
-#EXTINF:-1 group-title="Germany",ZDF_neo
-http://78.94.228.8:9981/stream/channelid/604114221
-#EXTINF:-1 group-title="Germany",phoenix
-http://78.94.228.8:9981/stream/channelid/576507321
-#EXTINF:-1 group-title="Germany",tagesschau24
-http://78.94.228.8:9981/stream/channelid/784886065
-#EXTINF:-1 group-title="Germany",arte
-http://78.94.228.8:9981/stream/channelid/1710192054
-#EXTINF:-1 group-title="Germany",ONE
-http://78.94.228.8:9981/stream/channelid/1636228668
-#EXTINF:-1 group-title="Germany",KiKA
-http://78.94.228.8:9981/stream/channelid/634884488
-#EXTINF:-1 group-title="Germany",ZDFinfo
-http://78.94.228.8:9981/stream/channelid/2115287274
-#EXTINF:-1 group-title="Germany",Das Erste
-http://78.94.228.8:9981/stream/channelid/526898358
-#EXTINF:-1 group-title="Germany",ZDF
-http://78.94.228.8:9981/stream/channelid/684232391
-#EXTINF:-1 group-title="Germany",3sat
-http://78.94.228.8:9981/stream/channelid/2022244657
+#EXTINF:-1 tvg-id="" tvg-name="DE: 13th Street" tvg-logo="" group-title="Germany",DE: 13th Street
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/261
+#EXTINF:-1 tvg-id="" tvg-name="DE: 3sat HD" tvg-logo="1905_3sat.png" group-title="Germany",DE: 3sat HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/243
+#EXTINF:-1 tvg-id="" tvg-name="DE: A and E" tvg-logo="" group-title="Germany",DE: A and E
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/267
+#EXTINF:-1 tvg-id="" tvg-name="DE: Anixe Serie HD" tvg-logo="86629_{6f012a18-13dd-4243-bf9f-50c7e8d9f7a1}-Phoenix CNE.png" group-title="Germany",DE: Anixe Serie HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/254
+#EXTINF:-1 tvg-id="" tvg-name="DE: Anixe HD" tvg-logo="" group-title="Germany",DE: Anixe HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/1117
+#EXTINF:-1 tvg-id="" tvg-name="DE: ARTE HD" tvg-logo="99380_{622253b3-055c-4055-9bf0-8667ab19906c}-arte HD.png" group-title="Germany",DE: ARTE HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/240
+#EXTINF:-1 tvg-id="" tvg-name="DE: AXN" tvg-logo="" group-title="Germany",DE: AXN
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/1114
+#EXTINF:-1 tvg-id="" tvg-name="DE: Boomerang" tvg-logo="" group-title="Germany",DE: Boomerang
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/266
+#EXTINF:-1 tvg-id="" tvg-name="DE: BR HD" tvg-logo="4384_br.png" group-title="Germany",DE: BR HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/252
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Bar 1 HD" tvg-logo="" group-title="Germany",DE: DAZN Bar 1 HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/5679
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN Bar 2 HD" tvg-logo="" group-title="Germany",DE: DAZN Bar 2 HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/5680
+#EXTINF:-1 tvg-id="" tvg-name="DE: Deluxe Music HD" tvg-logo="" group-title="Germany",DE: Deluxe Music HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/273
+#EXTINF:-1 tvg-id="" tvg-name="DE: Discovery HD" tvg-logo="" group-title="Germany",DE: Discovery HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/1138
+#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Channel" tvg-logo="" group-title="Germany",DE: Disney Channel
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/1111
+#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Cinemagic" tvg-logo="" group-title="Germany",DE: Disney Cinemagic
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/1110
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dmax HD" tvg-logo="95964_Dmax.png" group-title="Germany",DE: Dmax HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/248
+#EXTINF:-1 tvg-id="" tvg-name="DE: DW" tvg-logo="45012_Deutsche Welle.png" group-title="Germany",DE: DW
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/265
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 1 HD" tvg-logo="" group-title="Germany",DE: Eurosport 1 HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/219
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 HD" tvg-logo="" group-title="Germany",DE: Eurosport 2 HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/1124
+#EXTINF:-1 tvg-id="" tvg-name="DE: FOX HD" tvg-logo="" group-title="Germany",DE: FOX HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/1109
+#EXTINF:-1 tvg-id="" tvg-name="DE: TV Main Franken HD" tvg-logo="" group-title="Germany",DE: TV Main Franken HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/1119
+#EXTINF:-1 tvg-id="" tvg-name="DE: Heimat Kanal" tvg-logo="" group-title="Germany",DE: Heimat Kanal
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/1115
+#EXTINF:-1 tvg-id="" tvg-name="DE: Heimatkanal" tvg-logo="" group-title="Germany",DE: Heimatkanal
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/271
+#EXTINF:-1 tvg-id="" tvg-name="DE: KIKA HD" tvg-logo="79546_kika.png" group-title="Germany",DE: KIKA HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/257
+#EXTINF:-1 tvg-id="" tvg-name="DE: Light Channel TV Deutschland" tvg-logo="" group-title="Germany",DE: Light Channel TV Deutschland
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/1127
+#EXTINF:-1 tvg-id="" tvg-name="DE: MDR" tvg-logo="98514_mdr.png" group-title="Germany",DE: MDR
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/245
+#EXTINF:-1 tvg-id="" tvg-name="DE: Munchen TV" tvg-logo="" group-title="Germany",DE: Munchen TV
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/251
+#EXTINF:-1 tvg-id="" tvg-name="DE: N24" tvg-logo="62978_N24.png" group-title="Germany",DE: N24
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/264
+#EXTINF:-1 tvg-id="" tvg-name="DE: NDR HD" tvg-logo="33670_ndr.png" group-title="Germany",DE: NDR HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/246
+#EXTINF:-1 tvg-id="" tvg-name="DE: Nick HD" tvg-logo="96405_Nickelodean.png" group-title="Germany",DE: Nick HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/262
+#EXTINF:-1 tvg-id="" tvg-name="DE: NTV" tvg-logo="92036_Ntv.png" group-title="Germany",DE: NTV
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/253
+#EXTINF:-1 tvg-id="" tvg-name="DE: ORF 1 HD" tvg-logo="67597_ORF1 HD.png" group-title="Germany",DE: ORF 1 HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/235
+#EXTINF:-1 tvg-id="" tvg-name="DE: ORF 2 HD" tvg-logo="98486_ORF2 HD.png" group-title="Germany",DE: ORF 2 HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/236
+#EXTINF:-1 tvg-id="" tvg-name="DE: Pro 7 Maxx HD" tvg-logo="" group-title="Germany",DE: Pro 7 Maxx HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/274
+#EXTINF:-1 tvg-id="" tvg-name="DE: Pro7 HD" tvg-logo="69391_pro_sieben.png" group-title="Germany",DE: Pro7 HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/241
+#EXTINF:-1 tvg-id="" tvg-name="DE: Romance TV HD" tvg-logo="67450_{6e21e2b3-82e7-44cf-83d0-757e628757ed}-France Vivance.png" group-title="Germany",DE: Romance TV HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/255
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL HD" tvg-logo="42876_RTL.png" group-title="Germany",DE: RTL HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/352
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Passion HD" tvg-logo="" group-title="Germany",DE: RTL Passion HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/1122
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Super" tvg-logo="36909_SuperRTL.png" group-title="Germany",DE: RTL Super
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/233
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL Nitro HD" tvg-logo="34657_rtln.png" group-title="Germany",DE: RTL Nitro HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/234
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sat1 Gold HD" tvg-logo="34686_rbb.png" group-title="Germany",DE: Sat1 Gold HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/256
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sat1 HD" tvg-logo="12776_sat1.png" group-title="Germany",DE: Sat1 HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/242
+#EXTINF:-1 tvg-id="" tvg-name="DE: Servus TV" tvg-logo="" group-title="Germany",DE: Servus TV
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/258
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sixx HD" tvg-logo="38738_Sixx.png" group-title="Germany",DE: Sixx HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/250
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Action HD" tvg-logo="37714_deaction.png" group-title="Germany",DE: Sky Cinema Action HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/224
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Atlantic" tvg-logo="91721_deatlantic.png" group-title="Germany",DE: Sky Atlantic
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/228
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 1" tvg-logo="9754_ssdeban.png" group-title="Germany",DE: Sky Bundesliga 1
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/215
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 2" tvg-logo="9754_ssdeban.png" group-title="Germany",DE: Sky Bundesliga 2
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/1239
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 3 (offline when no match)" tvg-logo="9754_ssdeban.png" group-title="Germany",DE: Sky Bundesliga 3 (offline when no match)
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/1240
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 4 (offline when no match)" tvg-logo="9754_ssdeban.png" group-title="Germany",DE: Sky Bundesliga 4 (offline when no match)
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/1241
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 5 (offline when no match)" tvg-logo="9754_ssdeban.png" group-title="Germany",DE: Sky Bundesliga 5 (offline when no match)
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/1242
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 6 (offline when no match)" tvg-logo="9754_ssdeban.png" group-title="Germany",DE: Sky Bundesliga 6 (offline when no match)
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/1243
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 7 (offline when no match)" tvg-logo="9754_ssdeban.png" group-title="Germany",DE: Sky Bundesliga 7 (offline when no match)
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/1244
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Premieren HD" tvg-logo="24609_decine.png" group-title="Germany",DE: Sky Cinema Premieren HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/221
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Thriller HD" tvg-logo="" group-title="Germany",DE: Sky Cinema Thriller HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/223
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Premieren +24 HD" tvg-logo="92035_decine+1.png" group-title="Germany",DE: Sky Cinema Premieren +24 HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/222
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Fun HD" tvg-logo="20381_de3d.png" group-title="Germany",DE: Sky Cinema Fun HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/263
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Special HD" tvg-logo="50402_deemo.png" group-title="Germany",DE: Sky Cinema Special HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/226
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky History" tvg-logo="" group-title="Germany",DE: Sky History
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/1139
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Family HD" tvg-logo="71312_dehits.png" group-title="Germany",DE: Sky Cinema Family HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/227
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Krimi HD" tvg-logo="" group-title="Germany",DE: Sky Krimi HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/220
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Nat Geo wild" tvg-logo="" group-title="Germany",DE: Sky Nat Geo wild
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/1136
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky National Geographic HD" tvg-logo="" group-title="Germany",DE: Sky National Geographic HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/1135
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Cinema Classics" tvg-logo="37502_denos.png" group-title="Germany",DE: Sky Cinema Classics
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/229
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 1" tvg-logo="" group-title="Germany",DE: Sky Select 1
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/343
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 2" tvg-logo="" group-title="Germany",DE: Sky Select 2
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/345
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 3" tvg-logo="" group-title="Germany",DE: Sky Select 3
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/346
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 4" tvg-logo="" group-title="Germany",DE: Sky Select 4
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/347
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 5" tvg-logo="" group-title="Germany",DE: Sky Select 5
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/348
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 6" tvg-logo="" group-title="Germany",DE: Sky Select 6
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/349
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 7" tvg-logo="" group-title="Germany",DE: Sky Select 7
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/350
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 8" tvg-logo="" group-title="Germany",DE: Sky Select 8
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/351
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Austria" tvg-logo="" group-title="Germany",DE: Sky Sport Austria
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/1137
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sports 1 HD" tvg-logo="74679_ssde.png" group-title="Germany",DE: Sky Sports 1 HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/213
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sports 2 HD" tvg-logo="69179_ssde.png" group-title="Germany",DE: Sky Sports 2 HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/214
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sports News" tvg-logo="" group-title="Germany",DE: Sky Sports News
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/270
+#EXTINF:-1 tvg-id="" tvg-name="DE: Spiegel Geschichte HD" tvg-logo="" group-title="Germany",DE: Spiegel Geschichte HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/216
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport 1 + HD" tvg-logo="" group-title="Germany",DE: Sport 1 + HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/268
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sports1 HD" tvg-logo="" group-title="Germany",DE: Sports1 HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/217
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sport Digital HD" tvg-logo="" group-title="Germany",DE: Sport Digital HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/269
+#EXTINF:-1 tvg-id="" tvg-name="DE: SWR HD" tvg-logo="39474_{7206e632-da59-4c59-a2f6-7b9bffa3b05d}-SWR Fernsehen.png" group-title="Germany",DE: SWR HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/260
+#EXTINF:-1 tvg-id="" tvg-name="DE: SYFY hd" tvg-logo="" group-title="Germany",DE: SYFY hd
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/1116
+#EXTINF:-1 tvg-id="" tvg-name="DE: Tagesschau 24" tvg-logo="" group-title="Germany",DE: Tagesschau 24
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/237
+#EXTINF:-1 tvg-id="" tvg-name="DE: TNT Serie" tvg-logo="" group-title="Germany",DE: TNT Serie
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/1112
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOX HD" tvg-logo="36053_Vox.png" group-title="Germany",DE: VOX HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/230
+#EXTINF:-1 tvg-id="" tvg-name="DE: WDR HD" tvg-logo="89646_{3405902c-b993-48dd-a554-e3d9bd49a7e4}-WDR Fernsehen.png" group-title="Germany",DE: WDR HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/247
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF HD" tvg-logo="13250_{5d889be2-bbd0-4b26-ac2b-d0f59eca2818}-ZDF HD.png" group-title="Germany",DE: ZDF HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/238
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF Info HD" tvg-logo="" group-title="Germany",DE: ZDF Info HD
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/239
+#EXTINF:-1 tvg-id="" tvg-name="DE: Zdf Neo" tvg-logo="" group-title="Germany",DE: Zdf Neo
+http://www.x-media.tv:8880/thegreenday/CrjThNzmKo/272
+
 
 
 
 #EXTM3U
-
 #EXTINF:-1 tvg-id="" tvg-name="TR: Acele Baba Araniyor " tvg-logo="https://image.tmdb.org/t/p/original/oPYp1i246io0E8vkZJGVwZraQw2.jpg" group-title="VOD Turk",TR: Acele Baba Araniyor 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/200035.mp4
 #EXTINF:-1 tvg-id="" tvg-name="TR: A Cinderella Story- Christmas Wish " tvg-logo="https://image.tmdb.org/t/p/original/ozBX0u5caaJFli9AssqJmARb5R.jpg" group-title="VOD Turk",TR: A Cinderella Story- Christmas Wish 
