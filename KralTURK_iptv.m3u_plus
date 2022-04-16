@@ -116,7 +116,7 @@ http://190.2.148.141:80/bar1109/index.m3u8
 https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",KANAL D UHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/510.m3u8
+http://server.sibfungold.info:8080/live/argoni2012/oOeJPklv4r/1646.ts
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal_d_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",KANAL D FHD
 https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
