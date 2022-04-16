@@ -143,7 +143,7 @@ http://tv.romanija.xyz:8080/live/22maky/test111/1147.ts
 https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-KANALLAR",TV8 UHD
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6896/index.m3u8
+ http://server.sibfungold.info:8080/live/argoni2012/oOeJPklv4r/795.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-KANALLAR",TV8 FHD
 http://tv.romanija.xyz:8080/live/22maky/test111/1227.ts
