@@ -104,7 +104,7 @@ https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
 
 #EXTINF:-1 tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",ATV HD
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/2296/index.m3u8
+http://server.sibfungold.info:8080/live/argoni2012/oOeJPklv4r/826.ts
 
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-KANALLAR",STAR TV UHD
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
