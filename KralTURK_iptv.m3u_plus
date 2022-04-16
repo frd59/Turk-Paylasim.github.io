@@ -134,7 +134,7 @@ https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-KANALLAR",FOX TV UHD
-http://iptvtree.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/514.m3u8
+http://server.sibfungold.info:8080/live/argoni2012/oOeJPklv4r/3163.ts
 
 #EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png"tvg-id="" group-title="ULUSAL-KANALLAR",FOX TV FHD
 http://tv.romanija.xyz:8080/live/22maky/test111/1147.ts
