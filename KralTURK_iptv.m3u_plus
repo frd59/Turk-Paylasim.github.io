@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="bein sports haber hd" tvg-logo="https://bit.ly/302Lfmo" group-title="SPOR KANALI",BeIN Sports Haber
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6939/index.m3u8
+http://5.255.94.250:25461/live/ztv/Mast3r/579.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports UHD 1
 http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/1115.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports FHD 1
-http://not0.online:4209/live/mireskype/Yn4NFQTSph/266.ts
+http://5.255.94.250:25461/live/ztv/Mast3r/573.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,BeIN Sports HD 1
 http://goldenhdspor.myftp.biz:8899/live/bugrameh9804/BugraMeh8562/1682.ts
@@ -24,7 +24,7 @@ http://tv.romanija.xyz:8080/live/22maky/test111/1115.ts
 https://srvccc.write8824dont.xyz/kaynakstreamradarco/selcukbein1app/naxi/caxi.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3f86zet" group-title="SPOR KANALI" ,Maç Saati Aktiv(3)
-http://not0.online:4209/live/Easydude/zhebzyabaksnue/266.m3u8
+http://5.255.94.250:25461/live/ztv/Mast3r/573.ts
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2X1ik08" group-title="SPOR KANALI",BeIN Sports HD 2
 http://goldenhdspor.myftp.biz:8899/live/bugrameh9804/BugraMeh8562/4194.ts
