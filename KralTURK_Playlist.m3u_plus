@@ -280,6 +280,27 @@ http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30777
 http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30655
 #EXTINF:-1 tvg-ID="" tvg-name="[TR] UCAN KUS" tvg-logo="http://123iptv.nl:88/picon/turkey/ucankustv.png" group-title="[TR] ULUSAL",[TR] UCAN KUS
 http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30662
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 HD" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport 1 HD
+http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/943.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Backup" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport 1 Backup
+http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/5953.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 2 hd" tvg-logo="" group-title="[TR] SPOR" ,TR: Bein Sport 2 hd
+http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/1672.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 2 Backup" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport 2 Backup
+http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/5955.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 3 HD" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport 3 HD
+http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/1655.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 3 Backup" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport 3 Backup
+http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/5956.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 4 HD" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport 4 HD
+http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/4142.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport Haber HD" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport Haber HD
+http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/5490.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport Max 1 HD" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport Max 1 HD
+http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/4831.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport Max 2 HD" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport Max 2 HD
+http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/4832.ts
 #EXTINF:-1 tvg-ID="" tvg-name="[TR] Tivibu Spor 3 HD" tvg-logo="" group-title="[TR] SPOR",[TR] Tivibu Spor 3 HD
 http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30768
 #EXTINF:-1 tvg-ID="" tvg-name="[TR] Tivibu Spor 3 4K" tvg-logo="" group-title="[TR] SPOR",[TR] Tivibu Spor 3 4K
