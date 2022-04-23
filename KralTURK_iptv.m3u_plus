@@ -334,28 +334,25 @@ http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
 
 
-
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TRT Çocuk" tvg-logo="https://i.imgur.com/Visnwr4.png" group-title="ÇOCUK KANALI", TRT Çocuk
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TRT Çocuk" tvg-logo="https://i.imgur.com/Visnwr4.png" group-title="ÇOCUK KANALI" , TRT Çocuk
 https://mn-nl.mncdn.com/blutv_trtcocuk2/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Minika Çocuk" tvg-logo="https://i.imgur.com/BXgsbWk.png" group-title="ÇOCUK KANALI", Minika Çocuk
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6849/index.m3u8
-
+http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/1669.ts
 #EXTINF:-1 tvg-id="" tvg-name="Minika Çocuk" tvg-logo="https://i.imgur.com/BXgsbWk.png" group-title="ÇOCUK KANALI" , Minika Çocuk
 http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Minika Go" tvg-logo="https://i.imgur.com/1SaT0la.png" group-title="ÇOCUK KANALI" , Minika Go
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6851/index.m3u8
+http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/2067.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Minika Go" tvg-logo="https://i.imgur.com/1SaT0la.png" group-title="ÇOCUK KANALI" , Minika Go
 http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/Vw6hE9i.png" group-title="ÇOCUK KANALI" , Cartoon Network
-http://185.129.1.242:80/cartoonnetworkturk/mpegts
+http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/937.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/qYEVDbP.png" group-title="ÇOCUK KANALI" , Disney Channel
 http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/1136.ts
@@ -366,12 +363,11 @@ https://nilotv.ozelip.com:3665/multi_web/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Maşa ile Koca Ayı TV" tvg-logo="https://i.imgur.com/ZdB0stp.png" group-title="ÇOCUK KANALI", Maşa ile Koca Ayı TV
 http://detr.eu:8000/live/hediye/hasbahcaiptv/35798.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://i.resimyukle.xyz/55LaOf.png" group-title="ÇOCUK KANALI", NICK JR
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6843/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="https://i.resimyukle.xyz/bxKy30.png" group-title="ÇOCUK KANALI", NICKELODEON HD
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6848/index.m3u8
+http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/4151.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD" tvg-logo="https://i.resimyukle.xyz/dTRPQ2.png" group-title="ÇOCUK KANALI", DISNEY JR HD
 http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6842/index.m3u8
@@ -385,9 +381,8 @@ https://mn-nl.mncdn.com/blutv_ebai2/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EBA TV Ortaokul" tvg-logo="https://i.imgur.com/G6Vo5OH.png" group-title="ÇOCUK KANALI" , EBA TV Ortaokul
 https://mn-nl.mncdn.com/blutv_ebao2/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="EBA TV Lise" tvg-logo="https://i.imgur.com/U7sTha8.png" group-title="ÇOCUK KANALI" , EBA TV Lise
+#EXTINF:-1 tvg-id="" tvg-name="EBA TV Lise" tvg-logo="https://i.imgur.com/U7sTha8.png" group-title="ÇOCUK KANALI" , EBA TV lise
 https://mn-nl.mncdn.com/blutv_ebal2/live.m3u8
-
 
 
 
