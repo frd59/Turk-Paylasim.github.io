@@ -236,7 +236,7 @@ https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
 https://mn-nl.mncdn.com/blutv_ntv2/live.m3u8
 
 EXTINF:-1 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="HABER KANALI",CNN TÜRK
-http://bosstr.net:80/live/nomoreacble/dsfsdfsfds/2033.m3u8
+http://mate.ovh:8000/live/BabarbugtiTR/Bajaia99som/33.m3u8
 
 #EXTINF:0 tvg-name="CNN türk" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_turk.png"tvg-id="" group-title="HABER KANALI",CNN TÜRK
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
