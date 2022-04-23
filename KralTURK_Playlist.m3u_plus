@@ -1,286 +1,256 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="showtv.tr" tvg-name="[TR] SHOW TV 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/SHOWTV.png" group-title="[TR] ULUSAL",[TR] SHOW TV 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10447
-#EXTINF:-1 tvg-ID="showtv.tr" tvg-name="[TR] SHOW TV HD" tvg-logo="http://123iptv.nl:88/picon/turkey/SHOWTV.png" group-title="[TR] ULUSAL",[TR] SHOW TV HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10448
-#EXTINF:-1 tvg-ID="showtv.tr" tvg-name="Show Türk" tvg-logo="" group-title="[TR] ULUSAL",Show Türk
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10449
-#EXTINF:-1 tvg-ID="showmax.tr" tvg-name="[TR] SHOW MAX" tvg-logo="http://123iptv.nl:88/picon/turkey/SHOWMAX.png" group-title="[TR] ULUSAL",[TR] SHOW MAX
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10450
-#EXTINF:-1 tvg-ID="startv.tr" tvg-name="[TR] STAR TV 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/STARTV.png" group-title="[TR] ULUSAL",[TR] STAR TV 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10451
-#EXTINF:-1 tvg-ID="startv.tr" tvg-name="[TR] STAR TV HD" tvg-logo="http://123iptv.nl:88/picon/turkey/STARTV.png" group-title="[TR] ULUSAL",[TR] STAR TV HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10452
-#EXTINF:-1 tvg-ID="startv.tr" tvg-name="[TR] EURO STAR" tvg-logo="http://123iptv.nl:88/picon/turkey/EUROSTAR.png" group-title="[TR] ULUSAL",[TR] EURO STAR
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10453
-#EXTINF:-1 tvg-ID="atv.tr" tvg-name="[TR] ATV 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/ATV.png" group-title="[TR] ULUSAL",[TR] ATV 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10454
-#EXTINF:-1 tvg-ID="atv.tr" tvg-name="[TR] ATV HD" tvg-logo="http://123iptv.nl:88/picon/turkey/ATV.png" group-title="[TR] ULUSAL",[TR] ATV HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10455
-#EXTINF:-1 tvg-ID="atv.tr" tvg-name="[TR] ATV AVRUPA" tvg-logo="http://123iptv.nl:88/picon/turkey/ATVAVRUPA.png" group-title="[TR] ULUSAL",[TR] ATV AVRUPA
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10456
-#EXTINF:-1 tvg-ID="a2tv.tr" tvg-name="[TR] A2 HD" tvg-logo="http://123iptv.nl:88/picon/turkey/A2.png" group-title="[TR] ULUSAL",[TR] A2 HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10457
-#EXTINF:-1 tvg-ID="a2tv.tr" tvg-name="[TR] A2 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/A2.png" group-title="[TR] ULUSAL",[TR] A2 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10458
-#EXTINF:-1 tvg-ID="fox.tr" tvg-name="[TR] FOX 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/FOXTV.png" group-title="[TR] ULUSAL",[TR] FOX 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10459
-#EXTINF:-1 tvg-ID="24.tr" tvg-name="[TR] FOX HD" tvg-logo="http://123iptv.nl:88/picon/turkey/FOXTV.png" group-title="[TR] ULUSAL",[TR] FOX HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10460
-#EXTINF:-1 tvg-ID="tv8.tr" tvg-name="[TR] TV8 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/TV8.png" group-title="[TR] ULUSAL",[TR] TV8 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10461
-#EXTINF:-1 tvg-ID="tv8.tr" tvg-name="[TR] TV8 HD" tvg-logo="http://123iptv.nl:88/picon/turkey/TV8.png" group-title="[TR] ULUSAL",[TR] TV8 HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10462
-#EXTINF:-1 tvg-ID="tv8.tr" tvg-name="[TR] TV8 INT" tvg-logo="http://123iptv.nl:88/picon/turkey/TV 8INT.png" group-title="[TR] ULUSAL",[TR] TV8 INT
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10463
-#EXTINF:-1 tvg-ID="tv85.tr" tvg-name="[TR] TV8 5 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/TV 8 5.png" group-title="[TR] ULUSAL",[TR] TV8 5 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10464
-#EXTINF:-1 tvg-ID="tv85.tr" tvg-name="[TR] TV8 5 HD" tvg-logo="http://123iptv.nl:88/picon/turkey/TV 8 5.png" group-title="[TR] ULUSAL",[TR] TV8 5 HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10465
-#EXTINF:-1 tvg-ID="kanald.tr" tvg-name="[TR] KANAL D 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/KANALD.png" group-title="[TR] ULUSAL",[TR] KANAL D 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10466
-#EXTINF:-1 tvg-ID="kanald.tr" tvg-name="[TR] KANAL D HD" tvg-logo="http://123iptv.nl:88/picon/turkey/KANALD.png" group-title="[TR] ULUSAL",[TR] KANAL D HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10467
-#EXTINF:-1 tvg-ID="kanald.tr" tvg-name="[TR] EURO D" tvg-logo="http://123iptv.nl:88/picon/turkey/EUROD.png" group-title="[TR] ULUSAL",[TR] EURO D
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10468
-#EXTINF:-1 tvg-ID="beyaztv.tr" tvg-name="[TR] BEYAZ TV  4K" tvg-logo="http://123iptv.nl:88/picon/turkey/BEYAZTV.png" group-title="[TR] ULUSAL",[TR] BEYAZ TV  4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10469
-#EXTINF:-1 tvg-ID="beyaztv.tr" tvg-name="[TR] BEYAZ TV HD" tvg-logo="http://123iptv.nl:88/picon/turkey/BEYAZTV.png" group-title="[TR] ULUSAL",[TR] BEYAZ TV HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10470
-#EXTINF:-1 tvg-ID="ahaber.tr" tvg-name="[TR] A HABER 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/AHABER.png" group-title="[TR] HABER",[TR] A HABER 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10473
-#EXTINF:-1 tvg-ID="ahaber.tr" tvg-name="[TR] A HABER HD" tvg-logo="http://123iptv.nl:88/picon/turkey/AHABER.png" group-title="[TR] HABER",[TR] A HABER HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10474
-#EXTINF:-1 tvg-ID="haberturk.tr" tvg-name="[TR] HABER TÜRK 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/HABERTURK.png" group-title="[TR] HABER",[TR] HABER TÜRK 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10475
-#EXTINF:-1 tvg-ID="haberturk.tr" tvg-name="[TR] HABER TÜRK HD" tvg-logo="http://123iptv.nl:88/picon/turkey/HABERTURK.png" group-title="[TR] HABER",[TR] HABER TÜRK HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10476
-#EXTINF:-1 tvg-ID="cnnturk.tr" tvg-name="[TR] CNN TÜRK 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/CNNTURK.png" group-title="[TR] HABER",[TR] CNN TÜRK 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10477
-#EXTINF:-1 tvg-ID="cnnturk.tr" tvg-name="[TR] CNN TÜRK HD" tvg-logo="http://123iptv.nl:88/picon/turkey/CNNTURK.png" group-title="[TR] HABER",[TR] CNN TÜRK HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10478
-#EXTINF:-1 tvg-ID="ntv.tr" tvg-name="[TR] NTV 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/NTV.png" group-title="[TR] HABER",[TR] NTV 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10479
-#EXTINF:-1 tvg-ID="ntv.tr" tvg-name="[TR] NTV HD" tvg-logo="http://123iptv.nl:88/picon/turkey/NTV.png" group-title="[TR] HABER",[TR] NTV HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10480
-#EXTINF:-1 tvg-ID="kanal7.tr" tvg-name="[TR] KANAL 7 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/KANAL7.png" group-title="[TR] ULUSAL",[TR] KANAL 7 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10481
-#EXTINF:-1 tvg-ID="kanal7.tr" tvg-name="[TR] KANAL 7 HD" tvg-logo="http://123iptv.nl:88/picon/turkey/KANAL7.png" group-title="[TR] ULUSAL",[TR] KANAL 7 HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10482
-#EXTINF:-1 tvg-ID="kanal7.tr" tvg-name="[TR] KANAL 7 AVRUPA" tvg-logo="http://123iptv.nl:88/picon/turkey/KANAL7AVRUPA.png" group-title="[TR] ULUSAL",[TR] KANAL 7 AVRUPA
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10483
-#EXTINF:-1 tvg-ID="trt1.tr" tvg-name="[TR] TRT 1 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/TRT1.png" group-title="[TR] ULUSAL",[TR] TRT 1 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10484
-#EXTINF:-1 tvg-ID="trt1.tr" tvg-name="[TR] TRT 1 HD" tvg-logo="http://123iptv.nl:88/picon/turkey/TRT1.png" group-title="[TR] ULUSAL",[TR] TRT 1 HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10485
-#EXTINF:-1 tvg-ID="trtturk.tr" tvg-name="[TR] TRT TÜRK 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/TRTTURK.png" group-title="[TR] ULUSAL",[TR] TRT TÜRK 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10488
-#EXTINF:-1 tvg-ID="trtturk.tr" tvg-name="[TR] TRT TÜRK HD" tvg-logo="http://123iptv.nl:88/picon/turkey/TRTTURK.png" group-title="[TR] ULUSAL",[TR] TRT TÜRK HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10489
-#EXTINF:-1 tvg-ID="trthaber.tr" tvg-name="[TR] TRT HABER 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/TRTHABER.png" group-title="[TR] HABER",[TR] TRT HABER 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10491
-#EXTINF:-1 tvg-ID="trthaber.tr" tvg-name="[TR] TRT HABER HD" tvg-logo="http://123iptv.nl:88/picon/turkey/TRTHABER.png" group-title="[TR] HABER",[TR] TRT HABER HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10492
-#EXTINF:-1 tvg-ID="trtbelgesel.tr" tvg-name="TRT Belgesel 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/TRT_Belgesel_logosu.png/250px-TRT_Belgesel_logosu.png" group-title="[TR] BELGESEL",TRT Belgesel 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10493
-#EXTINF:-1 tvg-ID="trtbelgesel.tr" tvg-name="TRT Belgesel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/TRT_Belgesel_logosu.png/250px-TRT_Belgesel_logosu.png" group-title="[TR] BELGESEL",TRT Belgesel HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10494
-#EXTINF:-1 tvg-ID="trtworld.tr" tvg-name="[TR] TRT WORLD 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/TRTWORLD.png" group-title="[TR] HABER",[TR] TRT WORLD 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10490
-#EXTINF:-1 tvg-ID="trtmuzik.tr" tvg-name="[TR] TRT MÜZIK 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/TRTMUZIK.png" group-title="[TR] MUZIK",[TR] TRT MÜZIK 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10486
-#EXTINF:-1 tvg-ID="trtmuzik.tr" tvg-name="[TR] TRT MÜZIK HD" tvg-logo="http://123iptv.nl:88/picon/turkey/TRT MUZIK.png" group-title="[TR] MUZIK",[TR] TRT MÜZIK HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10487
-#EXTINF:-1 tvg-ID="trtdiyanet.tr" tvg-name="TRT Diyanet 4K" tvg-logo="" group-title="[TR] ULUSAL",TRT Diyanet 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10500
-#EXTINF:-1 tvg-ID="trtavaz.tr" tvg-name="[TR] TRT AVAZ HD" tvg-logo="http://123iptv.nl:88/picon/turkey/TRTAVAZ.png" group-title="[TR] ULUSAL",[TR] TRT AVAZ HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10501
-#EXTINF:-1 tvg-ID="tgrthaber.tr" tvg-name="[TR] TGRT HABER" tvg-logo="http://123iptv.nl:88/picon/turkey/TGRTHABER.png" group-title="[TR] HABER",[TR] TGRT HABER
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10509
-#EXTINF:-1 tvg-ID="bloomberght.tr" tvg-name="[TR] BLOOMBERG HT 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/BLOOMERANGHT.png" group-title="[TR] HABER",[TR] BLOOMBERG HT 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10511
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] BENGÜ TÜRK" tvg-logo="http://123iptv.nl:88/picon/turkey/BENGUTV.png" group-title="[TR] ULUSAL",[TR] BENGÜ TÜRK
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10510
-#EXTINF:-1 tvg-ID="kraltv.tr" tvg-name="[TR] KRAL TV" tvg-logo="http://123iptv.nl:88/picon/turkey/KRAL TV.png" group-title="[TR] MUZIK",[TR] KRAL TV
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10502
-#EXTINF:-1 tvg-ID="dmax.tr" tvg-name="[TR] DMAX 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/dmax.png" group-title="[TR] BELGESEL",[TR] DMAX 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10503
-#EXTINF:-1 tvg-ID="dreamturk.tr" tvg-name="Dream TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Dream_TV_logosu.png" group-title="[TR] MUZIK",Dream TV HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10504
-#EXTINF:-1 tvg-ID="dreamturk.tr" tvg-name="[TR] DREAM TÜRK" tvg-logo="http://123iptv.nl:88/picon/turkey/DREAM TURK.png" group-title="[TR] MUZIK",[TR] DREAM TÜRK
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10505
-#EXTINF:-1 tvg-ID="powerturk.tr" tvg-name="[TR] POWER TV 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/POWER TV.png" group-title="[TR] MUZIK",[TR] POWER TV 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10506
-#EXTINF:-1 tvg-ID="powerturk.tr" tvg-name="[TR] POWER TÜRK 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/POWER TURK TV.png" group-title="[TR] MUZIK",[TR] POWER TÜRK 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10507
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] NR1 TÜRK 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/nr1 turk.png" group-title="[TR] MUZIK",[TR] NR1 TÜRK 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10508
-#EXTINF:-1 tvg-ID="kanalb.tr" tvg-name="[TR] KANAL B" tvg-logo="http://123iptv.nl:88/picon/turkey/KANALB.png" group-title="[TR] HABER",[TR] KANAL B
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10512
-#EXTINF:-1 tvg-ID="tvnet.tr" tvg-name="[TR] TV NET HD" tvg-logo="http://123iptv.nl:88/picon/turkey/TVNET.png" group-title="[TR] HABER",[TR] TV NET HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10514
-#EXTINF:-1 tvg-ID="semerkandtv.tr" tvg-name="[TR] SEMERKAND TV" tvg-logo="http://123iptv.nl:88/picon/turkey/SEMERKANDTV.png" group-title="[TR] ULUSAL",[TR] SEMERKAND TV
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10515
-#EXTINF:-1 tvg-ID="skyturk360.tr" tvg-name="[TR] SKY TÜRK 360 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/SKYTURK.png" group-title="[TR] ULUSAL",[TR] SKY TÜRK 360 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10517
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] HALK TV" tvg-logo="http://123iptv.nl:88/picon/turkey/HALKTV.png" group-title="[TR] HABER",[TR] HALK TV
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10516
-#EXTINF:-1 tvg-ID="ulketv.tr" tvg-name="[TR] ÜLKE TV 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/ULKETV.png" group-title="[TR] HABER",[TR] ÜLKE TV 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10518
-#EXTINF:-1 tvg-ID="fxnetwork.tr" tvg-name="[TR] FX TV 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/FX TV.png" group-title="[TR] BELGESEL",[TR] FX TV 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10521
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] RUMELI TV" tvg-logo="http://123iptv.nl:88/picon/turkey/RUMELITV.png" group-title="[TR] ULUSAL",[TR] RUMELI TV
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10523
-#EXTINF:-1 tvg-ID="teve2.tr" tvg-name="[TR] TEVE 2 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/TEVE2.png" group-title="[TR] ULUSAL",[TR] TEVE 2 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10526
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] CEM TV" tvg-logo="http://123iptv.nl:88/picon/turkey/CEMTV.png" group-title="[TR] ULUSAL",[TR] CEM TV
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10529
-#EXTINF:-1 tvg-ID="beingurme.tr" tvg-name="[TR] BEIN GÜRME HD" tvg-logo="http://123iptv.nl:88/picon/turkey/BEIN GURME.png" group-title="[TR] BELGESEL",[TR] BEIN GÜRME HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10531
-#EXTINF:-1 tvg-ID="davinci.tr" tvg-name="[TR] DAVINCI KIDS HD" tvg-logo="http://123iptv.nl:88/picon/turkey/DAVINCI.png" group-title="[TR] COCUK",[TR] DAVINCI KIDS HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10532
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] LALEGUL TV" tvg-logo="http://123iptv.nl:88/picon/turkey/LALEGULTV.png" group-title="[TR] ULUSAL",[TR] LALEGUL TV
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10537
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] KANAL 26" tvg-logo="http://123iptv.nl:88/picon/turkey/KANAL26.png" group-title="[TR] ULUSAL",[TR] KANAL 26
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10535
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] Kon TV" tvg-logo="http://canliturktv.com/Logolar/kontv.png" group-title="[TR] ULUSAL",[TR] Kon TV
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10536
-#EXTINF:-1 tvg-ID="dosttv.tr" tvg-name="Dost TV" tvg-logo="" group-title="[TR] ULUSAL",Dost TV
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10534
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] A Killi TV" tvg-logo="http://123iptv.nl:88/picon/turkey/AKILLITV.png" group-title="[TR] ULUSAL",[TR] A Killi TV
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10627
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] A NEWS HD" tvg-logo="http://123iptv.nl:88/picon/turkey/ANEWS.png" group-title="[TR] HABER",[TR] A NEWS HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10625
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] AKIT TV" tvg-logo="http://123iptv.nl:88/picon/turkey/AKIT TV.png" group-title="[TR] HABER",[TR] AKIT TV
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10628
-#EXTINF:-1 tvg-ID="" tvg-name="Arti TV" tvg-logo="" group-title="[TR] HABER",Arti TV
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10624
-#EXTINF:-1 tvg-ID="24.tr" tvg-name="Canali 24" tvg-logo="" group-title="[TR] ULUSAL",Canali 24
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/19031
-#EXTINF:-1 tvg-ID="" tvg-name="MC EU" tvg-logo="" group-title="[TR] HABER",MC EU
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/18705
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] DRT DENIZLI TV" tvg-logo="http://123iptv.nl:88/picon/turkey/DRTDENIZLI.png" group-title="[TR] ULUSAL",[TR] DRT DENIZLI TV
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10630
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] EKIN TURK TV" tvg-logo="http://123iptv.nl:88/picon/turkey/EKINTURKTV.png" group-title="[TR] ULUSAL",[TR] EKIN TURK TV
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10631
-#EXTINF:-1 tvg-ID="" tvg-name="Kabe TV" tvg-logo="" group-title="[TR] ULUSAL",Kabe TV
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10632
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] KANAL URFA" tvg-logo="http://123iptv.nl:88/picon/turkey/KANALURFA.png" group-title="[TR] ULUSAL",[TR] KANAL URFA
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10633
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] PAMUKKALE TV" tvg-logo="http://123iptv.nl:88/picon/turkey/PAMUKKALETV.png" group-title="[TR] ULUSAL",[TR] PAMUKKALE TV
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10634
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] REHBER TV" tvg-logo="http://123iptv.nl:88/picon/turkey/REHBERTV.png" group-title="[TR] ULUSAL",[TR] REHBER TV
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10635
-#EXTINF:-1 tvg-ID="" tvg-name="TELE 1" tvg-logo="" group-title="[TR] HABER",TELE 1
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10636
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] MILYON TV" tvg-logo="http://123iptv.nl:88/picon/turkey/MILYON TV.png" group-title="[TR] MUZIK",[TR] MILYON TV
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10540
-#EXTINF:-1 tvg-ID="tlc.tr" tvg-name="[TR] TLC HD" tvg-logo="http://123iptv.nl:88/picon/turkey/TLC.png" group-title="[TR] BELGESEL",[TR] TLC HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10541
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] MAVI KARADENIZ" tvg-logo="http://123iptv.nl:88/picon/turkey/MAVIKARADENIZ.png" group-title="[TR] ULUSAL",[TR] MAVI KARADENIZ
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10542
-#EXTINF:-1 tvg-ID="kanalb.tr" tvg-name="[TR] KANAL AVRUPA" tvg-logo="http://123iptv.nl:88/picon/turkey/KANALAVRUPA.png" group-title="[TR] ULUSAL",[TR] KANAL AVRUPA
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10547
-#EXTINF:-1 tvg-ID="dizismartpremium.tr" tvg-name="[TR] DIZISMART PREMIUM 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/DSP.png" group-title="[TR] SINEMA",[TR] DIZISMART PREMIUM 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10546
-#EXTINF:-1 tvg-ID="yabantv.tr" tvg-name="[TR] YABAN TV HD" tvg-logo="http://123iptv.nl:88/picon/turkey/yaban tv.png" group-title="[TR] BELGESEL",[TR] YABAN TV HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10545
-#EXTINF:-1 tvg-ID="viasathistorynature.tr" tvg-name="[TR] VIASAT NATURE / HISTORY HD" tvg-logo="http://123iptv.nl:88/picon/turkey/VIASAT NATURE.png" group-title="[TR] BELGESEL",[TR] VIASAT NATURE / HISTORY HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10544
-#EXTINF:-1 tvg-ID="natgeo.tr" tvg-name="National Geographic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/266px-Natgeologo.svg.png" group-title="[TR] BELGESEL",National Geographic HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10548
-#EXTINF:-1 tvg-ID="natgeowild.tr" tvg-name="National Geographic Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/200px-National_Geographic_Wild_logo.svg.png" group-title="[TR] BELGESEL",National Geographic Wild HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10549
-#EXTINF:-1 tvg-ID="discoverychannel.tr" tvg-name="Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/266px-Discovery_Channel_-_Logo_2019.svg.png" group-title="[TR] BELGESEL",Discovery Channel HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10551
-#EXTINF:-1 tvg-ID="discoveryscience.tr" tvg-name="Discovery Science & Vie HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Discovery_science.png/260px-Discovery_science.png" group-title="[TR] BELGESEL",Discovery Science & Vie HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10553
-#EXTINF:-1 tvg-ID="historychannel.tr" tvg-name="History Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/200px-History_Logo.svg.png" group-title="[TR] BELGESEL",History Channel HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10555
-#EXTINF:-1 tvg-ID="beinboxoffice1.tr" tvg-name="[TR] BEIN BOX OFFICE 1 HD" tvg-logo="http://123iptv.nl:88/picon/turkey/BEIN BOX OFFICE 1.png" group-title="[TR] SINEMA",[TR] BEIN BOX OFFICE 1 HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/18208
-#EXTINF:-1 tvg-ID="beinboxoffice2.tr" tvg-name="BeIN Box Office 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logo_beIN.png/315px-Logo_beIN.png" group-title="[TR] SINEMA",BeIN Box Office 2 HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/18210
-#EXTINF:-1 tvg-ID="beinboxoffice3.tr" tvg-name="BeIN Box Office 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logo_beIN.png/315px-Logo_beIN.png" group-title="[TR] SINEMA",BeIN Box Office 3 HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/18212
-#EXTINF:-1 tvg-ID="beinmoviespremier.tr" tvg-name="[TR] BEIN MOVIES PREMIERE 1 HD" tvg-logo="http://123iptv.nl:88/picon/turkey/BEIN MOVIES PREMIERE 1.png" group-title="[TR] SINEMA",[TR] BEIN MOVIES PREMIERE 1 HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/18214
-#EXTINF:-1 tvg-ID="beinmoviespremiere2.tr" tvg-name="BeIN Movies Premier 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logo_beIN.png/315px-Logo_beIN.png" group-title="[TR] SINEMA",BeIN Movies Premier 2 HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/18216
-#EXTINF:-1 tvg-ID="beinmoviespremier.tr" tvg-name="Bein Movies Premier 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logo_beIN.png/315px-Logo_beIN.png" group-title="[TR] SINEMA",Bein Movies Premier 3 HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/18218
-#EXTINF:-1 tvg-ID="beinmoviesaction.tr" tvg-name="BeIN Movies Action 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logo_beIN.png/315px-Logo_beIN.png" group-title="[TR] SINEMA",BeIN Movies Action 1 HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/18219
-#EXTINF:-1 tvg-ID="beinmoviesaction2.tr" tvg-name="BeIN Movies Action 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logo_beIN.png/315px-Logo_beIN.png" group-title="[TR] SINEMA",BeIN Movies Action 2 HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/18221
-#EXTINF:-1 tvg-ID="beinseriescomedy.tr" tvg-name="[TR] BEIN SERIES COMEDY HD" tvg-logo="http://123iptv.nl:88/picon/turkey/BEIN SERIES COMEDY.png" group-title="[TR] SINEMA",[TR] BEIN SERIES COMEDY HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/18223
-#EXTINF:-1 tvg-ID="beinmoviesstars.tr" tvg-name="BeIN Movies Stars HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logo_beIN.png/315px-Logo_beIN.png" group-title="[TR] SINEMA",BeIN Movies Stars HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/18227
-#EXTINF:-1 tvg-ID="beinmoviesturk.tr" tvg-name="BeIN Movies Türk HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logo_beIN.png/315px-Logo_beIN.png" group-title="[TR] SINEMA",BeIN Movies Türk HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/18229
-#EXTINF:-1 tvg-ID="beinmoviesfamily.tr" tvg-name="BeIN Movies Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logo_beIN.png/315px-Logo_beIN.png" group-title="[TR] SINEMA",BeIN Movies Family HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/18225
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Movies Yesilcam HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logo_beIN.png/315px-Logo_beIN.png" group-title="[TR] SINEMA",BeIN Movies Yesilcam HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/18233
-#EXTINF:-1 tvg-ID="beinseriesdrama.tr" tvg-name="BeIN Series Drama HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logo_beIN.png/315px-Logo_beIN.png" group-title="[TR] SINEMA",BeIN Series Drama HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/18235
-#EXTINF:-1 tvg-ID="beinseriesvice.tr" tvg-name="BeIN Series Vice HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logo_beIN.png/315px-Logo_beIN.png" group-title="[TR] SINEMA",BeIN Series Vice HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/18238
-#EXTINF:-1 tvg-ID="beinseriesscifi.tr" tvg-name="[TR] BEIN SERIES SCI-FI HD" tvg-logo="http://123iptv.nl:88/picon/turkey/BEIN SERIES SCI FI.png" group-title="[TR] SINEMA",[TR] BEIN SERIES SCI-FI HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/18237
-#EXTINF:-1 tvg-ID="sinematvhd.tr" tvg-name="[TR] SINEMA TV HD" tvg-logo="http://123iptv.nl:88/picon/turkey/CINEMATV.png" group-title="[TR] SINEMA",[TR] SINEMA TV HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10578
-#EXTINF:-1 tvg-ID="sinemaaksiyonhd.tr" tvg-name="[TR] SINEMA TV Aksion HD" tvg-logo="http://123iptv.nl:88/picon/turkey/SINEMATVAKSION.png" group-title="[TR] SINEMA",[TR] SINEMA TV Aksion HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10579
-#EXTINF:-1 tvg-ID="sinemaailehd.tr" tvg-name="Sinema TV Aile HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/1/13/Sinema_TV_Aile_logosu.png/300px-Sinema_TV_Aile_logosu.png" group-title="[TR] SINEMA",Sinema TV Aile HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10580
-#EXTINF:-1 tvg-ID="sinema1001hd.tr" tvg-name="[TR] SINEMA TV 1001 HD" tvg-logo="http://123iptv.nl:88/picon/turkey/SINEMATV1002.png" group-title="[TR] SINEMA",[TR] SINEMA TV 1001 HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10581
-#EXTINF:-1 tvg-ID="" tvg-name="Loca 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Turkey_film_clapperboard.svg/300px-Turkey_film_clapperboard.svg.png" group-title="[TR] SINEMA",Loca 1 HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/18244
-#EXTINF:-1 tvg-ID="" tvg-name="Loca 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Turkey_film_clapperboard.svg/300px-Turkey_film_clapperboard.svg.png" group-title="[TR] SINEMA",Loca 2 HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/18245
-#EXTINF:-1 tvg-ID="" tvg-name="Loca 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Turkey_film_clapperboard.svg/300px-Turkey_film_clapperboard.svg.png" group-title="[TR] SINEMA",Loca 3 HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/18246
-#EXTINF:-1 tvg-ID="disneychannel.tr" tvg-name="[TR] DISNEYCHANNEL HD" tvg-logo="http://123iptv.nl:88/picon/turkey/DISNEYCHANNEL.png" group-title="[TR] COCUK",[TR] DISNEYCHANNEL HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10584
-#EXTINF:-1 tvg-ID="disneychannel.tr" tvg-name="Disney Junior HD" tvg-logo="" group-title="[TR] COCUK",Disney Junior HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10585
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] NICKELODEON HD" tvg-logo="http://123iptv.nl:88/picon/turkey/NICKELODEON.png" group-title="[TR] COCUK",[TR] NICKELODEON HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10586
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] NICK JUNIOR HD" tvg-logo="http://123iptv.nl:88/picon/turkey/NICKJR.png" group-title="[TR] COCUK",[TR] NICK JUNIOR HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10587
-#EXTINF:-1 tvg-ID="cartoonnetwork.tr" tvg-name="[TR] CARTOON NETWORK HD" tvg-logo="http://123iptv.nl:88/picon/turkey/CARTOONNETWORK.png" group-title="[TR] COCUK",[TR] CARTOON NETWORK HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10588
-#EXTINF:-1 tvg-ID="trtcocuk.tr" tvg-name="[TR] TRT ÇOCUK 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/TRTCOCUK.png" group-title="[TR] COCUK",[TR] TRT ÇOCUK 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10497
-#EXTINF:-1 tvg-ID="trtcocuk.tr" tvg-name="[TR] TRT ÇOCUK HD" tvg-logo="http://123iptv.nl:88/picon/turkey/TRTCOCUK.png" group-title="[TR] COCUK",[TR] TRT ÇOCUK HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10498
-#EXTINF:-1 tvg-ID="minikacocuk.tr" tvg-name="[TR] MINIKAÇOCUK HD" tvg-logo="http://123iptv.nl:88/picon/turkey/MINIKACOCUK.png" group-title="[TR] COCUK",[TR] MINIKAÇOCUK HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10590
-#EXTINF:-1 tvg-ID="minikago.tr" tvg-name="[TR] MINIKAGO HD" tvg-logo="http://123iptv.nl:88/picon/turkey/MINIKAGO.png" group-title="[TR] COCUK",[TR] MINIKAGO HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10592
-#EXTINF:-1 tvg-ID="babytv.tr" tvg-name="[TR] BABY TV" tvg-logo="http://123iptv.nl:88/picon/turkey/BABYTV.png" group-title="[TR] COCUK",[TR] BABY TV
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/10591
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 HD" tvg-logo="http://mate.ovh:8000/images/icon/trt1.png" group-title="TR | ULUSAL",TRT 1 HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/14
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D HD" tvg-logo="" group-title="TR | ULUSAL",KANAL D HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/16
+#EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="https://pluspng.com/img-png/atv-logo-png-atv-logo-300.png" group-title="TR | ULUSAL",ATV HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/15
+#EXTINF:-1 tvg-id="" tvg-name="STAR TV HD" tvg-logo="" group-title="TR | ULUSAL",STAR TV HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17
+#EXTINF:-1 tvg-id="" tvg-name="SHOW TV HD" tvg-logo="" group-title="TR | ULUSAL",SHOW TV HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/18
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="" group-title="TR | ULUSAL",FOX HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/19
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 HD" tvg-logo="" group-title="TR | ULUSAL",KANAL 7 HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/21
+#EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV HD" tvg-logo="" group-title="TR | ULUSAL",BEYAZ TV HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/22
+#EXTINF:-1 tvg-id="" tvg-name="TV8 HD" tvg-logo="" group-title="TR | ULUSAL",TV8 HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/20
+#EXTINF:-1 tvg-id="" tvg-name="TEVE 2 HD" tvg-logo="" group-title="TR | ULUSAL",TEVE 2 HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/23
+#EXTINF:-1 tvg-id="" tvg-name="A2 HD" tvg-logo="" group-title="TR | ULUSAL",A2 HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/24
+#EXTINF:-1 tvg-id="" tvg-name="TV8.5" tvg-logo="" group-title="TR | ULUSAL",TV8.5
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/25
+#EXTINF:-1 tvg-id="" tvg-name="A SPOR HD" tvg-logo="" group-title="TR | ULUSAL",A SPOR HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/26
+#EXTINF:-1 tvg-id="" tvg-name="D MAX" tvg-logo="" group-title="TR | ULUSAL",D MAX
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/27
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR HD" tvg-logo="" group-title="TR | ULUSAL",TRT SPOR HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/28
+#EXTINF:-1 tvg-id="" tvg-name="NTV HD" tvg-logo="" group-title="TR | ULUSAL",NTV HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/29
+#EXTINF:-1 tvg-id="" tvg-name="A HABER HD" tvg-logo="" group-title="TR | ULUSAL",A HABER HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/30
+#EXTINF:-1 tvg-id="" tvg-name="TRT HABER HD" tvg-logo="https://www.canlitv.mobi/kanallar/trt-haber.png" group-title="TR | ULUSAL",TRT HABER HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/31
+#EXTINF:-1 tvg-id="" tvg-name="HABERTURK HD" tvg-logo="" group-title="TR | ULUSAL",HABERTURK HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/32
+#EXTINF:-1 tvg-id="" tvg-name="CNN TURK HD" tvg-logo="" group-title="TR | ULUSAL",CNN TURK HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/33
+#EXTINF:-1 tvg-id="" tvg-name="24 TV HD" tvg-logo="" group-title="TR | ULUSAL",24 TV HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/35
+#EXTINF:-1 tvg-id="" tvg-name="TVNET HD" tvg-logo="" group-title="TR | ULUSAL",TVNET HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/36
+#EXTINF:-1 tvg-id="" tvg-name="TGRT HABER" tvg-logo="" group-title="TR | ULUSAL",TGRT HABER
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/37
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART TURK FHD" tvg-logo="" group-title="",TR: MOVIESMART TURK FHD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/841
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART FEST FHD" tvg-logo="" group-title="",TR: MOVIESMART FEST FHD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/831
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART CLASSIC FHD" tvg-logo="" group-title="",TR: MOVIESMART CLASSIC FHD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/829
+#EXTINF:-1 tvg-id="" tvg-name="TR: DiziSmart PREMIUM FHD" tvg-logo="" group-title="",TR: DiziSmart PREMIUM FHD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/843
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Aile 2 HD" tvg-logo="" group-title="General Streams",Sinema Aile 2 HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17886
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Komedi 2 HD" tvg-logo="" group-title="General Streams",Sinema Komedi 2 HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17888
+#EXTINF:-1 tvg-id="" tvg-name="Sinema 1002 HD" tvg-logo="" group-title="General Streams",Sinema 1002 HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17890
+#EXTINF:-1 tvg-id="" tvg-name="Sinema 2 HD" tvg-logo="" group-title="General Streams",Sinema 2 HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17891
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Aksiyon HD" tvg-logo="" group-title="General Streams",Sinema Aksiyon HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17892
+#EXTINF:-1 tvg-id="" tvg-name="Sinema 1001 HD" tvg-logo="" group-title="General Streams",Sinema 1001 HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17893
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Aksiyon 2 HD" tvg-logo="" group-title="General Streams",Sinema Aksiyon 2 HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17894
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Aile HD" tvg-logo="" group-title="General Streams",Sinema Aile HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17895
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV Aile 2" tvg-logo="" group-title="General Streams",SINEMA TV Aile 2
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17889
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Komedi HD" tvg-logo="" group-title="General Streams",Sinema Komedi HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17887
+#EXTINF:-1 tvg-id="" tvg-name="GPU: ULKE TV HD" tvg-logo="" group-title="",GPU: ULKE TV HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/973
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="GPU: TV8 HD" tvg-logo="" group-title="test",GPU: TV8 HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/970
+#EXTINF:-1 tvg-id="" tvg-name="GPU: TV 8.5 HD" tvg-logo="" group-title="",GPU: TV 8.5 HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/969
+#EXTINF:-1 tvg-id="" tvg-name="GPU: TRT Spor HD" tvg-logo="" group-title="",GPU: TRT Spor HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/983
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="GPU: TRT HD" tvg-logo="" group-title="test",GPU: TRT HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/962
+#EXTINF:-1 tvg-id="" tvg-name="GPU: TRT Haber HD" tvg-logo="" group-title="",GPU: TRT Haber HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/984
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="GPU: Star TV HD" tvg-logo="" group-title="test",GPU: Star TV HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/963
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="GPU: SHOW TV HD" tvg-logo="https://www.canlitv.mobi/kanallar/show-tv.png" group-title="test",GPU: SHOW TV HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/961
+#EXTINF:-1 tvg-id="" tvg-name="GPU: POWER HD" tvg-logo="" group-title="",GPU: POWER HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/971
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="GPU: Kanal D HD" tvg-logo="" group-title="",GPU: Kanal D HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/964
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="GPU: KANAL 7 HD" tvg-logo="" group-title="",GPU: KANAL 7 HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/960
+#EXTINF:-1 tvg-id="" tvg-name="GPU: HABERTURK HD" tvg-logo="" group-title="",GPU: HABERTURK HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/977
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="GPU: FOX HD Tr" tvg-logo="" group-title="test",GPU: FOX HD Tr
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/987
+#EXTINF:-1 tvg-id="" tvg-name="GPU: DMAX HD" tvg-logo="" group-title="",GPU: DMAX HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/985
+#EXTINF:-1 tvg-id="" tvg-name="GPU: CNN TURK HD" tvg-logo="" group-title="",GPU: CNN TURK HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/978
+#EXTINF:-1 tvg-id="" tvg-name="GPU: Bloomberg HT HD" tvg-logo="" group-title="",GPU: Bloomberg HT HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/967
+#EXTINF:-1 tvg-id="" tvg-name="GPU: BEYAZ TV HD" tvg-logo="" group-title="",GPU: BEYAZ TV HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/968
+#EXTINF:-1 tvg-id="" tvg-name="GPU: A Spor HD" tvg-logo="" group-title="",GPU: A Spor HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/976
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="GPU: ATV HD" tvg-logo="" group-title="test",GPU: ATV HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/975
+#EXTINF:-1 tvg-id="A2" tvg-name="GPU: A2 HD" tvg-logo="" group-title="",GPU: A2 HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/965
+#EXTINF:-1 tvg-id="" tvg-name="GPU: A HABER HD" tvg-logo="" group-title="",GPU: A HABER HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/974
+#EXTINF:-1 tvg-id="" tvg-name="GPU: 360tv HD" tvg-logo="" group-title="",GPU: 360tv HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/966
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 2 HD" tvg-logo="" group-title="General Streams",BEIN SPORT 2 HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17626
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 4 HD" tvg-logo="" group-title="General Streams",BEIN SPORT 4 HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17628
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD" tvg-logo="" group-title="General Streams",BEIN SPORT HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17625
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 3 HD" tvg-logo="" group-title="General Streams",BEIN SPORT 3 HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17627
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX SPORTS 1 HD " tvg-logo="" group-title="General Streams",BEIN MAX SPORTS 1 HD 
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17629
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX SPORTS 2 HD " tvg-logo="" group-title="General Streams",BEIN MAX SPORTS 2 HD 
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17630
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 HD  LOCAL" tvg-logo="https://3.bp.blogspot.com/-gm6jQJ53lqA/VDWFJ8EWZWI/AAAAAAAAJkQ/smdtDJAzFWA/s1600/Trt1yenilogo.png" group-title="TR | ULUSAL",TRT 1 HD  LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17497
+#EXTINF:-1 tvg-id="" tvg-name="STAR TV HD  LOCAL" tvg-logo="" group-title="TR | ULUSAL",STAR TV HD  LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17500
+#EXTINF:-1 tvg-id="" tvg-name="ATV HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",ATV HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17505
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",KANAL D HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17506
+#EXTINF:-1 tvg-id="" tvg-name="SHOW TV HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",SHOW TV HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17509
+#EXTINF:-1 tvg-id="" tvg-name="FOX TV HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",FOX TV HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17512
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",TV 8 HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17515
+#EXTINF:-1 tvg-id="" tvg-name="TV 8.5 HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",TV 8.5 HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17518
+#EXTINF:-1 tvg-id="" tvg-name="TEVE 2 HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",TEVE 2 HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17520
+#EXTINF:-1 tvg-id="" tvg-name="A2 HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",A2 HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17522
+#EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",BEYAZ TV HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17524
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",KANAL 7 HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17526
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 EU LOCAL" tvg-logo="" group-title="TR | ULUSAL",KANAL 7 EU LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17528
+#EXTINF:-1 tvg-id="" tvg-name="360 TV HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",360 TV HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17529
+#EXTINF:-1 tvg-id="" tvg-name="TV 100 HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",TV 100 HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17531
+#EXTINF:-1 tvg-id="" tvg-name="TV 4 HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",TV 4 HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17533
+#EXTINF:-1 tvg-id="" tvg-name="ATV EURO LOCAL" tvg-logo="" group-title="TR | ULUSAL",ATV EURO LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17534
+#EXTINF:-1 tvg-id="" tvg-name="EURO STAR LOCAL" tvg-logo="" group-title="TR | ULUSAL",EURO STAR LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17535
+#EXTINF:-1 tvg-id="" tvg-name="SHOW TURK LOCAL" tvg-logo="" group-title="TR | ULUSAL",SHOW TURK LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17536
+#EXTINF:-1 tvg-id="" tvg-name="EURO D LOCAL" tvg-logo="" group-title="TR | ULUSAL",EURO D LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17537
+#EXTINF:-1 tvg-id="" tvg-name="TV8 INT LOCAL" tvg-logo="" group-title="TR | ULUSAL",TV8 INT LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17538
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS HABER HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",SPORTS HABER HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17539
+#EXTINF:-1 tvg-id="" tvg-name="A SPOR HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",A SPOR HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17540
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR HD  LOCAL" tvg-logo="" group-title="TR | ULUSAL",TRT SPOR HD  LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17542
+#EXTINF:-1 tvg-id="" tvg-name="SPORSMART LOCAL" tvg-logo="" group-title="TR | ULUSAL",SPORSMART LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17548
+#EXTINF:-1 tvg-id="" tvg-name="spor" tvg-logo="" group-title="TR | ULUSAL",spor
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17550
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT LOCAL" tvg-logo="" group-title="TR | ULUSAL",EUROSPORT LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17553
+#EXTINF:-1 tvg-id="" tvg-name="FB TV HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",FB TV HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17557
+#EXTINF:-1 tvg-id="" tvg-name="A HABER HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",A HABER HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17562
+#EXTINF:-1 tvg-id="" tvg-name="TRT HABER HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",TRT HABER HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17564
+#EXTINF:-1 tvg-id="" tvg-name="NTV HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",NTV HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17566
+#EXTINF:-1 tvg-id="" tvg-name="HABER TURK HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",HABER TURK HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17568
+#EXTINF:-1 tvg-id="" tvg-name="CNN TURK HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",CNN TURK HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17570
+#EXTINF:-1 tvg-id="" tvg-name="TGRT HABER HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",TGRT HABER HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17572
+#EXTINF:-1 tvg-id="" tvg-name="TGRT HABER LOCAL" tvg-logo="" group-title="TR | ULUSAL",TGRT HABER LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17573
+#EXTINF:-1 tvg-id="" tvg-name="ULKE TV HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",ULKE TV HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17574
+#EXTINF:-1 tvg-id="" tvg-name="24 TV HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",24 TV HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17576
+#EXTINF:-1 tvg-id="" tvg-name="TV NET HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",TV NET HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17577
+#EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",HABER GLOBAL HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17578
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG HT HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",BLOOMBERG HT HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17581
+#EXTINF:-1 tvg-id="" tvg-name="A PARA HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",A PARA HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17582
+#EXTINF:-1 tvg-id="" tvg-name="EKO TURK LOCAL" tvg-logo="" group-title="TR | ULUSAL",EKO TURK LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17583
+#EXTINF:-1 tvg-id="" tvg-name="TELE 1 HD LOCAL" tvg-logo="" group-title="TR | ULUSAL",TELE 1 HD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17584
+#EXTINF:-1 tvg-id="" tvg-name="HALK TV LOCAL" tvg-logo="" group-title="TR | ULUSAL",HALK TV LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17585
+#EXTINF:-1 tvg-id="" tvg-name="ULUSAL TV LOCAL" tvg-logo="" group-title="TR | ULUSAL",ULUSAL TV LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17586
+#EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL LOCAL" tvg-logo="" group-title="TR | ULUSAL",TRT BELGESEL LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17589
+#EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL LOCAL" tvg-logo="" group-title="TR | ULUSAL",TRT BELGESEL LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17590
+#EXTINF:-1 tvg-id="" tvg-name="TRT 4K LOCAL" tvg-logo="" group-title="TR | ULUSAL",TRT 4K LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17591
+#EXTINF:-1 tvg-id="" tvg-name="BEIN IZ HD" tvg-logo="" group-title="TR | ULUSAL",BEIN IZ HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17592
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH LOCAL" tvg-logo="" group-title="TR | ULUSAL",BBC EARTH LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17593
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD FHD LOCAL" tvg-logo="" group-title="TR | ULUSAL",NAT GEO WILD FHD LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17595
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO LOCAL" tvg-logo="" group-title="TR | ULUSAL",NAT GEO LOCAL
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17597
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO PEOPLE FHD" tvg-logo="" group-title="TR | ULUSAL",NAT GEO PEOPLE FHD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17599
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FHD" tvg-logo="" group-title="TR | ULUSAL",DISCOVERY FHD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17601
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="" group-title="TR | ULUSAL",DISCOVERY SCIENCE FHD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17603
+#EXTINF:-1 tvg-id="" tvg-name="DMAX HD" tvg-logo="" group-title="TR | ULUSAL",DMAX HD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17608
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD TR" tvg-logo="" group-title="TR | ULUSAL",TLC HD TR
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17610
+#EXTINF:-1 tvg-id="" tvg-name="VIASAT NATURE HISTORY FHD" tvg-logo="" group-title="TR | ULUSAL",VIASAT NATURE HISTORY FHD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17613
+#EXTINF:-1 tvg-id="" tvg-name="OUTDOOR FHD" tvg-logo="" group-title="TR | ULUSAL",OUTDOOR FHD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17618
+#EXTINF:-1 tvg-id="" tvg-name="DOCUBOX FHD" tvg-logo="" group-title="TR | ULUSAL",DOCUBOX FHD
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17619
 
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] BRT 1 TV" tvg-logo="http://123iptv.nl:88/picon/turkey/BRT1.png" group-title="[TR] ULUSAL",[TR] BRT 1 TV
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30672
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] ALTAS TV (Ordu)" tvg-logo="http://123iptv.nl:88/picon/turkey/ALTASTV.png" group-title="[TR] ULUSAL",[TR] ALTAS TV (Ordu)
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30669
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] ADATV" tvg-logo="http://123iptv.nl:88/picon/turkey/ADATV.png" group-title="[TR] ULUSAL",[TR] ADATV
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30658
-#EXTINF:-1 tvg-ID="" tvg-name="ASTV Bursa" tvg-logo="" group-title="[TR] ULUSAL",ASTV Bursa
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30675
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] A Spor HD" tvg-logo="" group-title="[TR] SPOR",[TR] A Spor HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30782
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] A Spor 4K" tvg-logo="" group-title="[TR] SPOR",[TR] A Spor 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30777
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] VIZYON 58 (SIVAS)" tvg-logo="http://123iptv.nl:88/picon/turkey/VIZYON58.png" group-title="[TR] ULUSAL",[TR] VIZYON 58 (SIVAS)
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30655
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] UCAN KUS" tvg-logo="http://123iptv.nl:88/picon/turkey/ucankustv.png" group-title="[TR] ULUSAL",[TR] UCAN KUS
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30662
-
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 HD" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport 1 HD
 http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/943.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Backup" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport 1 Backup
@@ -302,85 +272,7 @@ http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/4831.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport Max 2 HD" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport Max 2 HD
 http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/4832.ts
 #EXTINF:-1 tvg-ID="" tvg-name="[TR] Tivibu Spor 3 HD" tvg-logo="" group-title="[TR] SPOR",[TR] Tivibu Spor 3 HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30768
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] Tivibu Spor 3 4K" tvg-logo="" group-title="[TR] SPOR",[TR] Tivibu Spor 3 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30763
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] Tivibu Spor 2 HD" tvg-logo="" group-title="[TR] SPOR",[TR] Tivibu Spor 2 HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30767
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] Tivibu Spor 2 4K" tvg-logo="" group-title="[TR] SPOR",[TR] Tivibu Spor 2 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30762
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] Tivibu Spor 1 HD" tvg-logo="" group-title="[TR] SPOR",[TR] Tivibu Spor 1 HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30766
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] Tivibu Spor 1 4K" tvg-logo="" group-title="[TR] SPOR",[TR] Tivibu Spor 1 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30761
-#EXTINF:-1 tvg-ID="" tvg-name="TV41" tvg-logo="" group-title="[TR] ULUSAL",TV41
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30674
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] TV1 KAYSERI" tvg-logo="http://123iptv.nl:88/picon/turkey/TV 1 KAYSERI.png" group-title="[TR] ULUSAL",[TR] TV1 KAYSERI
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30665
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] TV KAYSERI" tvg-logo="http://123iptv.nl:88/picon/turkey/TVKAYSERI.png" group-title="[TR] ULUSAL",[TR] TV KAYSERI
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30664
-#EXTINF:-1 tvg-ID="" tvg-name="TV DEN" tvg-logo="http://123iptv.nl:88/picon/turkey/TVDEN.png" group-title="[TR] ULUSAL",TV DEN
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30653
-#EXTINF:-1 tvg-ID="" tvg-name="TV 264" tvg-logo="" group-title="[TR] ULUSAL",TV 264
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/29391
-#EXTINF:-1 tvg-ID="trtspor.tr" tvg-name="[TR] TRT SPOR HD" tvg-logo="http://123iptv.nl:88/picon/turkey/trtspor.png" group-title="[TR] SPOR",[TR] TRT SPOR HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30783
-#EXTINF:-1 tvg-ID="trtspor.tr" tvg-name="TRT Spor 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TRT_Spor_kurumsal_logo.png/200px-TRT_Spor_kurumsal_logo.png" group-title="[TR] SPOR",TRT Spor 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30778
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] Sports TV" tvg-logo="" group-title="[TR] SPOR",[TR] Sports TV
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30794
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] Spor Smart HD" tvg-logo="" group-title="[TR] SPOR",[TR] Spor Smart HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30780
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] Spor Smart 4K" tvg-logo="" group-title="[TR] SPOR",[TR] Spor Smart 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30775
-#EXTINF:-1 tvg-ID="skyturk360.tr" tvg-name="[TR] SKY TÜRK 360 HD" tvg-logo="http://123iptv.nl:88/picon/turkey/SKYTURK.png" group-title="[TR] ULUSAL",[TR] SKY TÜRK 360 HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30650
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] S Sport HD" tvg-logo="" group-title="[TR] SPOR",[TR] S Sport HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30781
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] S Sport 4K" tvg-logo="" group-title="[TR] SPOR",[TR] S Sport 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30776
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] NBA TV HD" tvg-logo="http://123iptv.nl:88/picon/turkey/NBA TV.png" group-title="[TR] SPOR",[TR] NBA TV HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30788
-#EXTINF:-1 tvg-ID="moviesmartturk.tr" tvg-name="[TR] MOVIESMART TÜRK 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/MOVIESMART TURK.png" group-title="[TR] SINEMA",[TR] MOVIESMART TÜRK 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30620
-#EXTINF:-1 tvg-ID="moviesmartpremium.tr" tvg-name="[TR] MOVIESMART PREMIUM 4K" tvg-logo="https://www.dsmart.com.tr/epg/images/0x50/59f97253cfef0b75f4723ded" group-title="[TR] SINEMA",[TR] MOVIESMART PREMIUM 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30618
-#EXTINF:-1 tvg-ID="moviesmartpremium2.tr" tvg-name="[TR] MOVIESMART PREMIUM 2 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/MOVIESMART PREMIUM2.png" group-title="[TR] SINEMA",[TR] MOVIESMART PREMIUM 2 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30619
-#EXTINF:-1 tvg-ID="moviesmartfamily.tr" tvg-name="Moviesmart Family 4K" tvg-logo="https://www.dsmart.com.tr/epg/images/0x50/59f9728ecfef0b75f4723f8e" group-title="[TR] SINEMA",Moviesmart Family 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30613
-#EXTINF:-1 tvg-ID="moviesmartclassic.tr" tvg-name="[TR] MOVIESMART CLASSIC 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/MOVIESMART CLASSIC.png" group-title="[TR] SINEMA",[TR] MOVIESMART CLASSIC 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30612
-#EXTINF:-1 tvg-ID="" tvg-name="Kanal V Antalaya" tvg-logo="" group-title="[TR] ULUSAL",Kanal V Antalaya
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30659
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] KANAL T" tvg-logo="http://123iptv.nl:88/picon/turkey/KANALT.png" group-title="[TR] ULUSAL",[TR] KANAL T
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30654
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] KANAL 42 KONYA" tvg-logo="http://123iptv.nl:88/picon/turkey/KANAL42.png" group-title="[TR] ULUSAL",[TR] KANAL 42 KONYA
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30668
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] KANAL 3 AFYON" tvg-logo="http://123iptv.nl:88/picon/turkey/KANAL3AFYON.png" group-title="[TR] ULUSAL",[TR] KANAL 3 AFYON
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30663
-#EXTINF:-1 tvg-ID="" tvg-name="[TR]  KRT TV 4K" tvg-logo="http://123iptv.nl:88/picon/turkey/KRTTV.png" group-title="[TR] HABER",[TR]  KRT TV 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30661
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] GALATASARAY TV HD" tvg-logo="http://123iptv.nl:88/picon/turkey/GALATASARAYTV.png" group-title="[TR] SPOR",[TR] GALATASARAY TV HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30792
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] FENERBACHE TV HD" tvg-logo="http://123iptv.nl:88/picon/turkey/FENERBAHCHETV.png" group-title="[TR] SPOR",[TR] FENERBACHE TV HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30791
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] Eurosport 2 HD" tvg-logo="" group-title="[TR] SPOR",[TR] Eurosport 2 HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30790
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] Eurosport 2 4K" tvg-logo="" group-title="[TR] SPOR",[TR] Eurosport 2 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30787
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] Eurosport 1 HD" tvg-logo="" group-title="[TR] SPOR",[TR] Eurosport 1 HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30789
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] Eurosport 1 4K" tvg-logo="" group-title="[TR] SPOR",[TR] Eurosport 1 4K
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30786
-#EXTINF:-1 tvg-ID="" tvg-name="ES TV Eskisehir" tvg-logo="" group-title="[TR] ULUSAL",ES TV Eskisehir
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30671
-#EXTINF:-1 tvg-ID="dmax.tr" tvg-name="[TR] DMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/200px-DMAX_BLACK.svg.png" group-title="[TR] BELGESEL",[TR] DMAX HD
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/28306
-#EXTINF:-1 tvg-ID="" tvg-name="Can TV" tvg-logo="" group-title="[TR] HABER",Can TV
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30660
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] BURSA TV" tvg-logo="http://123iptv.nl:88/picon/turkey/BURSATV.png" group-title="[TR] ULUSAL",[TR] BURSA TV
-http://123iptv.nl:88/prokappli/Ibkli0PAdG02/30667
+
 
 #EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="TR: ##########   Turkey   ##########" tvg-logo="" group-title="Turk Channel",TR: ##########   Turkey   ##########
