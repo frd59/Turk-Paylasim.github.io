@@ -166,27 +166,26 @@ http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17618
 http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17619
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 HD" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport 1 HD
-http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/943.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Backup" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport 1 Backup
-http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/5953.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 2 hd" tvg-logo="" group-title="[TR] SPOR" ,TR: Bein Sport 2 hd
-http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/1672.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 2 Backup" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport 2 Backup
-http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/5955.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 3 HD" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport 3 HD
-http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/1655.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 3 Backup" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport 3 Backup
-http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/5956.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 4 HD" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport 4 HD
-http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/4142.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport Haber HD" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport Haber HD
-http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/5490.ts
+http://5.255.94.250:25461/live/ztv/Mast3r/579.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 HD" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport 1 HD
+http://5.255.94.250:25461/live/ztv/Mast3r/573.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 2 hd" tvg-logo="" group-title="[TR] SPOR" ,TR: Bein Sport 2 hd
+http://5.255.94.250:25461/live/ztv/Mast3r/574.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 3 HD" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport 3 HD
+http://5.255.94.250:25461/live/ztv/Mast3r/575.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 4 HD" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport 4 HD
+http://5.255.94.250:25461/live/ztv/Mast3r/576.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport Max 1 HD" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport Max 1 HD
-http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/4831.ts
+http://5.255.94.250:25461/live/ztv/Mast3r/577.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport Max 2 HD" tvg-logo="" group-title="[TR] SPOR",TR: Bein Sport Max 2 HD
-http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/4832.ts
-#EXTINF:-1 tvg-ID="" tvg-name="[TR] Tivibu Spor 3 HD" tvg-logo="" group-title="[TR] SPOR",[TR] Tivibu Spor 3 HD
+http://5.255.94.250:25461/live/ztv/Mast3r/578.ts
+
 
 
 #EXTM3U
