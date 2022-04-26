@@ -144,7 +144,7 @@ https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
 http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/795.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-KANALLAR",TV8 FHD
-http://tv.romanija.xyz:8080/live/22maky/test111/1227.ts
+http://5.255.94.250:25461/live/ztv/Mast3r/435.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr.png" group-title="ULUSAL-KANALLAR",TV8 HD
 http://mate.ovh:8000/live/BabarbugtiTR/Bajaia99som/20.ts
