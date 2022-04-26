@@ -45,9 +45,9 @@ http://37.221.121.166:8080/hls/sporligtv/playlist.m3u8
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="SPOR KANALI",S SPORT HD 1
-http://blackiptv.nl:8000/live/buyasaponline/oLvwbZjOqC/700.ts
+http://admin-serotv.com:8080/live/savEJEbs3h/XeACnpvjpC/195660.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-2-tr.png" group-title="SPOR KANALI",S SPORT HD 2
-http://iptv-volkan.net:8000/live/MTGmege565752852/mtg58765meg48hgtrd/6294.ts
+http://admin-serotv.com:8080/live/savEJEbs3h/XeACnpvjpC/195661.ts
 
 #EXTINF:-1 tvg-logo="http://pici.life/TR/tivibusporttr.png" group-title="SPOR KANALI",Tivibu Spor 1
 http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/48241.ts
