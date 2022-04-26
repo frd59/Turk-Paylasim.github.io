@@ -108,7 +108,7 @@ http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/826.ts
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-KANALLAR",STAR TV FHD
-http://190.2.148.141:80/bar1109/index.m3u8
+http://mate.ovh:8000/live/BabarbugtiTR/Bajaia99som/17.ts
 
 #EXTINF:-1 tvg-name="STAR TV TR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_tv_tr.png" tvg-id="Start.tr" group-title="ULUSAL-KANALLAR",STAR TV HD
 https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
