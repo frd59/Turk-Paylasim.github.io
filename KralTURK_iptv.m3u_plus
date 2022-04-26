@@ -151,6 +151,8 @@ http://mate.ovh:8000/live/BabarbugtiTR/Bajaia99som/20.ts
 
 #EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",TV8.5 UHD
 https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
+#EXTINF:-1 tvg-name="TV8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png"tvg-id="" group-title ="ULUSAL-KANALLAR",TV8.5 FHD
+http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/48313.ts
 
 #EXTINF:-1 tvg-name="TEVE2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teve_2_tr.png"tvg-id="" group-title="ULUSAL-KANALLAR",TEVE2 UHD
 https://mn-nl.mncdn.com/blutv_teve22/live.m3u8
