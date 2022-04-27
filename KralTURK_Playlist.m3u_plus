@@ -1,4 +1,1619 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="✦  ✦ ULUSAL  KANALLAR  ✦ ✦  " tvg-logo="http://raw.uzmantvx.com:8080/Bluevip/BMWU4IYa7W/680" group-title="TURKEY ☪ ULUSAL",✦  ✦ ULUSAL  KANALLAR  ✦ ✦  
+http://ip.luxetv.club:8080/senkron24/2123686/88128
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT 1 FHD" tvg-logo="http://focustv.xyz/files/ch/TR/TRT1HD.png" group-title="TURKEY ☪ ULUSAL",TRT 1 FHD
+http://ip.luxetv.club:8080/senkron24/2123686/81315
+#EXTINF:-1 tvg-id="trt4k.tr" tvg-name="TRT 4K UHD 2160p" tvg-logo="http://focustv.xyz/files/ch/TR/trt4K.png" group-title="TURKEY ☪ ULUSAL",TRT 4K UHD 2160p
+http://ip.luxetv.club:8080/senkron24/2123686/81313
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="TRT 2 FHD" tvg-logo="http://focustv.xyz/files/ch/TR/trt_2.png" group-title="TURKEY ☪ ULUSAL",TRT 2 FHD
+http://ip.luxetv.club:8080/senkron24/2123686/81317
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="FOX TV FHD" tvg-logo="http://focustv.xyz/files/ch/%C4%B0SPANYA/FOXHD.png" group-title="TURKEY ☪ ULUSAL",FOX TV FHD
+http://ip.luxetv.club:8080/senkron24/2123686/81327
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="STAR TV FHD" tvg-logo="http://focustv.xyz/files/ch/TR/star.png" group-title="TURKEY ☪ ULUSAL",STAR TV FHD
+http://ip.luxetv.club:8080/senkron24/2123686/81321
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="SHOW TV FHD" tvg-logo="http://focustv.xyz/files/ch/TR/SHOWHD.png" group-title="TURKEY ☪ ULUSAL",SHOW TV FHD
+http://ip.luxetv.club:8080/senkron24/2123686/81323
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D FHD" tvg-logo="http://focustv.xyz/files/ch/TR/KANALDHDPLUS.png" group-title="TURKEY ☪ ULUSAL",KANAL D FHD
+http://ip.luxetv.club:8080/senkron24/2123686/81325
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV FHD" tvg-logo="http://focustv.xyz/files/ch/TR/ATVHD.png" group-title="TURKEY ☪ ULUSAL",ATV FHD
+http://ip.luxetv.club:8080/senkron24/2123686/81319
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TV 8 FHD" tvg-logo="http://focustv.xyz/files/ch/TR/TV8HDPLUS.png" group-title="TURKEY ☪ ULUSAL",TV 8 FHD
+http://ip.luxetv.club:8080/senkron24/2123686/81329
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TV 8.5 FHD" tvg-logo="http://focustv.xyz/files/ch/TR/TV8.5HDPLUS.png" group-title="TURKEY ☪ ULUSAL",TV 8.5 FHD
+http://ip.luxetv.club:8080/senkron24/2123686/81331
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="BEYAZ TV FHD" tvg-logo="http://focustv.xyz/files/ch/TR/BEYAZHDPLUS.png" group-title="TURKEY ☪ ULUSAL",BEYAZ TV FHD
+http://ip.luxetv.club:8080/senkron24/2123686/81333
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7 " tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/kanal7hd.png" group-title="TURKEY ☪ ULUSAL",TR: Kanal 7 
+http://ip.luxetv.club:8080/senkron24/2123686/78931
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="KANAL 7 AVRUPA FHD" tvg-logo="http://focustv.xyz/files/ch/TR/kanal7av.png" group-title="TURKEY ☪ ULUSAL",KANAL 7 AVRUPA FHD
+http://ip.luxetv.club:8080/senkron24/2123686/81335
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TEVE 2 FHD" tvg-logo="http://focustv.xyz/files/ch/TR/TEVE2HDPLUS.png" group-title="TURKEY ☪ ULUSAL",TEVE 2 FHD
+http://ip.luxetv.club:8080/senkron24/2123686/81336
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="A2  FHD" tvg-logo="http://focustv.xyz/files/ch/ALBANEXYU/a2-al.png" group-title="TURKEY ☪ ULUSAL",A2  FHD
+http://ip.luxetv.club:8080/senkron24/2123686/81338
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360 TV FHD" tvg-logo="http://focustv.xyz/files/ch/TR/360TVHDPLUS.png" group-title="TURKEY ☪ ULUSAL",360 TV FHD
+http://ip.luxetv.club:8080/senkron24/2123686/81340
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="SHOW MAX FHD" tvg-logo="http://focustv.xyz/files/ch/TR/show_max.png" group-title="TURKEY ☪ ULUSAL",SHOW MAX FHD
+http://ip.luxetv.club:8080/senkron24/2123686/81342
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV AVRUPA" tvg-logo="http://focustv.xyz/files/ch/TR/atv_avrupa.png" group-title="TURKEY ☪ ULUSAL",ATV AVRUPA
+http://ip.luxetv.club:8080/senkron24/2123686/81344
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="EURO STAR" tvg-logo="http://focustv.xyz/files/ch/TR/eurostar.png" group-title="TURKEY ☪ ULUSAL",EURO STAR
+http://ip.luxetv.club:8080/senkron24/2123686/81345
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="EURO D" tvg-logo="http://focustv.xyz/files/ch/TR/euro_d.png" group-title="TURKEY ☪ ULUSAL",EURO D
+http://ip.luxetv.club:8080/senkron24/2123686/81346
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 INT" tvg-logo="http://focustv.xyz/files/ch/TR/tv8int.png" group-title="TURKEY ☪ ULUSAL",TV 8 INT
+http://ip.luxetv.club:8080/senkron24/2123686/81347
+#EXTINF:-1 tvg-id="" tvg-name="FLASH TV HD" tvg-logo="http://focustv.xyz/files/ch/TR/flashTv.png" group-title="TURKEY ☪ ULUSAL",FLASH TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/81348
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT 1 HD" tvg-logo="http://focustv.xyz/files/ch/TR/TRT1HD.png" group-title="TURKEY ☪ ULUSAL",TRT 1 HD
+http://ip.luxetv.club:8080/senkron24/2123686/81316
+#EXTINF:-1 tvg-id="trt4k.tr" tvg-name="TRT 4K" tvg-logo="http://focustv.xyz/files/ch/TR/trt4K.png" group-title="TURKEY ☪ ULUSAL",TRT 4K
+http://ip.luxetv.club:8080/senkron24/2123686/81314
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="TRT 2 HD" tvg-logo="http://focustv.xyz/files/ch/TR/trt_2.png" group-title="TURKEY ☪ ULUSAL",TRT 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/81318
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV HD" tvg-logo="http://focustv.xyz/files/ch/TR/ATVHD.png" group-title="TURKEY ☪ ULUSAL",ATV HD
+http://ip.luxetv.club:8080/senkron24/2123686/81320
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="STAR TV HD" tvg-logo="http://focustv.xyz/files/ch/TR/star.png" group-title="TURKEY ☪ ULUSAL",STAR TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/81322
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="SHOW TV HD" tvg-logo="http://focustv.xyz/files/ch/TR/SHOWHD.png" group-title="TURKEY ☪ ULUSAL",SHOW TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/81324
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D HD" tvg-logo="http://focustv.xyz/files/ch/TR/KANALDHDPLUS.png" group-title="TURKEY ☪ ULUSAL",KANAL D HD
+http://ip.luxetv.club:8080/senkron24/2123686/81326
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="FOX TV HD" tvg-logo="http://focustv.xyz/files/ch/%C4%B0SPANYA/FOXHD.png" group-title="TURKEY ☪ ULUSAL",FOX TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/81328
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TV 8 HD" tvg-logo="http://focustv.xyz/files/ch/TR/TV8HDPLUS.png" group-title="TURKEY ☪ ULUSAL",TV 8 HD
+http://ip.luxetv.club:8080/senkron24/2123686/81330
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TV 8.5 HD" tvg-logo="http://focustv.xyz/files/ch/TR/TV8.5HDPLUS.png" group-title="TURKEY ☪ ULUSAL",TV 8.5 HD
+http://ip.luxetv.club:8080/senkron24/2123686/81332
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="BEYAZ TV HD" tvg-logo="http://focustv.xyz/files/ch/TR/BEYAZHDPLUS.png" group-title="TURKEY ☪ ULUSAL",BEYAZ TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/81334
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TEVE 2 HD" tvg-logo="http://focustv.xyz/files/ch/TR/TEVE2HDPLUS.png" group-title="TURKEY ☪ ULUSAL",TEVE 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/81337
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="A2 HD" tvg-logo="http://focustv.xyz/files/ch/ALBANEXYU/a2-al.png" group-title="TURKEY ☪ ULUSAL",A2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/81339
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360 TV HD" tvg-logo="http://focustv.xyz/files/ch/TR/360TVHDPLUS.png" group-title="TURKEY ☪ ULUSAL",360 TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/81341
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="SHOW TURK HD" tvg-logo="http://focustv.xyz/files/ch/TR/SHOWT%C3%9CRK.png" group-title="TURKEY ☪ ULUSAL",SHOW TURK HD
+http://ip.luxetv.club:8080/senkron24/2123686/81343
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-name="TRT TURK HD" tvg-logo="http://focustv.xyz/files/ch/TR/TRTT%C3%9CRK.png" group-title="TURKEY ☪ ULUSAL",TRT TURK HD
+http://ip.luxetv.club:8080/senkron24/2123686/81349
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="TRT AVAZ HD" tvg-logo="http://focustv.xyz/files/ch/TR/TRTAVAZHDPLUS.png" group-title="TURKEY ☪ ULUSAL",TRT AVAZ HD
+http://ip.luxetv.club:8080/senkron24/2123686/81350
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="TRT AVAZ" tvg-logo="http://focustv.xyz/files/ch/TR/TRTAVAZHDPLUS.png" group-title="TURKEY ☪ ULUSAL",TRT AVAZ
+http://ip.luxetv.club:8080/senkron24/2123686/81351
+#EXTINF:-1 tvg-id="" tvg-name="TRT ARABI" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/trtarabhd.png" group-title="TURKEY ☪ ULUSAL",TRT ARABI
+http://ip.luxetv.club:8080/senkron24/2123686/81352
+#EXTINF:-1 tvg-id="" tvg-name="TIVI TURK HD" tvg-logo="http://paris.tvlogos.xyz:8080/logos/oval/tr/ulusal/tiviturkhd.png" group-title="TURKEY ☪ ULUSAL",TIVI TURK HD
+http://ip.luxetv.club:8080/senkron24/2123686/81353
+#EXTINF:-1 tvg-id="ucankus.tr" tvg-name="UCANKUS TV HD" tvg-logo="http://focustv.xyz/files/ch/TR/ucankus_tv.png" group-title="TURKEY ☪ ULUSAL",UCANKUS TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/81354
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦● HEVC | H2 ✦●✦●" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="TURKEY ☪ HEVC ✦ H2 ",✦●✦● HEVC | H2 ✦●✦●
+http://ip.luxetv.club:8080/senkron24/2123686/81355
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT 1 H2" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/trt1hd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",TRT 1 H2
+http://ip.luxetv.club:8080/senkron24/2123686/81356
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV H2" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/atvhd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",ATV H2
+http://ip.luxetv.club:8080/senkron24/2123686/81358
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="STAR TV H2" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/starhd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",STAR TV H2
+http://ip.luxetv.club:8080/senkron24/2123686/81360
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="SHOW TV H2" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/showhd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",SHOW TV H2
+http://ip.luxetv.club:8080/senkron24/2123686/81362
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D H2" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/kanaldhd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",KANAL D H2
+http://ip.luxetv.club:8080/senkron24/2123686/81364
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="FOX TV H2" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/foxhd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",FOX TV H2
+http://ip.luxetv.club:8080/senkron24/2123686/81366
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TV 8 H2" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/tv8hd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",TV 8 H2
+http://ip.luxetv.club:8080/senkron24/2123686/81368
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="BEYAZ TV H2" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/beyazhd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",BEYAZ TV H2
+http://ip.luxetv.club:8080/senkron24/2123686/81370
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TV 8.5 H2" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/tv8.5hd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",TV 8.5 H2
+http://ip.luxetv.club:8080/senkron24/2123686/81372
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="KANAL 7 H2" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/kanal7hd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",KANAL 7 H2
+http://ip.luxetv.club:8080/senkron24/2123686/81374
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TEVE 2 H2" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/teve2hd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",TEVE 2 H2
+http://ip.luxetv.club:8080/senkron24/2123686/81375
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="A2 H2" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/a2hd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",A2 H2
+http://ip.luxetv.club:8080/senkron24/2123686/81377
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360 TV H2" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/360hd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",360 TV H2
+http://ip.luxetv.club:8080/senkron24/2123686/81379
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-name="TRT TURK H2" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/trtturkhd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",TRT TURK H2
+http://ip.luxetv.club:8080/senkron24/2123686/81381
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT 1 HEVC" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/trt1hd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",TRT 1 HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/81357
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV HEVC" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/atvhd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",ATV HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/81359
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="STAR TV HEVC" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/starhd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",STAR TV HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/81361
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="SHOW TV HEVC" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/showhd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",SHOW TV HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/81363
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D HEVC" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/kanaldhd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",KANAL D HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/81365
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="FOX TV HEVC" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/foxhd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",FOX TV HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/81367
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TV 8 HEVC" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/tv8hd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",TV 8 HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/81369
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="BEYAZ TV HEVC" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/beyazhd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",BEYAZ TV HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/81371
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TV 8.5 HEVC" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/tv8.5hd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",TV 8.5 HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/81373
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TEVE 2 HEVC" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/teve2hd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",TEVE 2 HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/81376
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="A2 HEVC" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/a2hd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",A2 HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/81378
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360 TV HEVC" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/360hd.png" group-title="TURKEY ☪ HEVC ✦ H2 ",360 TV HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/81380
+#EXTINF:-1 tvg-id="" tvg-name="TV 4 HD+" tvg-logo="http://logo.sltv.site/logo/turkeyT/tv_4.png" group-title="TURKEY ☪ ULUSAL",TV 4 HD+
+http://ip.luxetv.club:8080/senkron24/2123686/78461
+#EXTINF:-1 tvg-id="" tvg-name="TV 4 HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/tv_4.png" group-title="TURKEY ☪ ULUSAL",TV 4 HD
+http://ip.luxetv.club:8080/senkron24/2123686/78462
+#EXTINF:-1 tvg-id="trtebatvilkokul.tr" tvg-name="TRT EBA ILKOKUL HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/eba-tv-ilk.png" group-title="TURKEY ☪ ULUSAL",TRT EBA ILKOKUL HD
+http://ip.luxetv.club:8080/senkron24/2123686/78484
+#EXTINF:-1 tvg-id="trtebatvortaokul.tr" tvg-name="TRT EBA ORTAOKUL" tvg-logo="http://logo.sltv.site/logo/turkeyT/eba-tv-orta.png" group-title="TURKEY ☪ ULUSAL",TRT EBA ORTAOKUL
+http://ip.luxetv.club:8080/senkron24/2123686/78485
+#EXTINF:-1 tvg-id="trtebatvortaokul.tr" tvg-name="TRT EBA LISE" tvg-logo="http://logo.sltv.site/logo/turkeyT/eba-tv-lise.png" group-title="TURKEY ☪ ULUSAL",TRT EBA LISE
+http://ip.luxetv.club:8080/senkron24/2123686/78486
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦● YEREL ✦●✦●" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="TURKEY ☪ ULUSAL",✦●✦● YEREL ✦●✦●
+http://ip.luxetv.club:8080/senkron24/2123686/78861
+#EXTINF:-1 tvg-id="" tvg-name="ADANA KOZA TV" tvg-logo="http://logo.sltv.site/logo/turkeyT/koza_tv.png" group-title="TURKEY ☪ ULUSAL",ADANA KOZA TV
+http://ip.luxetv.club:8080/senkron24/2123686/78862
+#EXTINF:-1 tvg-id="" tvg-name="AFYON TURK TV" tvg-logo="http://dolorex.tvlogos.xyz:8080/logos/oval/tr/yerel/afyonturkhd.png" group-title="TURKEY ☪ ULUSAL",AFYON TURK TV
+http://ip.luxetv.club:8080/senkron24/2123686/78863
+#EXTINF:-1 tvg-id="" tvg-name="AFYON KANAL 3 HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/kanal3.png" group-title="TURKEY ☪ ULUSAL",AFYON KANAL 3 HD
+http://ip.luxetv.club:8080/senkron24/2123686/78864
+#EXTINF:-1 tvg-id="" tvg-name="AHI TV KIRSEHIR" tvg-logo="http://dolorex.tvlogos.xyz:8080/logos/oval/tr/yerel/kirsehirahitvhd.png" group-title="TURKEY ☪ ULUSAL",AHI TV KIRSEHIR
+http://ip.luxetv.club:8080/senkron24/2123686/78865
+#EXTINF:-1 tvg-id="" tvg-name="AKSARAY KANAL 68" tvg-logo="http://logo.sltv.site/logo/turkeyT/kanal_68.png" group-title="TURKEY ☪ ULUSAL",AKSARAY KANAL 68
+http://ip.luxetv.club:8080/senkron24/2123686/78866
+#EXTINF:-1 tvg-id="" tvg-name="ANKARA SITELER TV" tvg-logo="http://dolorex.tvlogos.xyz:8080/logos/oval/tr/yerel/ankarasitelertvhd.png" group-title="TURKEY ☪ ULUSAL",ANKARA SITELER TV
+http://ip.luxetv.club:8080/senkron24/2123686/78867
+#EXTINF:-1 tvg-id="" tvg-name="ANTALYA KANAL V" tvg-logo="http://logo.sltv.site/logo/turkeyT/kanal_v_antalya.png" group-title="TURKEY ☪ ULUSAL",ANTALYA KANAL V
+http://ip.luxetv.club:8080/senkron24/2123686/78868
+#EXTINF:-1 tvg-id="" tvg-name="ANADOLU DERNEK TV" tvg-logo="http://logo.sltv.site/logo/turkeyT/anadolu_dernek.png" group-title="TURKEY ☪ ULUSAL",ANADOLU DERNEK TV
+http://ip.luxetv.club:8080/senkron24/2123686/78869
+#EXTINF:-1 tvg-id="" tvg-name="ADIYAMAN MERCAN TV HD" tvg-logo="http://dolorex.tvlogos.xyz:8080/logos/oval/tr/yerel/adiyamanmercantvhd.png" group-title="TURKEY ☪ ULUSAL",ADIYAMAN MERCAN TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/78870
+#EXTINF:-1 tvg-id="" tvg-name="BURSA AS TV HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/as_tv_bursa.png" group-title="TURKEY ☪ ULUSAL",BURSA AS TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/78872
+#EXTINF:-1 tvg-id="" tvg-name="BURSA TV" tvg-logo="http://focustv.xyz/files/ch/TR/ilke_tv.png" group-title="TURKEY ☪ ULUSAL",BURSA TV
+http://ip.luxetv.club:8080/senkron24/2123686/78873
+#EXTINF:-1 tvg-id="" tvg-name="BURSA LINE TV" tvg-logo="http://logo.sltv.site/logo/turkeyT/line_tv.png" group-title="TURKEY ☪ ULUSAL",BURSA LINE TV
+http://ip.luxetv.club:8080/senkron24/2123686/78874
+#EXTINF:-1 tvg-id="" tvg-name="BUCAK K15" tvg-logo="http://dolorex.tvlogos.xyz:8080/logos/oval/tr/yerel/bucakk15hd.png" group-title="TURKEY ☪ ULUSAL",BUCAK K15
+http://ip.luxetv.club:8080/senkron24/2123686/78875
+#EXTINF:-1 tvg-id="" tvg-name="BOLU MERKEZ TV" tvg-logo="http://focustv.xyz/files/ch/TR/MERKEZTVBOLU.png" group-title="TURKEY ☪ ULUSAL",BOLU MERKEZ TV
+http://ip.luxetv.club:8080/senkron24/2123686/78876
+#EXTINF:-1 tvg-id="" tvg-name="CANAKKALE TON TV" tvg-logo="http://logo.sltv.site/logo/turkeyT/ton_tv_canakkkale.png" group-title="TURKEY ☪ ULUSAL",CANAKKALE TON TV
+http://ip.luxetv.club:8080/senkron24/2123686/78877
+#EXTINF:-1 tvg-id="" tvg-name="CORUM KANAL 19" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/19corumtv-hdtvler-btgi.png" group-title="TURKEY ☪ ULUSAL",CORUM KANAL 19
+http://ip.luxetv.club:8080/senkron24/2123686/78878
+#EXTINF:-1 tvg-id="" tvg-name="KANAL AVRUPA HD" tvg-logo="https://i.hizliresim.com/KDdUL5.png" group-title="TURKEY ☪ ULUSAL",KANAL AVRUPA HD
+http://ip.luxetv.club:8080/senkron24/2123686/78879
+#EXTINF:-1 tvg-id="" tvg-name="DERSIM 62" tvg-logo="https://r.resimlink.com/BrCJp0wk.png" group-title="TURKEY ☪ ULUSAL",DERSIM 62
+http://ip.luxetv.club:8080/senkron24/2123686/78880
+#EXTINF:-1 tvg-id="" tvg-name="DENIZLI DEHA TV" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/dehatv-hdtvler-xz0t.png" group-title="TURKEY ☪ ULUSAL",DENIZLI DEHA TV
+http://ip.luxetv.club:8080/senkron24/2123686/78881
+#EXTINF:-1 tvg-id="" tvg-name="DENIZLI DRT TV" tvg-logo="https://zenprospect-production.s3.amazonaws.com/uploads/pictures/5e66dd37999a2a0001c9de9c/picture" group-title="TURKEY ☪ ULUSAL",DENIZLI DRT TV
+http://ip.luxetv.club:8080/senkron24/2123686/78882
+#EXTINF:-1 tvg-id="" tvg-name="DENİZLİ PAMUKKALE" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh6SyBAyfuLMMHqwjUocHZ580BqmenOMPw1s7zo=s900-c-k-c0x00ffffff-no-rj" group-title="TURKEY ☪ ULUSAL",DENİZLİ PAMUKKALE
+http://ip.luxetv.club:8080/senkron24/2123686/78883
+#EXTINF:-1 tvg-id="" tvg-name="ELAZIG KANAL 23" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/kanal23tv-hdtvler-om5q.png" group-title="TURKEY ☪ ULUSAL",ELAZIG KANAL 23
+http://ip.luxetv.club:8080/senkron24/2123686/78884
+#EXTINF:-1 tvg-id="" tvg-name="ELAZIG KANAL FIRAT" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/kanalfirattv-hdtvler-ilxh.png" group-title="TURKEY ☪ ULUSAL",ELAZIG KANAL FIRAT
+http://ip.luxetv.club:8080/senkron24/2123686/78885
+#EXTINF:-1 tvg-id="" tvg-name="ERZINCAN ERT SAH TV" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/ertsahtv-hdtvler-rrfl.png" group-title="TURKEY ☪ ULUSAL",ERZINCAN ERT SAH TV
+http://ip.luxetv.club:8080/senkron24/2123686/78886
+#EXTINF:-1 tvg-id="" tvg-name="ERZURUM KARDELEN TV" tvg-logo="https://kardelentv.com.tr/wp-content/uploads/2017/10/buyuk-kardelentv-logo.png" group-title="TURKEY ☪ ULUSAL",ERZURUM KARDELEN TV
+http://ip.luxetv.club:8080/senkron24/2123686/78887
+#EXTINF:-1 tvg-id="" tvg-name="ESKISEHIR KANAL 26 HD" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/26tv-hdtvler-91px.png" group-title="TURKEY ☪ ULUSAL",ESKISEHIR KANAL 26 HD
+http://ip.luxetv.club:8080/senkron24/2123686/78888
+#EXTINF:-1 tvg-id="" tvg-name="GAZIANTEP GRT" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/grtgazianteptv-hdtvler-y5qj.png" group-title="TURKEY ☪ ULUSAL",GAZIANTEP GRT
+http://ip.luxetv.club:8080/senkron24/2123686/78889
+#EXTINF:-1 tvg-id="" tvg-name="GAZIANTEP OLAY TV" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/gaziantepolaytv-hdtvler-nsik.png" group-title="TURKEY ☪ ULUSAL",GAZIANTEP OLAY TV
+http://ip.luxetv.club:8080/senkron24/2123686/78890
+#EXTINF:-1 tvg-id="" tvg-name="ISTANBUL KANAL 34" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/34tv-hdtvler-xr8u.png" group-title="TURKEY ☪ ULUSAL",ISTANBUL KANAL 34
+http://ip.luxetv.club:8080/senkron24/2123686/78892
+#EXTINF:-1 tvg-id="" tvg-name="ISTANBUL MAVI KARADENIZ" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/mavikaradeniz.png" group-title="TURKEY ☪ ULUSAL",ISTANBUL MAVI KARADENIZ
+http://ip.luxetv.club:8080/senkron24/2123686/78893
+#EXTINF:-1 tvg-id="" tvg-name="ISTANBUL TEMPO TV HD" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/tempotv-hdtvler-9jlg.png" group-title="TURKEY ☪ ULUSAL",ISTANBUL TEMPO TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/78894
+#EXTINF:-1 tvg-id="" tvg-name="KAHRAMANMARAS AKSU TV" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/aksutv-hdtvler-yhuz.png" group-title="TURKEY ☪ ULUSAL",KAHRAMANMARAS AKSU TV
+http://ip.luxetv.club:8080/senkron24/2123686/78896
+#EXTINF:-1 tvg-id="" tvg-name="KONYA KON TV" tvg-logo="https://www.canlitvizlemeli.com/uploads/kanal/27788kontv-canli.png" group-title="TURKEY ☪ ULUSAL",KONYA KON TV
+http://ip.luxetv.club:8080/senkron24/2123686/78897
+#EXTINF:-1 tvg-id="" tvg-name="KONYA KANAL 42" tvg-logo="https://i.hizliresim.com/cvAs5Z.png" group-title="TURKEY ☪ ULUSAL",KONYA KANAL 42
+http://ip.luxetv.club:8080/senkron24/2123686/78898
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 65 (VAN)" tvg-logo="http://logo.sltv.site/logo/turkeyT/kanal65.png" group-title="TURKEY ☪ ULUSAL",KANAL 65 (VAN)
+http://ip.luxetv.club:8080/senkron24/2123686/78899
+#EXTINF:-1 tvg-id="" tvg-name="KARABUK BRTV" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/brtvtv-hdtvler-cq4l.png" group-title="TURKEY ☪ ULUSAL",KARABUK BRTV
+http://ip.luxetv.club:8080/senkron24/2123686/78900
+#EXTINF:-1 tvg-id="" tvg-name="KAYSERI DENIZ POSTASI HD" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/kaytv-hdtvler-6o3c.png" group-title="TURKEY ☪ ULUSAL",KAYSERI DENIZ POSTASI HD
+http://ip.luxetv.club:8080/senkron24/2123686/78901
+#EXTINF:-1 tvg-id="" tvg-name="KAYSERI KAY TV" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/tvkayseri-hdtvler-u2e0.png" group-title="TURKEY ☪ ULUSAL",KAYSERI KAY TV
+http://ip.luxetv.club:8080/senkron24/2123686/78902
+#EXTINF:-1 tvg-id="" tvg-name="KAYSERI KENT TURK HD" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/38kenttv-hdtvler-onju.png" group-title="TURKEY ☪ ULUSAL",KAYSERI KENT TURK HD
+http://ip.luxetv.club:8080/senkron24/2123686/78903
+#EXTINF:-1 tvg-id="" tvg-name="KAYSERI LIFE TV" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/tvkayseri-hdtvler-u2e0.png" group-title="TURKEY ☪ ULUSAL",KAYSERI LIFE TV
+http://ip.luxetv.club:8080/senkron24/2123686/78904
+#EXTINF:-1 tvg-id="" tvg-name="KAYSERI OLAY TURK" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/olayturktv-hdtvler-itk2.png" group-title="TURKEY ☪ ULUSAL",KAYSERI OLAY TURK
+http://ip.luxetv.club:8080/senkron24/2123686/78905
+#EXTINF:-1 tvg-id="" tvg-name="KOCAELI TV 41" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/tv41-hdtvler-x52f.png" group-title="TURKEY ☪ ULUSAL",KOCAELI TV 41
+http://ip.luxetv.club:8080/senkron24/2123686/78906
+#EXTINF:-1 tvg-id="" tvg-name="KOCAELI TV" tvg-logo="http://dolorex.tvlogos.xyz:8080/logos/oval/tr/yerel/kocaelitvhd.png" group-title="TURKEY ☪ ULUSAL",KOCAELI TV
+http://ip.luxetv.club:8080/senkron24/2123686/78907
+#EXTINF:-1 tvg-id="" tvg-name="YILDIZ EN" tvg-logo="https://i.hizliresim.com/MHLPXm.png" group-title="TURKEY ☪ ULUSAL",YILDIZ EN
+http://ip.luxetv.club:8080/senkron24/2123686/78908
+#EXTINF:-1 tvg-id="" tvg-name="VATAN TV" tvg-logo="https://i.hizliresim.com/03TT4Y.png" group-title="TURKEY ☪ ULUSAL",VATAN TV
+http://ip.luxetv.club:8080/senkron24/2123686/78909
+#EXTINF:-1 tvg-id="" tvg-name="MANISA TV HD+" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/etv-hdtvler-77qk.png" group-title="TURKEY ☪ ULUSAL",MANISA TV HD+
+http://ip.luxetv.club:8080/senkron24/2123686/78910
+#EXTINF:-1 tvg-id="" tvg-name="MALATYA ER TV" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/tvmalatya-hdtvler-dfq3.png" group-title="TURKEY ☪ ULUSAL",MALATYA ER TV
+http://ip.luxetv.club:8080/senkron24/2123686/78911
+#EXTINF:-1 tvg-id="" tvg-name="MALATYA VUSLAT TV" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/vuslattv-hdtvler-8pvq.png" group-title="TURKEY ☪ ULUSAL",MALATYA VUSLAT TV
+http://ip.luxetv.club:8080/senkron24/2123686/78912
+#EXTINF:-1 tvg-id="" tvg-name="MERSIN ICEL TV" tvg-logo="http://dolorex.tvlogos.xyz:8080/logos/oval/tr/yerel/mersiniceltvhd.png" group-title="TURKEY ☪ ULUSAL",MERSIN ICEL TV
+http://ip.luxetv.club:8080/senkron24/2123686/78913
+#EXTINF:-1 tvg-id="" tvg-name="MERSIN KANAL 33" tvg-logo="http://logo.sltv.site/logo/turkeyT/kanal_33_mersin.png" group-title="TURKEY ☪ ULUSAL",MERSIN KANAL 33
+http://ip.luxetv.club:8080/senkron24/2123686/78914
+#EXTINF:-1 tvg-id="" tvg-name="MERSIN MSBC KANAL 2000" tvg-logo="http://focustv.xyz/files/ch/%C4%B0TALYA/TV2000.png" group-title="TURKEY ☪ ULUSAL",MERSIN MSBC KANAL 2000
+http://ip.luxetv.club:8080/senkron24/2123686/78915
+#EXTINF:-1 tvg-id="" tvg-name="MUGLA TURK TV" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/muglaturktv-hdtvler-q6em.png" group-title="TURKEY ☪ ULUSAL",MUGLA TURK TV
+http://ip.luxetv.club:8080/senkron24/2123686/78916
+#EXTINF:-1 tvg-id="" tvg-name="ON 4 TV" tvg-logo="https://www.canlimobeseizle.com/wp-content/uploads/on4Logo.png" group-title="TURKEY ☪ ULUSAL",ON 4 TV
+http://ip.luxetv.club:8080/senkron24/2123686/78917
+#EXTINF:-1 tvg-id="" tvg-name="ORDU TV 52 HD" tvg-logo="https://i.hizliresim.com/x0er8q.png" group-title="TURKEY ☪ ULUSAL",ORDU TV 52 HD
+http://ip.luxetv.club:8080/senkron24/2123686/78919
+#EXTINF:-1 tvg-id="" tvg-name="RIZE CAY TV" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/caytv-hdtvler-e1gs.png" group-title="TURKEY ☪ ULUSAL",RIZE CAY TV
+http://ip.luxetv.club:8080/senkron24/2123686/78920
+#EXTINF:-1 tvg-id="" tvg-name="RUMELI TV" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/rumelitv-hdtvler-x3cr.png" group-title="TURKEY ☪ ULUSAL",RUMELI TV
+http://ip.luxetv.club:8080/senkron24/2123686/78921
+#EXTINF:-1 tvg-id="" tvg-name="SANLIURFA KANAL URFA" tvg-logo="https://r.resimlink.com/YWFCzdhZ.png" group-title="TURKEY ☪ ULUSAL",SANLIURFA KANAL URFA
+http://ip.luxetv.club:8080/senkron24/2123686/78922
+#EXTINF:-1 tvg-id="" tvg-name="SANLIURFA GUNEYDOGU TV" tvg-logo="https://r.resimlink.com/ukOiVAef.png" group-title="TURKEY ☪ ULUSAL",SANLIURFA GUNEYDOGU TV
+http://ip.luxetv.club:8080/senkron24/2123686/78923
+#EXTINF:-1 tvg-id="" tvg-name="SIVAS VIZYON 58 HD" tvg-logo="https://www.futbolmedya.com/wp-content/uploads/2017/11/vizyon_58_tr.png" group-title="TURKEY ☪ ULUSAL",SIVAS VIZYON 58 HD
+http://ip.luxetv.club:8080/senkron24/2123686/78925
+#EXTINF:-1 tvg-id="" tvg-name="TV 5" tvg-logo="http://logo.sltv.site/logo/turkeyT/tv_5.png" group-title="TURKEY ☪ ULUSAL",TV 5
+http://ip.luxetv.club:8080/senkron24/2123686/78926
+#EXTINF:-1 tvg-id="" tvg-name="TV EM" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/tvem-hdtvler-ipfc.png" group-title="TURKEY ☪ ULUSAL",TV EM
+http://ip.luxetv.club:8080/senkron24/2123686/78927
+#EXTINF:-1 tvg-id="" tvg-name="HRT AKDENIZ TV" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/hrtakdeniz.png" group-title="TURKEY ☪ ULUSAL",HRT AKDENIZ TV
+http://ip.luxetv.club:8080/senkron24/2123686/78928
+#EXTINF:-1 tvg-id="" tvg-name="MC EU TV (AVRUPA)" tvg-logo="http://logo.sltv.site/logo/turkeyT/mc_eu.png" group-title="TURKEY ☪ ULUSAL",MC EU TV (AVRUPA)
+http://ip.luxetv.club:8080/senkron24/2123686/78929
+#EXTINF:-1 tvg-id="" tvg-name="ZONGULDAK KANAL Z" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/kanalztv-hdtvler-m9nf.png" group-title="TURKEY ☪ ULUSAL",ZONGULDAK KANAL Z
+http://ip.luxetv.club:8080/senkron24/2123686/78930
+#EXTINF:-1 tvg-id="" tvg-name="AKILLI TV" tvg-logo="http://logo.sltv.site/logo/turkeyT/akilli_tv.png" group-title="TURKEY ☪ ULUSAL",AKILLI TV
+http://ip.luxetv.club:8080/senkron24/2123686/78476
+#EXTINF:-1 tvg-id="" tvg-name="KIBRIS TV" tvg-logo="http://logo.sltv.site/logo/turkeyT/kibris_tv.png" group-title="TURKEY ☪ ULUSAL",KIBRIS TV
+http://ip.luxetv.club:8080/senkron24/2123686/78477
+#EXTINF:-1 tvg-id="" tvg-name="KIBRIS ADA TV HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/ada_tv.png" group-title="TURKEY ☪ ULUSAL",KIBRIS ADA TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/78478
+#EXTINF:-1 tvg-id="" tvg-name="KIBRIS KANAL T HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/kanalT_kibris.png" group-title="TURKEY ☪ ULUSAL",KIBRIS KANAL T HD
+http://ip.luxetv.club:8080/senkron24/2123686/78479
+#EXTINF:-1 tvg-id="" tvg-name="KIBRIS GENC TV HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/kinris_genc_tv.png" group-title="TURKEY ☪ ULUSAL",KIBRIS GENC TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/78480
+#EXTINF:-1 tvg-id="" tvg-name="KIBRIS GUNES TV" tvg-logo="http://logo.sltv.site/logo/turkeyT/gunesTv.png" group-title="TURKEY ☪ ULUSAL",KIBRIS GUNES TV
+http://ip.luxetv.club:8080/senkron24/2123686/78481
+#EXTINF:-1 tvg-id="" tvg-name="KIBRIS KANAL SIM HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/kanal_sim.png" group-title="TURKEY ☪ ULUSAL",KIBRIS KANAL SIM HD
+http://ip.luxetv.club:8080/senkron24/2123686/78482
+#EXTINF:-1 tvg-id="" tvg-name="KIBRIS TV 2020 HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/tv2020.png" group-title="TURKEY ☪ ULUSAL",KIBRIS TV 2020 HD
+http://ip.luxetv.club:8080/senkron24/2123686/78483
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR: TRT HABER HD+" tvg-logo="http://iptvtelekom.com/newpicon/trthaber.png" group-title="TURKEY ☪ HABER",TR: TRT HABER HD+
+http://ip.luxetv.club:8080/senkron24/2123686/15069
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="TR: HABER TURK HD+" tvg-logo="http://iptvtelekom.com/newpicon/haberturk.png" group-title="TURKEY ☪ HABER",TR: HABER TURK HD+
+http://ip.luxetv.club:8080/senkron24/2123686/15072
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR: CNN TURK HD+" tvg-logo="http://iptvtelekom.com/newpicon/cnnturk.png" group-title="TURKEY ☪ HABER",TR: CNN TURK HD+
+http://ip.luxetv.club:8080/senkron24/2123686/15068
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="TR: TGRT HABER HD+" tvg-logo="http://iptvtelekom.com/newpicon/tgrthaber.png" group-title="TURKEY ☪ HABER",TR: TGRT HABER HD+
+http://ip.luxetv.club:8080/senkron24/2123686/15077
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR: NTV HD+" tvg-logo="http://iptvtelekom.com/newpicon/ntv.png" group-title="TURKEY ☪ HABER",TR: NTV HD+
+http://ip.luxetv.club:8080/senkron24/2123686/15076
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRT FHD" tvg-logo="http://iptvtelekom.com/newpicon/krt.png" group-title="TURKEY ☪ HABER",TR: KRT FHD
+http://ip.luxetv.club:8080/senkron24/2123686/15083
+#EXTINF:-1 tvg-id="" tvg-name="TR | HALK TV HD." tvg-logo="http://iptvtelekom.com/newpicon/halktv.png" group-title="TURKEY ☪ HABER",TR | HALK TV HD.
+http://ip.luxetv.club:8080/senkron24/2123686/24773
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="TR: HALK TV HEVC" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/halk.png" group-title="TURKEY ☪ HABER",TR: HALK TV HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/67531
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tele 1 SD" tvg-logo="http://iptvtelekom.com/newpicon/tele1.png" group-title="TURKEY ☪ HABER",TR: Tele 1 SD
+http://ip.luxetv.club:8080/senkron24/2123686/15315
+#EXTINF:-1 tvg-id="" tvg-name="TR: GLOBAL HABER HD+" tvg-logo="http://iptvtelekom.com/newpicon/haberglobal.png" group-title="TURKEY ☪ HABER",TR: GLOBAL HABER HD+
+http://ip.luxetv.club:8080/senkron24/2123686/15074
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 100 HD+" tvg-logo="http://iptvtelekom.com/newpicon/tv100.png" group-title="TURKEY ☪ HABER",TR: TV 100 HD+
+http://ip.luxetv.club:8080/senkron24/2123686/15063
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR: A HABER HD+" tvg-logo="http://iptvtelekom.com/newpicon/ahaber.png" group-title="TURKEY ☪ HABER",TR: A HABER HD+
+http://ip.luxetv.club:8080/senkron24/2123686/15066
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLOOMBERG HT HD+" tvg-logo="http://iptvtelekom.com/newpicon/bloomberg.png" group-title="TURKEY ☪ HABER",TR: BLOOMBERG HT HD+
+http://ip.luxetv.club:8080/senkron24/2123686/15070
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 24 HD" tvg-logo="http://iptvtelekom.com/newpicon/tgrthaber.png" group-title="TURKEY ☪ HABER",TR: KANAL 24 HD
+http://ip.luxetv.club:8080/senkron24/2123686/15078
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABER TURK HEVC" tvg-logo="http://iptvtelekom.com/newpicon/TR/haberturk.png" group-title="TURKEY ☪ HABER",TR: HABER TURK HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/23010
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TURK UHD" tvg-logo="http://iptvtelekom.com/newpicon/TR/cnnturk.png" group-title="TURKEY ☪ HABER",TR: CNN TURK UHD
+http://ip.luxetv.club:8080/senkron24/2123686/23007
+#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER Hevc" tvg-logo="http://iptvtelekom.com/newpicon/TR/ahaber.png" group-title="TURKEY ☪ HABER",TR: A HABER Hevc
+http://ip.luxetv.club:8080/senkron24/2123686/23003
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLOOMBERGHT Hevc" tvg-logo="http://iptvtelekom.com/newpicon/TR/bloomberg.png" group-title="TURKEY ☪ HABER",TR: BLOOMBERGHT Hevc
+http://ip.luxetv.club:8080/senkron24/2123686/23006
+#EXTINF:-1 tvg-id="" tvg-name="TR: N TV HABER Hevc" tvg-logo="http://iptvtelekom.com/newpicon/TR/ntv.png" group-title="TURKEY ☪ HABER",TR: N TV HABER Hevc
+http://ip.luxetv.club:8080/senkron24/2123686/23015
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT HABER UHD" tvg-logo="http://iptvtelekom.com/newpicon/TR/tgrthaber.png" group-title="TURKEY ☪ HABER",TR: TGRT HABER UHD
+http://ip.luxetv.club:8080/senkron24/2123686/23020
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER UHD" tvg-logo="http://iptvtelekom.com/newpicon/TR/trthaber.png" group-title="TURKEY ☪ HABER",TR: TRT HABER UHD
+http://ip.luxetv.club:8080/senkron24/2123686/23022
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT TURK UHD" tvg-logo="http://iptvtelekom.com/newpicon/TR/trtturk.png" group-title="TURKEY ☪ HABER",TR: TRT TURK UHD
+http://ip.luxetv.club:8080/senkron24/2123686/23026
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT WORLD UHD" tvg-logo="http://iptvtelekom.com/newpicon/TR/trtworldlogo.png" group-title="TURKEY ☪ HABER",TR: TRT WORLD UHD
+http://ip.luxetv.club:8080/senkron24/2123686/23027
+#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER HD" tvg-logo="http://iptvtelekom.com/newpicon/ahaber.png" group-title="TURKEY ☪ HABER",TR: A HABER HD
+http://ip.luxetv.club:8080/senkron24/2123686/23475
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TURK HD" tvg-logo="http://iptvtelekom.com/newpicon/cnnturk.png" group-title="TURKEY ☪ HABER",TR: CNN TURK HD
+http://ip.luxetv.club:8080/senkron24/2123686/23476
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABERTURK HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/haberturk.png" group-title="TURKEY ☪ HABER",TR: HABERTURK HD
+http://ip.luxetv.club:8080/senkron24/2123686/23477
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/trthaber.png" group-title="TURKEY ☪ HABER",TR: TRT HABER HD
+http://ip.luxetv.club:8080/senkron24/2123686/23478
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR | A2 FHD" tvg-logo="http://iptvtelekom.com/newpicon/a2hd.png" group-title="TURKEY ☪ HABER",TR | A2 FHD
+http://ip.luxetv.club:8080/senkron24/2123686/15062
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="TR: HALK TV H2" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/halk.png" group-title="TURKEY ☪ HABER",TR: HALK TV H2
+http://ip.luxetv.club:8080/senkron24/2123686/67530
+#EXTINF:-1 tvg-id="" tvg-name="★✦★ BEIN SPORTS ★✦★" tvg-logo="http://focustv.xyz/files/ch/TR/BEINSPORTS.png" group-title="TURKEY ☪  SPORT ⚽",★✦★ BEIN SPORTS ★✦★
+http://ip.luxetv.club:8080/senkron24/2123686/87138
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 HEVC" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/bein-logo/beinhd1.png" group-title="TURKEY ☪  SPORT ⚽",TR: BEIN SPORTS 1 HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/67393
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: bEIN SPORTS 1 FHD*" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/bein-logo/beinhd1.png" group-title="TURKEY ☪  SPORT ⚽",TR: bEIN SPORTS 1 FHD*
+http://ip.luxetv.club:8080/senkron24/2123686/85722
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BEIN SPORTS 1 HEVC" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/bein-logo/beinhd1.png" group-title="TURKEY ☪  SPORT ⚽",BEIN SPORTS 1 HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/87139
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BEIN SPORTS 1 FHD (TR)" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/bein-logo/beinhd1.png" group-title="TURKEY ☪  SPORT ⚽",BEIN SPORTS 1 FHD (TR)
+http://ip.luxetv.club:8080/senkron24/2123686/87374
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="BEIN SPORTS 2 HD (TR)" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/bein-logo/beinhd2.png" group-title="TURKEY ☪  SPORT ⚽",BEIN SPORTS 2 HD (TR)
+http://ip.luxetv.club:8080/senkron24/2123686/87375
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="BEIN SPORTS 3 HD (TR)" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/bein-logo/beinhd3.png" group-title="TURKEY ☪  SPORT ⚽",BEIN SPORTS 3 HD (TR)
+http://ip.luxetv.club:8080/senkron24/2123686/87376
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="BEIN SPORTS 4 HD (TR)" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/bein-logo/beinhd4.png" group-title="TURKEY ☪  SPORT ⚽",BEIN SPORTS 4 HD (TR)
+http://ip.luxetv.club:8080/senkron24/2123686/87377
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: beIN SPORTS 1 HEVC" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/bein-logo/beinhd1.png" group-title="TURKEY ☪  SPORT ⚽",TR: beIN SPORTS 1 HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/85723
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 TTNET" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/bein-logo/beinhd1.png" group-title="TURKEY ☪  SPORT ⚽",TR: BEIN SPORTS 1 TTNET
+http://ip.luxetv.club:8080/senkron24/2123686/67397
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 HD+" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/bein-logo/beinhd1.png" group-title="TURKEY ☪  SPORT ⚽",TR: BEIN SPORTS 1 HD+
+http://ip.luxetv.club:8080/senkron24/2123686/67394
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/bein-logo/beinhd1.png" group-title="TURKEY ☪  SPORT ⚽",TR: BEIN SPORTS 1 HD
+http://ip.luxetv.club:8080/senkron24/2123686/67395
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: BEIN SPORTS 2 HEVC" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/bein-logo/beinhd2.png" group-title="TURKEY ☪  SPORT ⚽",TR: BEIN SPORTS 2 HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/67398
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: BEIN SPORTS 2 HD+" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/bein-logo/beinhd2.png" group-title="TURKEY ☪  SPORT ⚽",TR: BEIN SPORTS 2 HD+
+http://ip.luxetv.club:8080/senkron24/2123686/67399
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/bein-logo/beinhd2.png" group-title="TURKEY ☪  SPORT ⚽",TR: BEIN SPORTS 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/67400
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: BEIN SPORTS 3 HD+" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_3.png" group-title="TURKEY ☪  SPORT ⚽",TR: BEIN SPORTS 3 HD+
+http://ip.luxetv.club:8080/senkron24/2123686/67401
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_3.png" group-title="TURKEY ☪  SPORT ⚽",TR: BEIN SPORTS 3 HD
+http://ip.luxetv.club:8080/senkron24/2123686/67402
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: BEIN SPORTS 4 HD+" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_4.png" group-title="TURKEY ☪  SPORT ⚽",TR: BEIN SPORTS 4 HD+
+http://ip.luxetv.club:8080/senkron24/2123686/67403
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_4.png" group-title="TURKEY ☪  SPORT ⚽",TR: BEIN SPORTS 4 HD
+http://ip.luxetv.club:8080/senkron24/2123686/67404
+#EXTINF:-1 tvg-id="" tvg-name="★✦★ TIVIBU SPOR ★✦★" tvg-logo="https://imgyukle.com/f/2022/03/23/E8xfZs.png" group-title="TURKEY ☪  SPORT ⚽",★✦★ TIVIBU SPOR ★✦★
+http://ip.luxetv.club:8080/senkron24/2123686/88131
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 1 FHD (TR)" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/tivibuspor1.png" group-title="TURKEY ☪  SPORT ⚽",TIVIBUSPOR 1 FHD (TR)
+http://ip.luxetv.club:8080/senkron24/2123686/87380
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 2  FHD (TR)" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/tivibuspor2.png" group-title="TURKEY ☪  SPORT ⚽",TIVIBUSPOR 2  FHD (TR)
+http://ip.luxetv.club:8080/senkron24/2123686/87381
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 3 FHD (TR)" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/tivibuspor3.png" group-title="TURKEY ☪  SPORT ⚽",TIVIBUSPOR 3 FHD (TR)
+http://ip.luxetv.club:8080/senkron24/2123686/87382
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 1 HD+" tvg-logo="http://focustv.xyz/files/ch/TR/TIVIBUSPOR.png" group-title="TURKEY ☪  SPORT ⚽",TIVIBUSPOR 1 HD+
+http://ip.luxetv.club:8080/senkron24/2123686/78504
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="http://focustv.xyz/files/ch/TR/TIVIBUSPOR.png" group-title="TURKEY ☪  SPORT ⚽",TIVIBUSPOR 1 HD
+http://ip.luxetv.club:8080/senkron24/2123686/78505
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 2 HD+" tvg-logo="http://focustv.xyz/files/ch/TR/TIVIBUSPOR2.png" group-title="TURKEY ☪  SPORT ⚽",TIVIBUSPOR 2 HD+
+http://ip.luxetv.club:8080/senkron24/2123686/78506
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="http://focustv.xyz/files/ch/TR/TIVIBUSPOR2.png" group-title="TURKEY ☪  SPORT ⚽",TIVIBUSPOR 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/78507
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 3 HD+" tvg-logo="http://focustv.xyz/files/ch/TR/tivibu_spor_3.png" group-title="TURKEY ☪  SPORT ⚽",TIVIBUSPOR 3 HD+
+http://ip.luxetv.club:8080/senkron24/2123686/78508
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="http://focustv.xyz/files/ch/TR/tivibu_spor_3.png" group-title="TURKEY ☪  SPORT ⚽",TIVIBUSPOR 3 HD
+http://ip.luxetv.club:8080/senkron24/2123686/78509
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 4 HD" tvg-logo="http://focustv.xyz/files/ch/TR/tivibu_spor_4.png" group-title="TURKEY ☪  SPORT ⚽",TIVIBUSPOR 4 HD
+http://ip.luxetv.club:8080/senkron24/2123686/78510
+#EXTINF:-1 tvg-id="" tvg-name="★✦★ S SPORT  ★✦★" tvg-logo="https://imgyukle.com/f/2022/03/23/E8xfZs.png" group-title="TURKEY ☪  SPORT ⚽",★✦★ S SPORT  ★✦★
+http://ip.luxetv.club:8080/senkron24/2123686/88132
+#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="SPOR SMART 1 HEVC" tvg-logo="http://focustv.xyz/files/ch/TR/spor_smart.png" group-title="TURKEY ☪  SPORT ⚽",SPOR SMART 1 HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/78499
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="SPOR SMART 1 HD" tvg-logo="http://focustv.xyz/files/ch/TR/spor_smart.png" group-title="TURKEY ☪  SPORT ⚽",SPOR SMART 1 HD
+http://ip.luxetv.club:8080/senkron24/2123686/78500
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART 2 HD+" tvg-logo="http://focustv.xyz/files/ch/TR/spor_smart2.png" group-title="TURKEY ☪  SPORT ⚽",SPOR SMART 2 HD+
+http://ip.luxetv.club:8080/senkron24/2123686/78501
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART 2 HD" tvg-logo="http://focustv.xyz/files/ch/TR/spor_smart2.png" group-title="TURKEY ☪  SPORT ⚽",SPOR SMART 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/78502
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT HD " tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="TURKEY ☪  SPORT ⚽",TR: S SPORT HD 
+http://ip.luxetv.club:8080/senkron24/2123686/6661
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT 2 FHD" tvg-logo="https://www.superkablonet.com/yukleme/download/604.png" group-title="TURKEY ☪  SPORT ⚽",TR: S SPORT 2 FHD
+http://ip.luxetv.club:8080/senkron24/2123686/9751
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT 1 Hevc" tvg-logo="https://www.superkablonet.com/yukleme/download/604.png" group-title="TURKEY ☪  SPORT ⚽",TR: S SPORT 1 Hevc
+http://ip.luxetv.club:8080/senkron24/2123686/23306
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+1 Mac Saati" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Ssport-plus-.png" group-title="TURKEY ☪  SPORT ⚽",TR: S Sport+1 Mac Saati
+http://ip.luxetv.club:8080/senkron24/2123686/44626
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+2 Mac Saati" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Ssport-plus-.png" group-title="TURKEY ☪  SPORT ⚽",TR: S Sport+2 Mac Saati
+http://ip.luxetv.club:8080/senkron24/2123686/44627
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+5 Mac Saati" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/s_sport_plus5.png" group-title="TURKEY ☪  SPORT ⚽",TR: S Sport+5 Mac Saati
+http://ip.luxetv.club:8080/senkron24/2123686/44630
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT + PLUS 1 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/s_sport_plus1.png" group-title="TURKEY ☪  SPORT ⚽",S SPORT + PLUS 1 HD
+http://ip.luxetv.club:8080/senkron24/2123686/49102
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT + PLUS 2 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/s_sport_plus2.png" group-title="TURKEY ☪  SPORT ⚽",S SPORT + PLUS 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/49103
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT + PLUS 3 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/s_sport_plus3.png" group-title="TURKEY ☪  SPORT ⚽",S SPORT + PLUS 3 HD
+http://ip.luxetv.club:8080/senkron24/2123686/49104
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT + PLUS 4 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/s_sport_plus4.png" group-title="TURKEY ☪  SPORT ⚽",S SPORT + PLUS 4 HD
+http://ip.luxetv.club:8080/senkron24/2123686/49105
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT + PLUS 5 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/s_sport_plus5.png" group-title="TURKEY ☪  SPORT ⚽",S SPORT + PLUS 5 HD
+http://ip.luxetv.club:8080/senkron24/2123686/49106
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S SPORT 1 Full HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/s_sport.png" group-title="TURKEY ☪  SPORT ⚽",TR: S SPORT 1 Full HD
+http://ip.luxetv.club:8080/senkron24/2123686/49111
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="TR: S SPORT 2 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/s_sport22.png" group-title="TURKEY ☪  SPORT ⚽",TR: S SPORT 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/49119
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="S SPORT HD " tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/s_sport.png" group-title="TURKEY ☪  SPORT ⚽",S SPORT HD 
+http://ip.luxetv.club:8080/senkron24/2123686/49132
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="S SPORT 2 HD" tvg-logo="http://focustv.xyz/files/ch/TR/s_sport_2.png" group-title="TURKEY ☪  SPORT ⚽",S SPORT 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/78498
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT 2 HD+ (MAC ZAMANI)" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/s_sport_plus2.png" group-title="TURKEY ☪  SPORT ⚽",TR: S SPORT 2 HD+ (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/78515
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT 3 HD+ (MAC ZAMANI)" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/s_sport_plus3.png" group-title="TURKEY ☪  SPORT ⚽",TR: S SPORT 3 HD+ (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/78516
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT 4 HD+ (MAC ZAMANI)" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/s_sport_plus4.png" group-title="TURKEY ☪  SPORT ⚽",TR: S SPORT 4 HD+ (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/78517
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT 5 HD+ (MAC ZAMANI)" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/s_sport_plus5.png" group-title="TURKEY ☪  SPORT ⚽",TR: S SPORT 5 HD+ (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/78518
+#EXTINF:-1 tvg-id="" tvg-name="★✦★ TURK  ULUSAL  SPOR ★✦★" tvg-logo="https://imgyukle.com/f/2022/03/23/E8xfZs.png" group-title="TURKEY ☪  SPORT ⚽",★✦★ TURK  ULUSAL  SPOR ★✦★
+http://ip.luxetv.club:8080/senkron24/2123686/88133
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="A SPOR HD+" tvg-logo="https://i.hizliresim.com/yLXEG9.png" group-title="TURKEY ☪  SPORT ⚽",A SPOR HD+
+http://ip.luxetv.club:8080/senkron24/2123686/78496
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="A SPOR HD" tvg-logo="https://i.hizliresim.com/yLXEG9.png" group-title="TURKEY ☪  SPORT ⚽",A SPOR HD
+http://ip.luxetv.club:8080/senkron24/2123686/78497
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TRT SPOR HD+" tvg-logo="https://i.ibb.co/Qn4hzwk/TRT-SPOR.png" group-title="TURKEY ☪  SPORT ⚽",TRT SPOR HD+
+http://ip.luxetv.club:8080/senkron24/2123686/78489
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TRT SPOR HD" tvg-logo="https://i.ibb.co/Qn4hzwk/TRT-SPOR.png" group-title="TURKEY ☪  SPORT ⚽",TRT SPOR HD
+http://ip.luxetv.club:8080/senkron24/2123686/78490
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="TRT SPOR YILDIZ HEVC" tvg-logo="http://logo.sltv.site/logo/turkeyT/trtsporstar.png" group-title="TURKEY ☪  SPORT ⚽",TRT SPOR YILDIZ HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/78491
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="TRT SPOR YILDIZ HD+" tvg-logo="http://logo.sltv.site/logo/turkeyT/trtsporstar.png" group-title="TURKEY ☪  SPORT ⚽",TRT SPOR YILDIZ HD+
+http://ip.luxetv.club:8080/senkron24/2123686/78492
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="TRT SPOR YILDIZ HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/trtsporstar.png" group-title="TURKEY ☪  SPORT ⚽",TRT SPOR YILDIZ HD
+http://ip.luxetv.club:8080/senkron24/2123686/78493
+#EXTINF:-1 tvg-id="" tvg-name="TRT 3 SPOR (TBMM) HD+" tvg-logo="https://www.resimyukle.org/images/2021/08/08/f72812e897361b1bace7dedb2a1d88be.png" group-title="TURKEY ☪  SPORT ⚽",TRT 3 SPOR (TBMM) HD+
+http://ip.luxetv.club:8080/senkron24/2123686/78494
+#EXTINF:-1 tvg-id="gstv.tr" tvg-name="TR : GS TV FHD" tvg-logo="http://focustv.xyz/files/ch/TR/gs_tv.png" group-title="TURKEY ☪  SPORT ⚽",TR : GS TV FHD
+http://ip.luxetv.club:8080/senkron24/2123686/78503
+#EXTINF:-1 tvg-id="" tvg-name="FIGHTBOX HD+" tvg-logo="https://www.resimyukle.org/images/2021/08/08/37c95235f43359b90f111b8135295e4e.png" group-title="TURKEY ☪  SPORT ⚽",FIGHTBOX HD+
+http://ip.luxetv.club:8080/senkron24/2123686/78511
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="NBA TV HD" tvg-logo="https://www.resimyukle.org/images/2021/08/08/7f19c35af6dd30f7fd2088db7e643224.png" group-title="TURKEY ☪  SPORT ⚽",NBA TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/78512
+#EXTINF:-1 tvg-id="" tvg-name="TJK TV HD+" tvg-logo="http://logo.sltv.site/logo/turkeyT/tjk_tv.png" group-title="TURKEY ☪  SPORT ⚽",TJK TV HD+
+http://ip.luxetv.club:8080/senkron24/2123686/78513
+#EXTINF:-1 tvg-id="" tvg-name="TAY TV HD+" tvg-logo="http://logo.sltv.site/logo/turkeyT/tay_tv.png" group-title="TURKEY ☪  SPORT ⚽",TAY TV HD+
+http://ip.luxetv.club:8080/senkron24/2123686/78514
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR FHD" tvg-logo="http://iptvtelekom.com/newpicon/trtsporhd.png" group-title="TURKEY ☪  SPORT ⚽",TR: TRT SPOR FHD
+http://ip.luxetv.club:8080/senkron24/2123686/6890
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR FHD" tvg-logo="http://iptvtelekom.com/newpicon/trtsporhd.png" group-title="TURKEY ☪  SPORT ⚽",TR: TRT SPOR FHD
+http://ip.luxetv.club:8080/senkron24/2123686/1476
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" group-title="TURKEY ☪  SPORT ⚽",TR: A SPOR FHD
+http://ip.luxetv.club:8080/senkron24/2123686/1397
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" group-title="TURKEY ☪  SPORT ⚽",TR: A SPOR HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/23308
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="A SPOR HEVC" tvg-logo="http://iptvtelekom.com/newpicon/TR/a_spor.png" group-title="TURKEY ☪  SPORT ⚽",A SPOR HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/49098
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="A SPOR FullHD" tvg-logo="http://iptvtelekom.com/newpicon/TR/a_spor.png" group-title="TURKEY ☪  SPORT ⚽",A SPOR FullHD
+http://ip.luxetv.club:8080/senkron24/2123686/49107
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="A SPOR HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/a_spor.png" group-title="TURKEY ☪  SPORT ⚽",A SPOR HD
+http://ip.luxetv.club:8080/senkron24/2123686/49124
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="SPORTS TV HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/sports_tv.png" group-title="TURKEY ☪  SPORT ⚽",SPORTS TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/49120
+#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV 1080 HD" tvg-logo="https://www.fbtvizle.com/wp-content/uploads/2020/05/fb-tv.png" group-title="TURKEY ☪  SPORT ⚽",TR: FB TV 1080 HD
+http://ip.luxetv.club:8080/senkron24/2123686/1426
+#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV  HD" tvg-logo="https://www.fbtvizle.com/wp-content/uploads/2020/05/fb-tv.png" group-title="TURKEY ☪  SPORT ⚽",TR: FB TV  HD
+http://ip.luxetv.club:8080/senkron24/2123686/6662
+#EXTINF:-1 tvg-id="" tvg-name="TR: TAY TV HEVC" tvg-logo="http://iptvtelekom.com/newpicon/tjk.png" group-title="TURKEY ☪  SPORT ⚽",TR: TAY TV HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/7003
+#EXTINF:-1 tvg-id="" tvg-name="TR : TJK TV HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/tjk.png" group-title="TURKEY ☪  SPORT ⚽",TR : TJK TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/18487
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ RAW" tvg-logo="http://iptvtelekom.com/newpicon/TR/trtspor2.png" group-title="TURKEY ☪  SPORT ⚽",TR: TRT SPOR YILDIZ RAW
+http://ip.luxetv.club:8080/senkron24/2123686/23024
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR Hevc" tvg-logo="http://iptvtelekom.com/newpicon/TR/trtsporhd.png" group-title="TURKEY ☪  SPORT ⚽",TR: TRT SPOR Hevc
+http://ip.luxetv.club:8080/senkron24/2123686/23025
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR UHD" tvg-logo="http://iptvtelekom.com/newpicon/TR/a_spor.png" group-title="TURKEY ☪  SPORT ⚽",TR: A SPOR UHD
+http://ip.luxetv.club:8080/senkron24/2123686/23023
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="TRT SPOR 2 HEVC" tvg-logo="http://iptvtelekom.com/newpicon/TR/trtspor2.png" group-title="TURKEY ☪  SPORT ⚽",TRT SPOR 2 HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/49097
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="NBA TV FullHD" tvg-logo="http://iptvtelekom.com/newpicon/TR/nbatvlogo.png" group-title="TURKEY ☪  SPORT ⚽",NBA TV FullHD
+http://ip.luxetv.club:8080/senkron24/2123686/49108
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="FB TV HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/fb_tv.png" group-title="TURKEY ☪  SPORT ⚽",FB TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/49121
+#EXTINF:-1 tvg-id="" tvg-name="TR : GS TV HD" tvg-logo="https://img2.pngio.com/index-of-storage-logos-galatasaray-tv-png-200_200.png" group-title="TURKEY ☪  SPORT ⚽",TR : GS TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/49122
+#EXTINF:-1 tvg-id="" tvg-name="IDMAN TV HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/idmantvlogo3.png" group-title="TURKEY ☪  SPORT ⚽",IDMAN TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/49123
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TRT SPOR FullHD" tvg-logo="http://iptvtelekom.com/newpicon/TR/trtsporhd.png" group-title="TURKEY ☪  SPORT ⚽",TRT SPOR FullHD
+http://ip.luxetv.club:8080/senkron24/2123686/49125
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="TRT SPOR 2 HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/trtspor2.png" group-title="TURKEY ☪  SPORT ⚽",TRT SPOR 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/49126
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="NBA TV HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/nbatvlogo.png" group-title="TURKEY ☪  SPORT ⚽",NBA TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/49131
+#EXTINF:-1 tvg-id="" tvg-name="TJK TV HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/tjjk.png" group-title="TURKEY ☪  SPORT ⚽",TJK TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/49134
+#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="TURKEY ☪  SPORT ⚽",TR: NBA TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/49096
+#EXTINF:-1 tvg-id="" tvg-name="TR:  EUROSPORT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="TURKEY ☪  SPORT ⚽",TR:  EUROSPORT 1 HD
+http://ip.luxetv.club:8080/senkron24/2123686/7038
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Eurosport_2_HD_Logo.svg/1200px-Eurosport_2_HD_Logo.svg.png" group-title="TURKEY ☪  SPORT ⚽",TR: EUROSPORT 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/7039
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ Hevc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/2560px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" group-title="TURKEY ☪  SPORT ⚽",TR: TRT SPOR YILDIZ Hevc
+http://ip.luxetv.club:8080/senkron24/2123686/44631
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS MAX 1 HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/bein_sports_max_1.png" group-title="TURKEY ☪  SPORT ⚽",TR: BEIN SPORTS MAX 1 HD
+http://ip.luxetv.club:8080/senkron24/2123686/1138
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: BEIN SPORTS HABER HEVC" tvg-logo="http://focustv.xyz/files/ch/TR/BEINSPORTSHABERHDPLUS.png" group-title="TURKEY ☪  SPORT ⚽",TR: BEIN SPORTS HABER HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/67387
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: BEIN SPORTS HABER HD+" tvg-logo="http://focustv.xyz/files/ch/TR/BEINSPORTSHABERHDPLUS.png" group-title="TURKEY ☪  SPORT ⚽",TR: BEIN SPORTS HABER HD+
+http://ip.luxetv.club:8080/senkron24/2123686/67388
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: BEIN SPORTS HABER HD" tvg-logo="http://focustv.xyz/files/ch/TR/BEINSPORTSHABERHDPLUS.png" group-title="TURKEY ☪  SPORT ⚽",TR: BEIN SPORTS HABER HD
+http://ip.luxetv.club:8080/senkron24/2123686/67389
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: BEIN SPORTS MAX 1 HD+" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_max_1.png" group-title="TURKEY ☪  SPORT ⚽",TR: BEIN SPORTS MAX 1 HD+
+http://ip.luxetv.club:8080/senkron24/2123686/67405
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: BEIN SPORTS MAX 1 HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_max_1.png" group-title="TURKEY ☪  SPORT ⚽",TR: BEIN SPORTS MAX 1 HD
+http://ip.luxetv.club:8080/senkron24/2123686/67406
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: BEIN SPORTS MAX 2 HD+" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_max_2.png" group-title="TURKEY ☪  SPORT ⚽",TR: BEIN SPORTS MAX 2 HD+
+http://ip.luxetv.club:8080/senkron24/2123686/67407
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: BEIN SPORTS MAX 2 HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_max_2.png" group-title="TURKEY ☪  SPORT ⚽",TR: BEIN SPORTS MAX 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/67408
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 MOBILE" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_1.png" group-title="TURKEY ☪  SPORT ⚽",TR: BEIN SPORTS 1 MOBILE
+http://ip.luxetv.club:8080/senkron24/2123686/67396
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TiViBUSPOR 1 FullHD" tvg-logo="http://iptvtelekom.com/newpicon/TR/tivibu_spor.png" group-title="TURKEY ☪  SPORT ⚽",TiViBUSPOR 1 FullHD
+http://ip.luxetv.club:8080/senkron24/2123686/49112
+#EXTINF:-1 tvg-id="" tvg-name="TiViBUSPOR 2 FullHD" tvg-logo="http://iptvtelekom.com/newpicon/TR/tivibu_spor_2.png" group-title="TURKEY ☪  SPORT ⚽",TiViBUSPOR 2 FullHD
+http://ip.luxetv.club:8080/senkron24/2123686/49113
+#EXTINF:-1 tvg-id="" tvg-name="TiViBUSPOR 3 FullHD" tvg-logo="http://iptvtelekom.com/newpicon/TR/tivibu_spor_3.png" group-title="TURKEY ☪  SPORT ⚽",TiViBUSPOR 3 FullHD
+http://ip.luxetv.club:8080/senkron24/2123686/49114
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR 1 HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/tivibu_spor.png" group-title="TURKEY ☪  SPORT ⚽",TIVIBU SPOR 1 HD
+http://ip.luxetv.club:8080/senkron24/2123686/49127
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR 2 HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/tivibu_spor_2.png" group-title="TURKEY ☪  SPORT ⚽",TIVIBU SPOR 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/49128
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="SPOR SMART HEVC" tvg-logo="http://iptvtelekom.com/newpicon/TR/sporsmartlogo.png" group-title="TURKEY ☪  SPORT ⚽",SPOR SMART HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/49099
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART 1 FullHD" tvg-logo="http://iptvtelekom.com/newpicon/TR/sporsmartlogo.png" group-title="TURKEY ☪  SPORT ⚽",SPOR SMART 1 FullHD
+http://ip.luxetv.club:8080/senkron24/2123686/49109
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART 2 FullHD" tvg-logo="http://iptvtelekom.com/newpicon/TR/sporsmart2logo.png" group-title="TURKEY ☪  SPORT ⚽",SPOR SMART 2 FullHD
+http://ip.luxetv.club:8080/senkron24/2123686/49110
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR 3 HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/tivibu_spor_3.png" group-title="TURKEY ☪  SPORT ⚽",TIVIBU SPOR 3 HD
+http://ip.luxetv.club:8080/senkron24/2123686/49129
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="SPOR SMART 1 HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/sporsmartlogo.png" group-title="TURKEY ☪  SPORT ⚽",SPOR SMART 1 HD
+http://ip.luxetv.club:8080/senkron24/2123686/49133
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART Hevc" tvg-logo="http://iptvtelekom.com/newpicon/TR/sporsmartlogo.png" group-title="TURKEY ☪  SPORT ⚽",TR: SPOR SMART Hevc
+http://ip.luxetv.club:8080/senkron24/2123686/23017
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Smart-spor-hd.png" group-title="TURKEY ☪  SPORT ⚽",TR: SPOR SMART FHD 
+http://ip.luxetv.club:8080/senkron24/2123686/6666
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Smart-spor-hd.png" group-title="TURKEY ☪  SPORT ⚽",TR: SPOR SMART HD 
+http://ip.luxetv.club:8080/senkron24/2123686/42517
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART Hevc YEDEK" tvg-logo="http://iptvtelekom.com/newpicon/TR/sporsmartlogo.png" group-title="TURKEY ☪  SPORT ⚽",TR: SPOR SMART Hevc YEDEK
+http://ip.luxetv.club:8080/senkron24/2123686/42518
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 1 FHD" tvg-logo="https://i.pinimg.com/originals/6c/16/90/6c169064ba0695f9a79ac4a7c513ad83.png" group-title="TURKEY ☪  SPORT ⚽",TR: TIVIBU SPOR 1 FHD
+http://ip.luxetv.club:8080/senkron24/2123686/11334
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 2 FHD" tvg-logo="https://iptv.live/images/logo/channel/crops/d19de8ac48d82e76d0d347f7b79811f4.png" group-title="TURKEY ☪  SPORT ⚽",TR: TIVIBU SPOR 2 FHD
+http://ip.luxetv.club:8080/senkron24/2123686/4714
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 1" tvg-logo="https://i.pinimg.com/originals/6c/16/90/6c169064ba0695f9a79ac4a7c513ad83.png" group-title="TURKEY ☪  SPORT ⚽",TR: Tivibu Spor 1
+http://ip.luxetv.club:8080/senkron24/2123686/1762
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 2 HD" tvg-logo="https://iptv.live/images/logo/channel/crops/d19de8ac48d82e76d0d347f7b79811f4.png" group-title="TURKEY ☪  SPORT ⚽",TR: Tivibu Spor 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/1763
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 3 FHD" tvg-logo="https://sifrelikanallar.com/asset/logo/tivibu3.png" group-title="TURKEY ☪  SPORT ⚽",TR: TIVIBU SPOR 3 FHD
+http://ip.luxetv.club:8080/senkron24/2123686/23309
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 3 Hd" tvg-logo="https://sifrelikanallar.com/asset/logo/tivibu3.png" group-title="TURKEY ☪  SPORT ⚽",TR: Tivibu Spor 3 Hd
+http://ip.luxetv.club:8080/senkron24/2123686/13196
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBU SPOR 1 HD (1920X1080)" tvg-logo="https://i.pinimg.com/originals/6c/16/90/6c169064ba0695f9a79ac4a7c513ad83.png" group-title="TURKEY ☪  SPORT ⚽",TR: TiViBU SPOR 1 HD (1920X1080)
+http://ip.luxetv.club:8080/senkron24/2123686/23311
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 2 FHD (VIP)" tvg-logo="https://iptv.live/images/logo/channel/crops/d19de8ac48d82e76d0d347f7b79811f4.png" group-title="TURKEY ☪  SPORT ⚽",TR: TIVIBU SPOR 2 FHD (VIP)
+http://ip.luxetv.club:8080/senkron24/2123686/23312
+#EXTINF:-1 tvg-id="" tvg-name="TR:TiViBU SPOR 3 HD (1920X1080)" tvg-logo="https://sifrelikanallar.com/asset/logo/tivibu3.png" group-title="TURKEY ☪  SPORT ⚽",TR:TiViBU SPOR 3 HD (1920X1080)
+http://ip.luxetv.club:8080/senkron24/2123686/23310
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART 1 FHD (TR)" tvg-logo="https://i.ibb.co/mhdgfsh/SMART-SPOR.png" group-title="TURKEY ☪  SPORT ⚽",SPOR SMART 1 FHD (TR)
+http://ip.luxetv.club:8080/senkron24/2123686/87378
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART 2 FHD (TR)" tvg-logo="https://i.ibb.co/Mphh47S/SPOR-SMART-2.png" group-title="TURKEY ☪  SPORT ⚽",SPOR SMART 2 FHD (TR)
+http://ip.luxetv.club:8080/senkron24/2123686/87379
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT 1 HD (TR)" tvg-logo="https://www.resimyukle.org/images/2021/08/08/d9fb0dddb4b6d5523680c76caf42bb34.png" group-title="TURKEY ☪  SPORT ⚽",S SPORT 1 HD (TR)
+http://ip.luxetv.club:8080/senkron24/2123686/87383
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT 1 FHD (TR)" tvg-logo="https://www.resimyukle.org/images/2021/08/08/d9fb0dddb4b6d5523680c76caf42bb34.png" group-title="TURKEY ☪  SPORT ⚽",S SPORT 1 FHD (TR)
+http://ip.luxetv.club:8080/senkron24/2123686/87384
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 KUTU YAYIN" tvg-logo="https://i.imgur.com/FhxGTEP.png" group-title="TURKEY ☪  SPORT ⚽",BEIN SPORTS 1 KUTU YAYIN
+http://ip.luxetv.club:8080/senkron24/2123686/87140
+#EXTINF:-1 tvg-id="" tvg-name="★✦★ EXXEN SPORTS ★✦★" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="TURKEY ☪  SPORT ⚽",★✦★ EXXEN SPORTS ★✦★
+http://ip.luxetv.club:8080/senkron24/2123686/90354
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 HEVC (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPOR 1 HEVC (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90356
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPOR 1 FHD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90357
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPOR 1 HD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90358
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 2 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPOR 2 FHD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90359
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 2 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPOR 2 HD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90360
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 3 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPOR 3 FHD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90361
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 3 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPOR 3 HD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90362
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 4 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPOR 4 FHD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90363
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 4 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPOR 4 HD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90364
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 5 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPOR 5 FHD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90365
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 5 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPOR 5 HD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90366
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 6 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPOR 6 FHD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90367
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 6 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPOR 6 HD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90368
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 7 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPOR 7 FHD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90369
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 7 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPOR 7 HD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90370
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 8 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPOR 8 FHD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90371
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 8 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPOR 8 HD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90372
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 1HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-1.png" group-title="TURKEY ☪  SPORT ⚽",Exxen Spor 1HD
+http://ip.luxetv.club:8080/senkron24/2123686/90373
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-1.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPOR 1
+http://ip.luxetv.club:8080/senkron24/2123686/90374
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 2 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-2.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPOR 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/90375
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 3 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-3.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPOR 3 HD
+http://ip.luxetv.club:8080/senkron24/2123686/90376
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORT 4 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-4.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPORT 4 HD
+http://ip.luxetv.club:8080/senkron24/2123686/90377
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORT 5 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-5.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPORT 5 HD
+http://ip.luxetv.club:8080/senkron24/2123686/90378
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="EXXEN SPORT 6 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-6.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPORT 6 HD
+http://ip.luxetv.club:8080/senkron24/2123686/90379
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORT 7 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-7.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPORT 7 HD
+http://ip.luxetv.club:8080/senkron24/2123686/90380
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORT 8 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-8.png" group-title="TURKEY ☪  SPORT ⚽",EXXEN SPORT 8 HD
+http://ip.luxetv.club:8080/senkron24/2123686/90381
+#EXTINF:-1 tvg-id="" tvg-name="XC SPECIAL HD ✦ FEED" tvg-logo="https://i.imgur.com/pPu1wWD.png" group-title="TURKEY ☪  SPORT ⚽",XC SPECIAL HD ✦ FEED
+http://ip.luxetv.club:8080/senkron24/2123686/87136
+#EXTINF:-1 tvg-id="" tvg-name="XC SPECIAL FHD ✦ FEED" tvg-logo="https://i.imgur.com/pPu1wWD.png" group-title="TURKEY ☪  SPORT ⚽",XC SPECIAL FHD ✦ FEED
+http://ip.luxetv.club:8080/senkron24/2123686/87132
+#EXTINF:-1 tvg-id="" tvg-name="PLATINUM X SPORTS FHD ✦ FEED" tvg-logo="https://i.imgur.com/FhxGTEP.png" group-title="TURKEY ☪  SPORT ⚽",PLATINUM X SPORTS FHD ✦ FEED
+http://ip.luxetv.club:8080/senkron24/2123686/85719
+#EXTINF:-1 tvg-id="" tvg-name="PLATINUM X SPORTS HD ✦ FEED" tvg-logo="https://i.imgur.com/FhxGTEP.png" group-title="TURKEY ☪  SPORT ⚽",PLATINUM X SPORTS HD ✦ FEED
+http://ip.luxetv.club:8080/senkron24/2123686/85720
+#EXTINF:-1 tvg-id="" tvg-name="PLATINUM X SPORTS MOBILE ✦ FEED" tvg-logo="https://i.ibb.co/N17gDGK/FHD.png" group-title="TURKEY ☪  SPORT ⚽",PLATINUM X SPORTS MOBILE ✦ FEED
+http://ip.luxetv.club:8080/senkron24/2123686/82483
+#EXTINF:-1 tvg-id="" tvg-name="XC SPECIAL SPORTS MOBILE ✦ FEED" tvg-logo="https://i.imgur.com/pPu1wWD.png" group-title="TURKEY ☪  SPORT ⚽",XC SPECIAL SPORTS MOBILE ✦ FEED
+http://ip.luxetv.club:8080/senkron24/2123686/87133
+#EXTINF:-1 tvg-id="" tvg-name="XC SPECIAL SPORTS 60 FPS ✦ FEED" tvg-logo="https://i.imgur.com/pPu1wWD.png" group-title="TURKEY ☪  SPORT ⚽",XC SPECIAL SPORTS 60 FPS ✦ FEED
+http://ip.luxetv.club:8080/senkron24/2123686/87134
+#EXTINF:-1 tvg-id="" tvg-name="XC SPECIAL SPORTS ULTRA ✦ FEED" tvg-logo="https://i.imgur.com/pPu1wWD.png" group-title="TURKEY ☪  SPORT ⚽",XC SPECIAL SPORTS ULTRA ✦ FEED
+http://ip.luxetv.club:8080/senkron24/2123686/87135
+#EXTINF:-1 tvg-id="" tvg-name="XC SPECIAL SPORTS HD YEDEK ✦ FEED" tvg-logo="https://i.imgur.com/pPu1wWD.png" group-title="TURKEY ☪  SPORT ⚽",XC SPECIAL SPORTS HD YEDEK ✦ FEED
+http://ip.luxetv.club:8080/senkron24/2123686/87137
+#EXTINF:-1 tvg-id="" tvg-name="TR: X FEEED FHD MAC OZEL" tvg-logo="https://i.ibb.co/F5WxWjk/Untitled.png" group-title="TURKEY ☪  SPORT ⚽",TR: X FEEED FHD MAC OZEL
+http://ip.luxetv.club:8080/senkron24/2123686/49050
+#EXTINF:-1 tvg-id="" tvg-name="PLATINUM X SPORTS 4K ✦ FEED" tvg-logo="https://i.imgur.com/FhxGTEP.png" group-title="TURKEY ☪  SPORT ⚽",PLATINUM X SPORTS 4K ✦ FEED
+http://ip.luxetv.club:8080/senkron24/2123686/85717
+#EXTINF:-1 tvg-id="" tvg-name="XC SPECIAL EXXEN FEED" tvg-logo="https://i.imgur.com/pPu1wWD.png" group-title="TURKEY ☪  SPORT ⚽",XC SPECIAL EXXEN FEED
+http://ip.luxetv.club:8080/senkron24/2123686/90355
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: bEIN SPORTS 1 Premium" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/bein-logo/beinhd1.png" group-title="TURKEY ☪  SPORT ⚽",TR: bEIN SPORTS 1 Premium
+http://ip.luxetv.club:8080/senkron24/2123686/85721
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="BEIN BOX OFFICE 1 FHD" tvg-logo="http://focustv.xyz/files/ch/TR/bein_box_office.png" group-title="TURKEY ☪ SİNEMA",BEIN BOX OFFICE 1 FHD
+http://ip.luxetv.club:8080/senkron24/2123686/89971
+#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="BEIN BOX OFFICE 2 FHD" tvg-logo="http://focustv.xyz/files/ch/TR/bein_box_office_2.png" group-title="TURKEY ☪ SİNEMA",BEIN BOX OFFICE 2 FHD
+http://ip.luxetv.club:8080/senkron24/2123686/89972
+#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="BEIN BOX OFFICE 3 FHD" tvg-logo="http://focustv.xyz/files/ch/TR/bein_box_office_3.png" group-title="TURKEY ☪ SİNEMA",BEIN BOX OFFICE 3 FHD
+http://ip.luxetv.club:8080/senkron24/2123686/89973
+#EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-name="TR: BEIN MOVIES ACTION FHD" tvg-logo="http://focustv.xyz/files/ch/TR/bein_movies_action.png" group-title="TURKEY ☪ SİNEMA",TR: BEIN MOVIES ACTION FHD
+http://ip.luxetv.club:8080/senkron24/2123686/89974
+#EXTINF:-1 tvg-id="beinmoviesaction2.tr" tvg-name="BEIN MOVIES ACTION 2 FHD" tvg-logo="http://focustv.xyz/files/ch/TR/bein_movies_action_2.png" group-title="TURKEY ☪ SİNEMA",BEIN MOVIES ACTION 2 FHD
+http://ip.luxetv.club:8080/senkron24/2123686/89975
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="BEIN MOVIES STARS FHD" tvg-logo="https://www.resimyukle.org/images/2021/08/09/64dcf9dee4003280a80e5ba3c2858dc4.png" group-title="TURKEY ☪ SİNEMA",BEIN MOVIES STARS FHD
+http://ip.luxetv.club:8080/senkron24/2123686/89976
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="BEIN MOVIES TURK HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_movies_turk.png" group-title="TURKEY ☪ SİNEMA",BEIN MOVIES TURK HD
+http://ip.luxetv.club:8080/senkron24/2123686/89977
+#EXTINF:-1 tvg-id="beinmoviesfamily.tr" tvg-name="TR: BEIN MOVIES FAMILY FHD" tvg-logo="http://focustv.xyz/files/ch/TR/bein_movies_family.png" group-title="TURKEY ☪ SİNEMA",TR: BEIN MOVIES FAMILY FHD
+http://ip.luxetv.club:8080/senkron24/2123686/89978
+#EXTINF:-1 tvg-id="beinmoviesfamily.tr" tvg-name="TR: BEIN MOVIES FAMILY HD" tvg-logo="http://focustv.xyz/files/ch/TR/bein_movies_family.png" group-title="TURKEY ☪ SİNEMA",TR: BEIN MOVIES FAMILY HD
+http://ip.luxetv.club:8080/senkron24/2123686/89979
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR: BEIN MOVIES PREMIER HD" tvg-logo="http://focustv.xyz/files/ch/TR/bein_movies_premiere_1.png" group-title="TURKEY ☪ SİNEMA",TR: BEIN MOVIES PREMIER HD
+http://ip.luxetv.club:8080/senkron24/2123686/89980
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="BEIN MOVIES PREMIERE 2 FHD" tvg-logo="http://focustv.xyz/files/ch/TR/bein_movies_premire_2.png" group-title="TURKEY ☪ SİNEMA",BEIN MOVIES PREMIERE 2 FHD
+http://ip.luxetv.club:8080/senkron24/2123686/89981
+#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="BEIN SERIES COMEDY FHD" tvg-logo="http://focustv.xyz/files/ch/TR/bein_series_comedy.png" group-title="TURKEY ☪ SİNEMA",BEIN SERIES COMEDY FHD
+http://ip.luxetv.club:8080/senkron24/2123686/89982
+#EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="BEIN SERIES VICE FHD" tvg-logo="http://focustv.xyz/files/ch/TR/bein_series_vice.png" group-title="TURKEY ☪ SİNEMA",BEIN SERIES VICE FHD
+http://ip.luxetv.club:8080/senkron24/2123686/89983
+#EXTINF:-1 tvg-id="beinseriesdrama.tr" tvg-name="BEIN SERIES DRAMA FHD" tvg-logo="http://focustv.xyz/files/ch/TR/bein_series_drama.png" group-title="TURKEY ☪ SİNEMA",BEIN SERIES DRAMA FHD
+http://ip.luxetv.club:8080/senkron24/2123686/89984
+#EXTINF:-1 tvg-id="beinseriesdrama.tr" tvg-name="BEIN SERIES DRAMA HD" tvg-logo="http://focustv.xyz/files/ch/TR/bein_series_drama.png" group-title="TURKEY ☪ SİNEMA",BEIN SERIES DRAMA HD
+http://ip.luxetv.club:8080/senkron24/2123686/89985
+#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="BEIN SERIES SCI-FI FHD" tvg-logo="http://focustv.xyz/files/ch/TR/bein_series_sc-fi.png" group-title="TURKEY ☪ SİNEMA",BEIN SERIES SCI-FI FHD
+http://ip.luxetv.club:8080/senkron24/2123686/89986
+#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="BEIN SERIES SCI-FI HD" tvg-logo="http://focustv.xyz/files/ch/TR/bein_series_sc-fi.png" group-title="TURKEY ☪ SİNEMA",BEIN SERIES SCI-FI HD
+http://ip.luxetv.club:8080/senkron24/2123686/89987
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="FX FHD" tvg-logo="http://logo.sltv.site/logo/turkeyT/fx.png" group-title="TURKEY ☪ SİNEMA",FX FHD
+http://ip.luxetv.club:8080/senkron24/2123686/89989
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/fx.png" group-title="TURKEY ☪ SİNEMA",FX HD
+http://ip.luxetv.club:8080/senkron24/2123686/89990
+#EXTINF:-1 tvg-id="foxcrime.tr" tvg-name="FOX CRIME FHD" tvg-logo="http://focustv.xyz/files/ch/PORTEK%C4%B0Z/FOX%20CRIME.png" group-title="TURKEY ☪ SİNEMA",FOX CRIME FHD
+http://ip.luxetv.club:8080/senkron24/2123686/89991
+#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-name="MOVIE SMART TURK FHD" tvg-logo="http://focustv.xyz/files/ch/TR/movismart_turk.png" group-title="TURKEY ☪ SİNEMA",MOVIE SMART TURK FHD
+http://ip.luxetv.club:8080/senkron24/2123686/89993
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="MOVIE SMART CLASSIC FHD" tvg-logo="http://focustv.xyz/files/ch/TR/movismart_classic.png" group-title="TURKEY ☪ SİNEMA",MOVIE SMART CLASSIC FHD
+http://ip.luxetv.club:8080/senkron24/2123686/89994
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="DIZI SMART MAX FHD" tvg-logo="http://focustv.xyz/files/ch/TR/dizismart_max.png" group-title="TURKEY ☪ SİNEMA",DIZI SMART MAX FHD
+http://ip.luxetv.club:8080/senkron24/2123686/89996
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="DIZI SMART PREMIUM FHD" tvg-logo="http://focustv.xyz/files/ch/TR/dizismart_premium.png" group-title="TURKEY ☪ SİNEMA",DIZI SMART PREMIUM FHD
+http://ip.luxetv.club:8080/senkron24/2123686/89997
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="SINEMA TV FHD" tvg-logo="http://focustv.xyz/files/ch/TR/sinema_tv.png" group-title="TURKEY ☪ SİNEMA",SINEMA TV FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90000
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV 2 HD" tvg-logo="http://focustv.xyz/files/ch/TR/sinema_tv_2.png" group-title="TURKEY ☪ SİNEMA",SINEMA TV 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/90002
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV YERLI FHD" tvg-logo="http://focustv.xyz/files/ch/TR/sinema_yerli%20(1).png" group-title="TURKEY ☪ SİNEMA",SINEMA TV YERLI FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90003
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="SINEMA TV YERLI HD" tvg-logo="http://focustv.xyz/files/ch/TR/sinema_yerli%20(1).png" group-title="TURKEY ☪ SİNEMA",SINEMA TV YERLI HD
+http://ip.luxetv.club:8080/senkron24/2123686/90004
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV AILE FHD" tvg-logo="http://focustv.xyz/files/ch/TR/sinema_aile.png" group-title="TURKEY ☪ SİNEMA",SINEMA TV AILE FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90005
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="SINEMA TV AILE HD" tvg-logo="http://focustv.xyz/files/ch/TR/sinema_aile.png" group-title="TURKEY ☪ SİNEMA",SINEMA TV AILE HD
+http://ip.luxetv.club:8080/senkron24/2123686/90006
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="SINEMA TV AKSIYON FHD" tvg-logo="http://focustv.xyz/files/ch/TR/sinema_aksiyon.png" group-title="TURKEY ☪ SİNEMA",SINEMA TV AKSIYON FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90008
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV AKSIYON 2 FHD" tvg-logo="http://focustv.xyz/files/ch/TR/sinema_aksiyon2.png" group-title="TURKEY ☪ SİNEMA",SINEMA TV AKSIYON 2 FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90009
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV KOMEDI FHD" tvg-logo="http://focustv.xyz/files/ch/TR/sinema_komedi.png" group-title="TURKEY ☪ SİNEMA",SINEMA TV KOMEDI FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90010
+#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="SINEMA TV KOMEDI HD" tvg-logo="http://focustv.xyz/files/ch/TR/sinema_komedi.png" group-title="TURKEY ☪ SİNEMA",SINEMA TV KOMEDI HD
+http://ip.luxetv.club:8080/senkron24/2123686/90011
+#EXTINF:-1 tvg-id="sinemakomedi2hd.tr" tvg-name="SINEMA TV KOMEDI 2 HD" tvg-logo="http://focustv.xyz/files/ch/TR/sinemaKomedi2.png" group-title="TURKEY ☪ SİNEMA",SINEMA TV KOMEDI 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/90013
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV 1001 FHD" tvg-logo="http://focustv.xyz/files/ch/TR/sinema_1001.png" group-title="TURKEY ☪ SİNEMA",SINEMA TV 1001 FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90014
+#EXTINF:-1 tvg-id="" tvg-name="TR | FX HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx-tv.png" group-title="TURKEY ☪ SİNEMA",TR | FX HD
+http://ip.luxetv.club:8080/senkron24/2123686/78580
+#EXTINF:-1 tvg-id="" tvg-name="TR | FOX Crime" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_crime_global.png" group-title="TURKEY ☪ SİNEMA",TR | FOX Crime
+http://ip.luxetv.club:8080/senkron24/2123686/78588
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="Sinema TV HD" tvg-logo="http://foreverfuntv.com/newpicon/tr-bein-movies/SINEMA.png" group-title="TURKEY ☪ SİNEMA",Sinema TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/89789
+#EXTINF:-1 tvg-id="sinemakomedi2hd.tr" tvg-name="Sinema Komedi 2 HD" tvg-logo="http://foreverfuntv.com/newpicon/tr-bein-movies/SINEMA-komedi.png" group-title="TURKEY ☪ SİNEMA",Sinema Komedi 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/89790
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="beiN Movies Türk HD" tvg-logo="http://foreverfuntv.com/newpicon/tr-bein-movies/turkhd.png" group-title="TURKEY ☪ SİNEMA",beiN Movies Türk HD
+http://ip.luxetv.club:8080/senkron24/2123686/89791
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="beIN Movies Türk" tvg-logo="http://foreverfuntv.com/newpicon/tr-bein-movies/TURK.png" group-title="TURKEY ☪ SİNEMA",beIN Movies Türk
+http://ip.luxetv.club:8080/senkron24/2123686/89796
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="beIN  Box Office 1 HD" tvg-logo="http://foreverfuntv.com/newpicon/tr-bein-movies/box-OFFICE.png" group-title="TURKEY ☪ SİNEMA",beIN  Box Office 1 HD
+http://ip.luxetv.club:8080/senkron24/2123686/89797
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="beiN Movies Premiere FullHD" tvg-logo="http://iptvtelekom.com/newpicon/TR/beinmoviespremierelogo.png" group-title="TURKEY ☪ SİNEMA",beiN Movies Premiere FullHD
+http://ip.luxetv.club:8080/senkron24/2123686/65767
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="beIN MOVIES PREMIERE FullHD" tvg-logo="http://iptvtelekom.com/newpicon/TR/beinmoviespremierelogo4.png" group-title="TURKEY ☪ SİNEMA",beIN MOVIES PREMIERE FullHD
+http://ip.luxetv.club:8080/senkron24/2123686/65769
+#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="beIN  Box Office 2 HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/beinboxoffice2logo.png" group-title="TURKEY ☪ SİNEMA",beIN  Box Office 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/65775
+#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="beIN  Box Office 3 FullHD" tvg-logo="http://iptvtelekom.com/newpicon/TR/beinboxoffice3logo.png" group-title="TURKEY ☪ SİNEMA",beIN  Box Office 3 FullHD
+http://ip.luxetv.club:8080/senkron24/2123686/65776
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="Sinema TV Yerli HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/sinema_yerli.png" group-title="TURKEY ☪ SİNEMA",Sinema TV Yerli HD
+http://ip.luxetv.club:8080/senkron24/2123686/65785
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="Sinema  TV 1001 HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/sinema_1001.png" group-title="TURKEY ☪ SİNEMA",Sinema  TV 1001 HD
+http://ip.luxetv.club:8080/senkron24/2123686/65786
+#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-name="Movie Smart Turk HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/movie_smart_turk.png" group-title="TURKEY ☪ SİNEMA",Movie Smart Turk HD
+http://ip.luxetv.club:8080/senkron24/2123686/65787
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="Sinema TV 1 HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/sinema_tvllogo.png" group-title="TURKEY ☪ SİNEMA",Sinema TV 1 HD
+http://ip.luxetv.club:8080/senkron24/2123686/65790
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="Sinema TV Yerli 1 HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/sinema_yerli.png" group-title="TURKEY ☪ SİNEMA",Sinema TV Yerli 1 HD
+http://ip.luxetv.club:8080/senkron24/2123686/65791
+#EXTINF:-1 tvg-id="sinemayerli2.tr" tvg-name="Sinema TV Yerli 2 HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/sinema_yerli_2logo.png" group-title="TURKEY ☪ SİNEMA",Sinema TV Yerli 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/65792
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="Sinema TV Aksiyon 1 HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/sinemaaksiyonlogo3.png" group-title="TURKEY ☪ SİNEMA",Sinema TV Aksiyon 1 HD
+http://ip.luxetv.club:8080/senkron24/2123686/65793
+#EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-name="Sinema TV Aksiyon 2 HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/sinema_aksiyon2logo.png" group-title="TURKEY ☪ SİNEMA",Sinema TV Aksiyon 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/65794
+#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="Sinema TV Komedi 1 HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/sinema_komedi.png" group-title="TURKEY ☪ SİNEMA",Sinema TV Komedi 1 HD
+http://ip.luxetv.club:8080/senkron24/2123686/65795
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="Sinema TV AiLE 1 HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/sinema_aile.png" group-title="TURKEY ☪ SİNEMA",Sinema TV AiLE 1 HD
+http://ip.luxetv.club:8080/senkron24/2123686/65796
+#EXTINF:-1 tvg-id="sinemaaile2hd.tr" tvg-name="Sinema TV AILE 2 HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/sinema_aile.png" group-title="TURKEY ☪ SİNEMA",Sinema TV AILE 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/65797
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="Sinema TV" tvg-logo="http://foreverfuntv.com/newpicon/tr-bein-movies/SINEMATV.png" group-title="TURKEY ☪ SİNEMA",Sinema TV
+http://ip.luxetv.club:8080/senkron24/2123686/89805
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="Sinema TV Aile 1" tvg-logo="http://foreverfuntv.com/newpicon/tr-bein-movies/SINEMA-AILE1.png" group-title="TURKEY ☪ SİNEMA",Sinema TV Aile 1
+http://ip.luxetv.club:8080/senkron24/2123686/89806
+#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="Sinema TV Komedi 1" tvg-logo="http://foreverfuntv.com/newpicon/tr-bein-movies/SINEMA-komedi1.png" group-title="TURKEY ☪ SİNEMA",Sinema TV Komedi 1
+http://ip.luxetv.club:8080/senkron24/2123686/89807
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="Sinema TV Aksiyon 1" tvg-logo="http://foreverfuntv.com/newpicon/tr-bein-movies/SINEMA-AKSIYON1.png" group-title="TURKEY ☪ SİNEMA",Sinema TV Aksiyon 1
+http://ip.luxetv.club:8080/senkron24/2123686/89808
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="Movie Smart Classic HD" tvg-logo="http://foreverfuntv.com/newpicon/tr-bein-movies/movie-smart-classix.png" group-title="TURKEY ☪ SİNEMA",Movie Smart Classic HD
+http://ip.luxetv.club:8080/senkron24/2123686/89809
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="Dizi Smart Premium" tvg-logo="http://foreverfuntv.com/newpicon/tr-bein-movies/dizi-smart-premium.png" group-title="TURKEY ☪ SİNEMA",Dizi Smart Premium
+http://ip.luxetv.club:8080/senkron24/2123686/89810
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="Sinema TV 2 HD" tvg-logo="http://foreverfuntv.com/newpicon/tr-bein-movies/SINEMA2.png" group-title="TURKEY ☪ SİNEMA",Sinema TV 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/89811
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="Sinema TV 1001 HD" tvg-logo="http://foreverfuntv.com/newpicon/tr-bein-movies/SINEMA-1001hd.png" group-title="TURKEY ☪ SİNEMA",Sinema TV 1001 HD
+http://ip.luxetv.club:8080/senkron24/2123686/89813
+#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="SInema TV 1002 HD" tvg-logo="http://foreverfuntv.com/newpicon/tr-bein-movies/SINEMA-1002hd.png" group-title="TURKEY ☪ SİNEMA",SInema TV 1002 HD
+http://ip.luxetv.club:8080/senkron24/2123686/89814
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Türk HD" tvg-logo="http://foreverfuntv.com/newpicon/Kanal_Logo/TR.CHANNEL/turkx200.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Türk HD
+http://ip.luxetv.club:8080/senkron24/2123686/89815
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Vizyon HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/vizyon1.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Vizyon HD
+http://ip.luxetv.club:8080/senkron24/2123686/89816
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Vizyon 2 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/vizyon2.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Vizyon 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/89817
+#EXTINF:-1 tvg-id="" tvg-name="Anonym Tv Cüneyt Arkın HD 1" tvg-logo="http://foreverfuntv.com/newpicon/Kanal_Logo/Yesilcam.logo/cuneyt-arkin-1-200.png" group-title="TURKEY ☪ SİNEMA",Anonym Tv Cüneyt Arkın HD 1
+http://ip.luxetv.club:8080/senkron24/2123686/89818
+#EXTINF:-1 tvg-id="" tvg-name="Anonym Tv Cüneyt Arkın HD 2" tvg-logo="http://foreverfuntv.com/newpicon/Kanal_Logo/Yesilcam.logo/cuneyt-arkin-2-200.png" group-title="TURKEY ☪ SİNEMA",Anonym Tv Cüneyt Arkın HD 2
+http://ip.luxetv.club:8080/senkron24/2123686/89819
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Sosyal Terapi" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Created.Channel/sosyal-terapi.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Sosyal Terapi
+http://ip.luxetv.club:8080/senkron24/2123686/89820
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Barış Özcan" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Created.Channel/baris_ozcan.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Barış Özcan
+http://ip.luxetv.club:8080/senkron24/2123686/89821
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Onedio Yemek" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/onedio-yemek.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Onedio Yemek
+http://ip.luxetv.club:8080/senkron24/2123686/89822
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Onedio" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/onedio.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Onedio
+http://ip.luxetv.club:8080/senkron24/2123686/89823
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Düğün" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/dugunn.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Düğün
+http://ip.luxetv.club:8080/senkron24/2123686/89824
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Hayrettin" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/hayrettin.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Hayrettin
+http://ip.luxetv.club:8080/senkron24/2123686/89825
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Doğan Kabak" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/dogan.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Doğan Kabak
+http://ip.luxetv.club:8080/senkron24/2123686/89826
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Doğan Şamil" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/dogu.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Doğan Şamil
+http://ip.luxetv.club:8080/senkron24/2123686/89827
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Otomatik Oynat" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/oto.oynat.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Otomatik Oynat
+http://ip.luxetv.club:8080/senkron24/2123686/89828
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Freekickerz" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/freekickerz.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Freekickerz
+http://ip.luxetv.club:8080/senkron24/2123686/89829
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV BuNeLa" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/bunela.png" group-title="TURKEY ☪ SİNEMA",Anonym TV BuNeLa
+http://ip.luxetv.club:8080/senkron24/2123686/89830
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Tepkikolik" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/tepkikolik.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Tepkikolik
+http://ip.luxetv.club:8080/senkron24/2123686/89831
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Kişisel Gelişim" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/kisisel.gelisim.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Kişisel Gelişim
+http://ip.luxetv.club:8080/senkron24/2123686/89832
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Boeing" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/boeing.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Boeing
+http://ip.luxetv.club:8080/senkron24/2123686/89833
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Sıla Yolu" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sila.yolu.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Sıla Yolu
+http://ip.luxetv.club:8080/senkron24/2123686/89834
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Sokak Röportajları" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sokak.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Sokak Röportajları
+http://ip.luxetv.club:8080/senkron24/2123686/89835
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Sosyal Deneyler" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sosyal-deneyler.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Sosyal Deneyler
+http://ip.luxetv.club:8080/senkron24/2123686/89836
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Tiktok" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/tiktok.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Tiktok
+http://ip.luxetv.club:8080/senkron24/2123686/89837
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Premiere HD" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Anonym.yeni.kanal.logo/premiere.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Premiere HD
+http://ip.luxetv.club:8080/senkron24/2123686/89838
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV 3D" tvg-logo="https://foreverfuntv.com/newpicon/TR/3dlogo.png" group-title="TURKEY ☪ SİNEMA",Anonym TV 3D
+http://ip.luxetv.club:8080/senkron24/2123686/89839
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV 4K Sinema HD" tvg-logo="https://foreverfuntv.com/newpicon/TR/4k_sinemaKA.png" group-title="TURKEY ☪ SİNEMA",Anonym TV 4K Sinema HD
+http://ip.luxetv.club:8080/senkron24/2123686/89840
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Aksiyon Sinema HD" tvg-logo="https://foreverfuntv.com/newpicon/TR/aksiyonlogo.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Aksiyon Sinema HD
+http://ip.luxetv.club:8080/senkron24/2123686/89841
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Komedi Sinema HD" tvg-logo="https://foreverfuntv.com/newpicon/TR/komedilogo.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Komedi Sinema HD
+http://ip.luxetv.club:8080/senkron24/2123686/89842
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Kovboy Sinema HD" tvg-logo="https://foreverfuntv.com/newpicon/TR/kovboy.kanal.logo.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Kovboy Sinema HD
+http://ip.luxetv.club:8080/senkron24/2123686/89843
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Netflix Sinema HD" tvg-logo="https://foreverfuntv.com/newpicon/TR/netflix.kanal.logo.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Netflix Sinema HD
+http://ip.luxetv.club:8080/senkron24/2123686/89844
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Bilimkurgu Sinema HD" tvg-logo="https://foreverfuntv.com/newpicon/TR/bilim.kurgu.kanal.logo.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Bilimkurgu Sinema HD
+http://ip.luxetv.club:8080/senkron24/2123686/89845
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV H265 Sinema HD" tvg-logo="https://foreverfuntv.com/newpicon/TR/h265.kanal.logo.png" group-title="TURKEY ☪ SİNEMA",Anonym TV H265 Sinema HD
+http://ip.luxetv.club:8080/senkron24/2123686/89846
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Aile" tvg-logo="https://foreverfuntv.com/newpicon/TR/ailelogo.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Aile
+http://ip.luxetv.club:8080/senkron24/2123686/89847
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Ask Romantik" tvg-logo="https://foreverfuntv.com/newpicon/TR/ask_romantiklogo.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Ask Romantik
+http://ip.luxetv.club:8080/senkron24/2123686/89848
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Zeki Metin" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Yesilcam.logo/zeki.metin.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Zeki Metin
+http://ip.luxetv.club:8080/senkron24/2123686/89850
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Yılmaz Güney HD" tvg-logo="https://foreverfuntv.com/newpicon/TR/yilmaz_guneylogo.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Yılmaz Güney HD
+http://ip.luxetv.club:8080/senkron24/2123686/89851
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV  Şener Şen HD" tvg-logo="https://foreverfuntv.com/newpicon/TR/sener_senlogo.png" group-title="TURKEY ☪ SİNEMA",Anonym TV  Şener Şen HD
+http://ip.luxetv.club:8080/senkron24/2123686/89852
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Yeşilçam Sinema 1 HD" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Anonym.yeni.kanal.logo/yesilcam.kanal.logo.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Yeşilçam Sinema 1 HD
+http://ip.luxetv.club:8080/senkron24/2123686/89853
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Yeşilçam Sinema 2 HD" tvg-logo="http://foreverfuntv.com/newpicon/Kanal_Logo/Anonym.yeni.kanal.logo/yesilcam.kanal.logo.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Yeşilçam Sinema 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/89854
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Müjdat Gezen" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Yesilcam.logo/mujdat.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Müjdat Gezen
+http://ip.luxetv.club:8080/senkron24/2123686/89855
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Çocuk Animasyon" tvg-logo="https://foreverfuntv.com/newpicon/TR/cocuk_animasyonlogo.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Çocuk Animasyon
+http://ip.luxetv.club:8080/senkron24/2123686/89856
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV İbrahim TATLISES HD" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Yesilcam.logo/ibrahim.200x90.png" group-title="TURKEY ☪ SİNEMA",Anonym TV İbrahim TATLISES HD
+http://ip.luxetv.club:8080/senkron24/2123686/89857
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Kadir İNANIR HD" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Yesilcam.logo/kadir.200x90.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Kadir İNANIR HD
+http://ip.luxetv.club:8080/senkron24/2123686/89858
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Tarık AKAN HD" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Yesilcam.logo/tarik.200x90.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Tarık AKAN HD
+http://ip.luxetv.club:8080/senkron24/2123686/89859
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Öztürk SERENGİL HD" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Yesilcam.logo/ozturk.200x90.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Öztürk SERENGİL HD
+http://ip.luxetv.club:8080/senkron24/2123686/89860
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Aydemir  Akbaş" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Yesilcam.logo/aydemir.200x90.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Aydemir  Akbaş
+http://ip.luxetv.club:8080/senkron24/2123686/89861
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Ferdi Tayfur" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Yesilcam.logo/ferdi.200x90.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Ferdi Tayfur
+http://ip.luxetv.club:8080/senkron24/2123686/89862
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV İlyas Salman" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Yesilcam.logo/ilyas.png" group-title="TURKEY ☪ SİNEMA",Anonym TV İlyas Salman
+http://ip.luxetv.club:8080/senkron24/2123686/89863
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Müjde AR" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Yesilcam.logo/mujde.ar.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Müjde AR
+http://ip.luxetv.club:8080/senkron24/2123686/89864
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Recep İvedik" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Yesilcam.logo/recep.ivedikk.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Recep İvedik
+http://ip.luxetv.club:8080/senkron24/2123686/89865
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Sadri Alışık" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Yesilcam.logo/sadri.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Sadri Alışık
+http://ip.luxetv.club:8080/senkron24/2123686/89866
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Şener Şen" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Yesilcam.logo/sener.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Şener Şen
+http://ip.luxetv.club:8080/senkron24/2123686/89867
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Türkan Şoray" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Yesilcam.logo/turkan.soray.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Türkan Şoray
+http://ip.luxetv.club:8080/senkron24/2123686/89868
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Safak Sezer HD" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Yesilcam.logo/Safak.Sezer.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Safak Sezer HD
+http://ip.luxetv.club:8080/senkron24/2123686/89869
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Konuşanlar" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Anonym.yeni.kanal.logo/konusanlar.exxen.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Konuşanlar
+http://ip.luxetv.club:8080/senkron24/2123686/89870
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Stalk Show" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Anonym.yeni.kanal.logo/stalk.show.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Stalk Show
+http://ip.luxetv.club:8080/senkron24/2123686/89871
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV TolgShow Filtresiz" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Anonym.yeni.kanal.logo/tolgshow.exxen.png" group-title="TURKEY ☪ SİNEMA",Anonym TV TolgShow Filtresiz
+http://ip.luxetv.club:8080/senkron24/2123686/89872
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Exxen" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Anonym.yeni.kanal.logo/exxen.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Exxen
+http://ip.luxetv.club:8080/senkron24/2123686/89873
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Exxen 2" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Anonym.yeni.kanal.logo/exxen.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Exxen 2
+http://ip.luxetv.club:8080/senkron24/2123686/89874
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Exxen 3" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Anonym.yeni.kanal.logo/exxen.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Exxen 3
+http://ip.luxetv.club:8080/senkron24/2123686/89875
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Exxen 4" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Anonym.yeni.kanal.logo/exxen.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Exxen 4
+http://ip.luxetv.club:8080/senkron24/2123686/89876
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Exxen 5" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Anonym.yeni.kanal.logo/exxen.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Exxen 5
+http://ip.luxetv.club:8080/senkron24/2123686/89877
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Exxen 6" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Anonym.yeni.kanal.logo/exxen.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Exxen 6
+http://ip.luxetv.club:8080/senkron24/2123686/89878
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Exxen 7" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Anonym.yeni.kanal.logo/exxen.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Exxen 7
+http://ip.luxetv.club:8080/senkron24/2123686/89879
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Exxen 8" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Anonym.yeni.kanal.logo/exxen.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Exxen 8
+http://ip.luxetv.club:8080/senkron24/2123686/89880
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Exxen 9" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Anonym.yeni.kanal.logo/exxen.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Exxen 9
+http://ip.luxetv.club:8080/senkron24/2123686/89881
+#EXTINF:-1 tvg-id="" tvg-name="CINETIME NETFLIX 1" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",CINETIME NETFLIX 1
+http://ip.luxetv.club:8080/senkron24/2123686/89886
+#EXTINF:-1 tvg-id="" tvg-name="CINETIME NETFLIX 2" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",CINETIME NETFLIX 2
+http://ip.luxetv.club:8080/senkron24/2123686/89887
+#EXTINF:-1 tvg-id="" tvg-name="CINETIME NETFLIX 3" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",CINETIME NETFLIX 3
+http://ip.luxetv.club:8080/senkron24/2123686/89888
+#EXTINF:-1 tvg-id="" tvg-name="CINETIME AILE 1" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",CINETIME AILE 1
+http://ip.luxetv.club:8080/senkron24/2123686/89889
+#EXTINF:-1 tvg-id="" tvg-name="CINETIME TURK 1" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",CINETIME TURK 1
+http://ip.luxetv.club:8080/senkron24/2123686/89890
+#EXTINF:-1 tvg-id="" tvg-name="CINETIME TURK 2" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",CINETIME TURK 2
+http://ip.luxetv.club:8080/senkron24/2123686/89891
+#EXTINF:-1 tvg-id="" tvg-name="CINETIME AKSIYON 1" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",CINETIME AKSIYON 1
+http://ip.luxetv.club:8080/senkron24/2123686/89892
+#EXTINF:-1 tvg-id="" tvg-name="CINETIME KORKU 2" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",CINETIME KORKU 2
+http://ip.luxetv.club:8080/senkron24/2123686/89897
+#EXTINF:-1 tvg-id="" tvg-name="ELIT SINEMA AKSIYON 2 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT SINEMA AKSIYON 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/89902
+#EXTINF:-1 tvg-id="" tvg-name="ELIT SINEMA AILE HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT SINEMA AILE HD
+http://ip.luxetv.club:8080/senkron24/2123686/89903
+#EXTINF:-1 tvg-id="" tvg-name="ELIT SINEMA AILE 2 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT SINEMA AILE 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/89904
+#EXTINF:-1 tvg-id="" tvg-name="ELIT SINEMA 1001 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT SINEMA 1001 HD
+http://ip.luxetv.club:8080/senkron24/2123686/89905
+#EXTINF:-1 tvg-id="" tvg-name="ELIT MOVIES TURK" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT MOVIES TURK
+http://ip.luxetv.club:8080/senkron24/2123686/89907
+#EXTINF:-1 tvg-id="" tvg-name="ELIT MOVIES STARS HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT MOVIES STARS HD
+http://ip.luxetv.club:8080/senkron24/2123686/89908
+#EXTINF:-1 tvg-id="" tvg-name="ELIT MOVIES PREMIER HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT MOVIES PREMIER HD
+http://ip.luxetv.club:8080/senkron24/2123686/89909
+#EXTINF:-1 tvg-id="" tvg-name="ELIT MOVIES PREMIER 2 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT MOVIES PREMIER 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/89910
+#EXTINF:-1 tvg-id="" tvg-name="ELIT MOVIES FESTIVAL HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT MOVIES FESTIVAL HD
+http://ip.luxetv.club:8080/senkron24/2123686/89911
+#EXTINF:-1 tvg-id="" tvg-name="ELIT MOVIES FAMILIY HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT MOVIES FAMILIY HD
+http://ip.luxetv.club:8080/senkron24/2123686/89912
+#EXTINF:-1 tvg-id="" tvg-name="ELIT MOVIES COMEDY HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT MOVIES COMEDY HD
+http://ip.luxetv.club:8080/senkron24/2123686/89913
+#EXTINF:-1 tvg-id="" tvg-name="ELIT MOVIES ACTION 2 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT MOVIES ACTION 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/89915
+#EXTINF:-1 tvg-id="" tvg-name="ELIT YESILCAM 1" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT YESILCAM 1
+http://ip.luxetv.club:8080/senkron24/2123686/89916
+#EXTINF:-1 tvg-id="" tvg-name="ELIT YESILCAM 2" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT YESILCAM 2
+http://ip.luxetv.club:8080/senkron24/2123686/89917
+#EXTINF:-1 tvg-id="" tvg-name="ELIT YESILCAM 3" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT YESILCAM 3
+http://ip.luxetv.club:8080/senkron24/2123686/89918
+#EXTINF:-1 tvg-id="" tvg-name="ELIT YERLI" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT YERLI
+http://ip.luxetv.club:8080/senkron24/2123686/89919
+#EXTINF:-1 tvg-id="" tvg-name="ELIT YERLI 2" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT YERLI 2
+http://ip.luxetv.club:8080/senkron24/2123686/89920
+#EXTINF:-1 tvg-id="" tvg-name="ELIT SMART TURK" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT SMART TURK
+http://ip.luxetv.club:8080/senkron24/2123686/89921
+#EXTINF:-1 tvg-id="" tvg-name="ELIT SMART KLASIK" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT SMART KLASIK
+http://ip.luxetv.club:8080/senkron24/2123686/89922
+#EXTINF:-1 tvg-id="" tvg-name="ELIT NETFLIX 1" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT NETFLIX 1
+http://ip.luxetv.club:8080/senkron24/2123686/89923
+#EXTINF:-1 tvg-id="" tvg-name="ELIT NETFLIX 3" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT NETFLIX 3
+http://ip.luxetv.club:8080/senkron24/2123686/89925
+#EXTINF:-1 tvg-id="" tvg-name="ELIT MOVIES PREMIER 1" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT MOVIES PREMIER 1
+http://ip.luxetv.club:8080/senkron24/2123686/89926
+#EXTINF:-1 tvg-id="" tvg-name="ELIT MOVIES FAMILY" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT MOVIES FAMILY
+http://ip.luxetv.club:8080/senkron24/2123686/89928
+#EXTINF:-1 tvg-id="" tvg-name="ELIT MOVIES COMEDY" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT MOVIES COMEDY
+http://ip.luxetv.club:8080/senkron24/2123686/89929
+#EXTINF:-1 tvg-id="" tvg-name="ELIT MOVIES ACTION 2" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT MOVIES ACTION 2
+http://ip.luxetv.club:8080/senkron24/2123686/89930
+#EXTINF:-1 tvg-id="" tvg-name="ELIT MOVIES ACTION" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT MOVIES ACTION
+http://ip.luxetv.club:8080/senkron24/2123686/89931
+#EXTINF:-1 tvg-id="" tvg-name="ELIT KORKU 1" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT KORKU 1
+http://ip.luxetv.club:8080/senkron24/2123686/89932
+#EXTINF:-1 tvg-id="" tvg-name="ELIT KOMEDI 1" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT KOMEDI 1
+http://ip.luxetv.club:8080/senkron24/2123686/89934
+#EXTINF:-1 tvg-id="" tvg-name="ELIT KOMEDI 2" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT KOMEDI 2
+http://ip.luxetv.club:8080/senkron24/2123686/89935
+#EXTINF:-1 tvg-id="" tvg-name="ELIT KEMAL SUNAL" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT KEMAL SUNAL
+http://ip.luxetv.club:8080/senkron24/2123686/89936
+#EXTINF:-1 tvg-id="" tvg-name="ELIT BEINBOX 1" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT BEINBOX 1
+http://ip.luxetv.club:8080/senkron24/2123686/89938
+#EXTINF:-1 tvg-id="" tvg-name="ELIT BEINBOX 2" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT BEINBOX 2
+http://ip.luxetv.club:8080/senkron24/2123686/89939
+#EXTINF:-1 tvg-id="" tvg-name="ELIT BEINBOX 3" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT BEINBOX 3
+http://ip.luxetv.club:8080/senkron24/2123686/89940
+#EXTINF:-1 tvg-id="" tvg-name="ELIT AKSIYON 2" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT AKSIYON 2
+http://ip.luxetv.club:8080/senkron24/2123686/89942
+#EXTINF:-1 tvg-id="" tvg-name="ELIT AILE 1" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT AILE 1
+http://ip.luxetv.club:8080/senkron24/2123686/89943
+#EXTINF:-1 tvg-id="" tvg-name="Metropol Vizyon" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol1.png" group-title="TURKEY ☪ SİNEMA",Metropol Vizyon
+http://ip.luxetv.club:8080/senkron24/2123686/89945
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Exxen 10" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Anonym.yeni.kanal.logo/exxen.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Exxen 10
+http://ip.luxetv.club:8080/senkron24/2123686/89958
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV  Fragman Park Animasyonlu Erkekler" tvg-logo="https://foreverfuntv.com/newpicon/gladio.ekip.kanal.logolari/multi-kids1/200x200/trailer-park-boys-200x200x.png" group-title="TURKEY ☪ SİNEMA",Anonym TV  Fragman Park Animasyonlu Erkekler
+http://ip.luxetv.club:8080/senkron24/2123686/89959
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Cennet PD" tvg-logo="https://foreverfuntv.com/newpicon/gladio.ekip.kanal.logolari/multi-kids1/200x200/paradise-pd-200x200.png" group-title="TURKEY ☪ SİNEMA",Anonym TV Cennet PD
+http://ip.luxetv.club:8080/senkron24/2123686/89960
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV  Aşk Ölüm Robotları" tvg-logo="https://foreverfuntv.com/newpicon/gladio.ekip.kanal.logolari/multi-kids1/200x200/love-death-robot-200x200.png" group-title="TURKEY ☪ SİNEMA",Anonym TV  Aşk Ölüm Robotları
+http://ip.luxetv.club:8080/senkron24/2123686/89961
+#EXTINF:-1 tvg-id="" tvg-name="ELIT SINEMA 1002 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT SINEMA 1002 HD
+http://ip.luxetv.club:8080/senkron24/2123686/89962
+#EXTINF:-1 tvg-id="" tvg-name="ELIT NETFLIX 2" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT NETFLIX 2
+http://ip.luxetv.club:8080/senkron24/2123686/89963
+#EXTINF:-1 tvg-id="" tvg-name="ELIT MOVIES PREMIER 2" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT MOVIES PREMIER 2
+http://ip.luxetv.club:8080/senkron24/2123686/89964
+#EXTINF:-1 tvg-id="" tvg-name="ELIT KORKU 2" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT KORKU 2
+http://ip.luxetv.club:8080/senkron24/2123686/89965
+#EXTINF:-1 tvg-id="" tvg-name="ELIT FESTIVAL" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT FESTIVAL
+http://ip.luxetv.club:8080/senkron24/2123686/89966
+#EXTINF:-1 tvg-id="" tvg-name="ELIT AILE 2" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema.png" group-title="TURKEY ☪ SİNEMA",ELIT AILE 2
+http://ip.luxetv.club:8080/senkron24/2123686/89968
+#EXTINF:-1 tvg-id="" tvg-name="★✦★ BELGESEL ★✦★" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="TURKEY ☪ BELGESEL",★✦★ BELGESEL ★✦★
+http://ip.luxetv.club:8080/senkron24/2123686/90870
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TRT BELGESEL FHD" tvg-logo="http://focustv.xyz/files/ch/TR/trt_belgesel.png" group-title="TURKEY ☪ BELGESEL",TRT BELGESEL FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90871
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TRT BELGESEL HD" tvg-logo="http://focustv.xyz/files/ch/TR/trt_belgesel.png" group-title="TURKEY ☪ BELGESEL",TRT BELGESEL HD
+http://ip.luxetv.club:8080/senkron24/2123686/90872
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="http://focustv.xyz/files/ch/TR/national_geo.png" group-title="TURKEY ☪ BELGESEL",NATIONAL GEOGRAPHIC FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90873
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://focustv.xyz/files/ch/TR/national_geo.png" group-title="TURKEY ☪ BELGESEL",NATIONAL GEOGRAPHIC HD
+http://ip.luxetv.club:8080/senkron24/2123686/90874
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="NAT GEO WILD FHD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/national_geo_wild.png" group-title="TURKEY ☪ BELGESEL",NAT GEO WILD FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90875
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="NAT GEO WILD HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/national_geo_wild.png" group-title="TURKEY ☪ BELGESEL",NAT GEO WILD HD
+http://ip.luxetv.club:8080/senkron24/2123686/90876
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="DISCOVERY FHD" tvg-logo="http://logo.sltv.site/logo/turkeyT/discovery_channel.png" group-title="TURKEY ☪ BELGESEL",DISCOVERY FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90877
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="DISCOVERY HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/discovery_channel.png" group-title="TURKEY ☪ BELGESEL",DISCOVERY HD
+http://ip.luxetv.club:8080/senkron24/2123686/90878
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="http://logo.sltv.site/logo/turkeyT/discovery_science.png" group-title="TURKEY ☪ BELGESEL",DISCOVERY SCIENCE FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90879
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://focustv.xyz/files/ch/TR/discovery_science.png" group-title="TURKEY ☪ BELGESEL",DISCOVERY SCIENCE HD
+http://ip.luxetv.club:8080/senkron24/2123686/90880
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID FHD" tvg-logo="http://focustv.xyz/files/ch/TR/discovery_idx.png" group-title="TURKEY ☪ BELGESEL",DISCOVERY ID FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90881
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-name="DISCOVERY ID HD" tvg-logo="http://focustv.xyz/files/ch/TR/discovery_idx.png" group-title="TURKEY ☪ BELGESEL",DISCOVERY ID HD
+http://ip.luxetv.club:8080/senkron24/2123686/90882
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="DMAX FHD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/dmaxx.png" group-title="TURKEY ☪ BELGESEL",DMAX FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90883
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="DMAX HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/dmaxx.png" group-title="TURKEY ☪ BELGESEL",DMAX HD
+http://ip.luxetv.club:8080/senkron24/2123686/90884
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TLC FHD" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/tlc.png" group-title="TURKEY ☪ BELGESEL",TLC FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90885
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TLC HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/TURKEY/tlc.png" group-title="TURKEY ☪ BELGESEL",TLC HD
+http://ip.luxetv.club:8080/senkron24/2123686/90886
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="BBC EARTH FHD" tvg-logo="http://focustv.xyz/files/ch/SCANDINAVIAN/bbcEarth.png" group-title="TURKEY ☪ BELGESEL",BBC EARTH FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90887
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="BBC EARTH HD" tvg-logo="http://focustv.xyz/files/ch/SCANDINAVIAN/bbcEarth.png" group-title="TURKEY ☪ BELGESEL",BBC EARTH HD
+http://ip.luxetv.club:8080/senkron24/2123686/90888
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="TURKEY ☪ BELGESEL",LOVE NATURE FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90889
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="TURKEY ☪ BELGESEL",LOVE NATURE HD
+http://ip.luxetv.club:8080/senkron24/2123686/90890
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="VIASAT HISTORY FHD" tvg-logo="http://focustv.xyz/files/ch/EXYU/VIASATHISTORY.png" group-title="TURKEY ☪ BELGESEL",VIASAT HISTORY FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90891
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="VIASAT HISTORY HD" tvg-logo="http://focustv.xyz/files/ch/EXYU/VIASATHISTORY.png" group-title="TURKEY ☪ BELGESEL",VIASAT HISTORY HD
+http://ip.luxetv.club:8080/senkron24/2123686/90892
+#EXTINF:-1 tvg-id="" tvg-name="VIASAT EXPLORE HD" tvg-logo="http://focustv.xyz/files/ch/TR/viasatExplore.png" group-title="TURKEY ☪ BELGESEL",VIASAT EXPLORE HD
+http://ip.luxetv.club:8080/senkron24/2123686/90893
+#EXTINF:-1 tvg-id="24kitchen.tr" tvg-name="24 KITCHEN FHD" tvg-logo="http://focustv.xyz/files/ch/TR/24kitchen.png" group-title="TURKEY ☪ BELGESEL",24 KITCHEN FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90894
+#EXTINF:-1 tvg-id="24kitchen.tr" tvg-name="24 KITCHEN HD" tvg-logo="http://focustv.xyz/files/ch/TR/24kitchen.png" group-title="TURKEY ☪ BELGESEL",24 KITCHEN HD
+http://ip.luxetv.club:8080/senkron24/2123686/90895
+#EXTINF:-1 tvg-id="" tvg-name="DOCUBOX FHD" tvg-logo="http://focustv.xyz/files/ch/TR/docubox.png" group-title="TURKEY ☪ BELGESEL",DOCUBOX FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90896
+#EXTINF:-1 tvg-id="" tvg-name="DOCUBOX HD" tvg-logo="http://focustv.xyz/files/ch/TR/docubox.png" group-title="TURKEY ☪ BELGESEL",DOCUBOX HD
+http://ip.luxetv.club:8080/senkron24/2123686/90897
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-name="HISTORY FHD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/history.png" group-title="TURKEY ☪ BELGESEL",HISTORY FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90898
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAUX" tvg-logo="http://focustv.xyz/files/ch/TR/animaux.png" group-title="TURKEY ☪ BELGESEL",ANIMAUX
+http://ip.luxetv.club:8080/senkron24/2123686/90899
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-name="BEIN IZ FHD" tvg-logo="http://logo.sltv.site/logo/turkeyT/beiniz.png" group-title="TURKEY ☪ BELGESEL",BEIN IZ FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90900
+#EXTINF:-1 tvg-id="" tvg-name="BEIN H&E FHD" tvg-logo="http://focustv.xyz/files/ch/TR/BeIN-h-eHD.png" group-title="TURKEY ☪ BELGESEL",BEIN H&E FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90901
+#EXTINF:-1 tvg-id="beingurme.tr" tvg-name="BEIN GURME FHD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_gurne.png" group-title="TURKEY ☪ BELGESEL",BEIN GURME FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90902
+#EXTINF:-1 tvg-id="" tvg-name="SCIENCE & VIE TV FHD" tvg-logo="http://focustv.xyz/files/ch/FRANCE/SCIENCEETVIEHD.png" group-title="TURKEY ☪ BELGESEL",SCIENCE & VIE TV FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90903
+#EXTINF:-1 tvg-id="yabantv.tr" tvg-name="YABAN TV FHD" tvg-logo="http://focustv.xyz/files/ch/TR/yaban_tv.png" group-title="TURKEY ☪ BELGESEL",YABAN TV FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90904
+#EXTINF:-1 tvg-id="" tvg-name="KÖY TV" tvg-logo="http://logo.sltv.site/logo/turkeyT/koy_tv.png" group-title="TURKEY ☪ BELGESEL",KÖY TV
+http://ip.luxetv.club:8080/senkron24/2123686/90905
+#EXTINF:-1 tvg-id="" tvg-name="TARIM TURK TV" tvg-logo="http://focustv.xyz/files/ch/TR/tarim_turk.png" group-title="TURKEY ☪ BELGESEL",TARIM TURK TV
+http://ip.luxetv.club:8080/senkron24/2123686/90906
+#EXTINF:-1 tvg-id="" tvg-name="CIFTCI TV" tvg-logo="http://focustv.xyz/files/ch/TR/ciftci_tv.png" group-title="TURKEY ☪ BELGESEL",CIFTCI TV
+http://ip.luxetv.club:8080/senkron24/2123686/90907
+#EXTINF:-1 tvg-id="" tvg-name="HABITAT TV HD" tvg-logo="https://www.weadapt.org/sites/weadapt.org/files/styles/large/public/2017/november/un-habitat_-_logo_-_inidesain.com_.png" group-title="TURKEY ☪ BELGESEL",HABITAT TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/90908
+#EXTINF:-1 tvg-id="" tvg-name="AGRO TV FHD" tvg-logo="https://i.imgur.com/YnbZoTN.png" group-title="TURKEY ☪ BELGESEL",AGRO TV FHD
+http://ip.luxetv.club:8080/senkron24/2123686/90909
+#EXTINF:-1 tvg-id="" tvg-name="WOMAN TV" tvg-logo="https://i.imgur.com/csFyfl3.jpg" group-title="TURKEY ☪ BELGESEL",WOMAN TV
+http://ip.luxetv.club:8080/senkron24/2123686/90910
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TGRT BELGESEL" tvg-logo="http://logo.sltv.site/logo/turkeyT/tgrt_belgesel.png" group-title="TURKEY ☪ BELGESEL",TGRT BELGESEL
+http://ip.luxetv.club:8080/senkron24/2123686/90911
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX BELGESEL" tvg-logo="https://logodix.com/logo/19547.png" group-title="TURKEY ☪ BELGESEL",REDBOX BELGESEL
+http://ip.luxetv.club:8080/senkron24/2123686/90912
+#EXTINF:-1 tvg-id="" tvg-name="TURKIYE'YI GEZIYORUM" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="TURKEY ☪ BELGESEL",TURKIYE'YI GEZIYORUM
+http://ip.luxetv.club:8080/senkron24/2123686/90913
+#EXTINF:-1 tvg-id="" tvg-name="DUNYA'YI GEZIYORUM" tvg-logo="http://logo.sltv.site/logo/AZERBAYCAN/dunya-tv-az.png" group-title="TURKEY ☪ BELGESEL",DUNYA'YI GEZIYORUM
+http://ip.luxetv.club:8080/senkron24/2123686/90914
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="DMAX HD+" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/dmaxxhd.png" group-title="TURKEY ☪ BELGESEL",DMAX HD+
+http://ip.luxetv.club:8080/senkron24/2123686/77278
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="DMAX HD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/dmaxxhd.png" group-title="TURKEY ☪ BELGESEL",DMAX HD
+http://ip.luxetv.club:8080/senkron24/2123686/77279
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="Nat Geo Wild" tvg-logo="http://anonym-tv.com/newpicon/TR/nationalgeographicwildlogo2.png" group-title="TURKEY ☪ BELGESEL",Nat Geo Wild
+http://ip.luxetv.club:8080/senkron24/2123686/77293
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="Nat Geo Wild HD" tvg-logo="http://anonym-tv.com/newpicon/TR/natgeowildlogo2.png" group-title="TURKEY ☪ BELGESEL",Nat Geo Wild HD
+http://ip.luxetv.club:8080/senkron24/2123686/77291
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="NATIONAL GEOGRAPHIC HD+" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/natgeo.png" group-title="TURKEY ☪ BELGESEL",NATIONAL GEOGRAPHIC HD+
+http://ip.luxetv.club:8080/senkron24/2123686/77257
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/natgeo.png" group-title="TURKEY ☪ BELGESEL",NATIONAL GEOGRAPHIC HD
+http://ip.luxetv.club:8080/senkron24/2123686/77258
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-name="DISCOVERY SCIENCE HD+" tvg-logo="http://logo.sltv.site/logo/turkeyT/discovery_science.png" group-title="TURKEY ☪ BELGESEL",DISCOVERY SCIENCE HD+
+http://ip.luxetv.club:8080/senkron24/2123686/77263
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/discovery_science.png" group-title="TURKEY ☪ BELGESEL",DISCOVERY SCIENCE HD
+http://ip.luxetv.club:8080/senkron24/2123686/77264
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="DISCOVERY HD+" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/discovery.png" group-title="TURKEY ☪ BELGESEL",DISCOVERY HD+
+http://ip.luxetv.club:8080/senkron24/2123686/77261
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="DISCOVERY HD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/discovery.png" group-title="TURKEY ☪ BELGESEL",DISCOVERY HD
+http://ip.luxetv.club:8080/senkron24/2123686/77262
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID HD+" tvg-logo="http://focustv.xyz/files/ch/TR/discovery_idx.png" group-title="TURKEY ☪ BELGESEL",DISCOVERY ID HD+
+http://ip.luxetv.club:8080/senkron24/2123686/77265
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-name="DISCOVERY ID HD" tvg-logo="http://focustv.xyz/files/ch/TR/discovery_idx.png" group-title="TURKEY ☪ BELGESEL",DISCOVERY ID HD
+http://ip.luxetv.club:8080/senkron24/2123686/77266
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="Discovery Channel HD" tvg-logo="http://anonym-tv.com/newpicon/TR/discovery_channel.png" group-title="TURKEY ☪ BELGESEL",Discovery Channel HD
+http://ip.luxetv.club:8080/senkron24/2123686/77302
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-name="Discovery Science HD" tvg-logo="http://anonym-tv.com/newpicon/TR/discoverysciencelogo2.png" group-title="TURKEY ☪ BELGESEL",Discovery Science HD
+http://ip.luxetv.club:8080/senkron24/2123686/77303
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-name="Discovery IDX HD" tvg-logo="http://anonym-tv.com/newpicon/TR/discoveryidxlogo.png" group-title="TURKEY ☪ BELGESEL",Discovery IDX HD
+http://ip.luxetv.club:8080/senkron24/2123686/77304
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="BBC EARTH HD+" tvg-logo="http://focustv.xyz/files/ch/SCANDINAVIAN/bbcEarth.png" group-title="TURKEY ☪ BELGESEL",BBC EARTH HD+
+http://ip.luxetv.club:8080/senkron24/2123686/77268
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="BBC EARTH HD" tvg-logo="http://focustv.xyz/files/ch/SCANDINAVIAN/bbcEarth.png" group-title="TURKEY ☪ BELGESEL",BBC EARTH HD
+http://ip.luxetv.club:8080/senkron24/2123686/77269
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="VIASAT HISTORY HD+" tvg-logo="https://www.resimyukle.org/images/2021/08/30/1f5cc6478318ab93df6f75cc25e25e9c.png" group-title="TURKEY ☪ BELGESEL",VIASAT HISTORY HD+
+http://ip.luxetv.club:8080/senkron24/2123686/77272
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="VIASAT HISTORY HD" tvg-logo="https://www.resimyukle.org/images/2021/08/30/1f5cc6478318ab93df6f75cc25e25e9c.png" group-title="TURKEY ☪ BELGESEL",VIASAT HISTORY HD
+http://ip.luxetv.club:8080/senkron24/2123686/77273
+#EXTINF:-1 tvg-id="animalplanet.tr" tvg-name="Animal Planet" tvg-logo="http://anonym-tv.com/newpicon/TR/animal.png" group-title="TURKEY ☪ BELGESEL",Animal Planet
+http://ip.luxetv.club:8080/senkron24/2123686/77306
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="NAT GEO WILD HD+" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/natgeowildhd.png" group-title="TURKEY ☪ BELGESEL",NAT GEO WILD HD+
+http://ip.luxetv.club:8080/senkron24/2123686/77259
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="NAT GEO WILD HD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/natgeowildhd.png" group-title="TURKEY ☪ BELGESEL",NAT GEO WILD HD
+http://ip.luxetv.club:8080/senkron24/2123686/77260
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="NATiONAL GEOGRAPHiC HD" tvg-logo="http://anonym-tv.com/newpicon/TR/nationalgeographiclogo.png" group-title="TURKEY ☪ BELGESEL",NATiONAL GEOGRAPHiC HD
+http://ip.luxetv.club:8080/senkron24/2123686/77301
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="NAT GEO WILD H2" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/natgeowildhd.png" group-title="TURKEY ☪ BELGESEL",NAT GEO WILD H2
+http://ip.luxetv.club:8080/senkron24/2123686/70062
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="NATIONAL GEOGRAPHIC H2" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/natgeo.png" group-title="TURKEY ☪ BELGESEL",NATIONAL GEOGRAPHIC H2
+http://ip.luxetv.club:8080/senkron24/2123686/70063
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="NATIONAL GEOGRAPHIC HEVC" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/natgeo.png" group-title="TURKEY ☪ BELGESEL",NATIONAL GEOGRAPHIC HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/70064
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="DISCOVERY H2" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/discovery.png" group-title="TURKEY ☪ BELGESEL",DISCOVERY H2
+http://ip.luxetv.club:8080/senkron24/2123686/70065
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="DISCOVERY HEVC" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/discovery.png" group-title="TURKEY ☪ BELGESEL",DISCOVERY HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/70066
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-name="DISCOVERY SCIENCE H2" tvg-logo="http://logo.sltv.site/logo/turkeyT/discovery_science.png" group-title="TURKEY ☪ BELGESEL",DISCOVERY SCIENCE H2
+http://ip.luxetv.club:8080/senkron24/2123686/70067
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-name="DISCOVERY SCIENCE HEVC" tvg-logo="http://logo.sltv.site/logo/turkeyT/discovery_science.png" group-title="TURKEY ☪ BELGESEL",DISCOVERY SCIENCE HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/70068
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAUX" tvg-logo="https://www.resimyukle.org/images/2021/08/08/573d35486c8da9416b4b7864491fa9da.png" group-title="TURKEY ☪ BELGESEL",ANIMAUX
+http://ip.luxetv.club:8080/senkron24/2123686/70145
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="TURKEY ☪ BELGESEL",LOVE NATURE HD+
+http://ip.luxetv.club:8080/senkron24/2123686/77270
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TLC HD+" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/tlchd.png" group-title="TURKEY ☪ BELGESEL",TLC HD+
+http://ip.luxetv.club:8080/senkron24/2123686/77280
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TLC HD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/tlchd.png" group-title="TURKEY ☪ BELGESEL",TLC HD
+http://ip.luxetv.club:8080/senkron24/2123686/77281
+#EXTINF:-1 tvg-id="yabantv.tr" tvg-name="YABAN TV HD+" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/yaban.png" group-title="TURKEY ☪ BELGESEL",YABAN TV HD+
+http://ip.luxetv.club:8080/senkron24/2123686/77284
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TRT BELGESEL HD+" tvg-logo="http://focustv.xyz/files/ch/TR/trt_belgesel.png" group-title="TURKEY ☪ BELGESEL",TRT BELGESEL HD+
+http://ip.luxetv.club:8080/senkron24/2123686/77255
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TRT BELGESEL HD" tvg-logo="http://focustv.xyz/files/ch/TR/trt_belgesel.png" group-title="TURKEY ☪ BELGESEL",TRT BELGESEL HD
+http://ip.luxetv.club:8080/senkron24/2123686/77256
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-name="HISTORY HD+" tvg-logo="https://www.resimyukle.org/images/2021/08/30/f01ca3ff5f2be1609d14b2a3cd4c5788.md.png" group-title="TURKEY ☪ BELGESEL",HISTORY HD+
+http://ip.luxetv.club:8080/senkron24/2123686/77267
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="TURKEY ☪ BELGESEL",LOVE NATURE HD
+http://ip.luxetv.club:8080/senkron24/2123686/77271
+#EXTINF:-1 tvg-id="" tvg-name="VIASAT EXPLORE HD" tvg-logo="http://focustv.xyz/files/ch/TR/viasatExplore.png" group-title="TURKEY ☪ BELGESEL",VIASAT EXPLORE HD
+http://ip.luxetv.club:8080/senkron24/2123686/77274
+#EXTINF:-1 tvg-id="24kitchen.tr" tvg-name="24 KITCHEN HD+" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/24kitchen.png" group-title="TURKEY ☪ BELGESEL",24 KITCHEN HD+
+http://ip.luxetv.club:8080/senkron24/2123686/77275
+#EXTINF:-1 tvg-id="24kitchen.tr" tvg-name="24 KITCHEN HD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/24kitchen.png" group-title="TURKEY ☪ BELGESEL",24 KITCHEN HD
+http://ip.luxetv.club:8080/senkron24/2123686/77276
+#EXTINF:-1 tvg-id="beingurme.tr" tvg-name="BEIN GURME HD+" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_gurne.png" group-title="TURKEY ☪ BELGESEL",BEIN GURME HD+
+http://ip.luxetv.club:8080/senkron24/2123686/77282
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TGRT BELGESEL" tvg-logo="http://logo.sltv.site/logo/turkeyT/tgrt_belgesel.png" group-title="TURKEY ☪ BELGESEL",TGRT BELGESEL
+http://ip.luxetv.club:8080/senkron24/2123686/77286
+#EXTINF:-1 tvg-id="" tvg-name="TARIM TURK TV" tvg-logo="https://www.resimyukle.org/images/2021/08/08/5d81ac16cb7aecbcc032a08fd95ed8ed.png" group-title="TURKEY ☪ BELGESEL",TARIM TURK TV
+http://ip.luxetv.club:8080/senkron24/2123686/77287
+#EXTINF:-1 tvg-id="" tvg-name="CIFTCI TV" tvg-logo="https://www.resimyukle.org/images/2021/08/08/e505b084108c8605d64ec439566f9014.png" group-title="TURKEY ☪ BELGESEL",CIFTCI TV
+http://ip.luxetv.club:8080/senkron24/2123686/77288
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TRT Belgesel HD" tvg-logo="http://anonym-tv.com/newpicon/TR/trtbelgesellogo4.png" group-title="TURKEY ☪ BELGESEL",TRT Belgesel HD
+http://ip.luxetv.club:8080/senkron24/2123686/77290
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="Viasat History HD" tvg-logo="http://anonym-tv.com/newpicon/TR/visiat_history.png" group-title="TURKEY ☪ BELGESEL",Viasat History HD
+http://ip.luxetv.club:8080/senkron24/2123686/77292
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-name="History" tvg-logo="http://anonym-tv.com/newpicon/TR/history.png" group-title="TURKEY ☪ BELGESEL",History
+http://ip.luxetv.club:8080/senkron24/2123686/77305
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="Viasat History" tvg-logo="http://anonym-tv.com/newpicon/TR/visiat_history.png" group-title="TURKEY ☪ BELGESEL",Viasat History
+http://ip.luxetv.club:8080/senkron24/2123686/77307
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature HD" tvg-logo="http://anonym-tv.com/newpicon/TR/lovee.png" group-title="TURKEY ☪ BELGESEL",Love Nature HD
+http://ip.luxetv.club:8080/senkron24/2123686/77308
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Explore HD" tvg-logo="http://anonym-tv.com/newpicon/TR/viasatexplorelogo2.png" group-title="TURKEY ☪ BELGESEL",Viasat Explore HD
+http://ip.luxetv.club:8080/senkron24/2123686/77309
+#EXTINF:-1 tvg-id="24kitchen.tr" tvg-name="24 Kitchen HD" tvg-logo="http://anonym-tv.com/newpicon/TR/24_kitchen.png" group-title="TURKEY ☪ BELGESEL",24 Kitchen HD
+http://ip.luxetv.club:8080/senkron24/2123686/77310
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="DMAX" tvg-logo="http://anonym-tv.com/newpicon/TR/dmaxlogo.png" group-title="TURKEY ☪ BELGESEL",DMAX
+http://ip.luxetv.club:8080/senkron24/2123686/77311
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="BBC Earth HD" tvg-logo="http://anonym-tv.com/newpicon/TR/bbcearthlogo.png" group-title="TURKEY ☪ BELGESEL",BBC Earth HD
+http://ip.luxetv.club:8080/senkron24/2123686/77294
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-name="History HD" tvg-logo="http://anonym-tv.com/newpicon/TR/history.png" group-title="TURKEY ☪ BELGESEL",History HD
+http://ip.luxetv.club:8080/senkron24/2123686/77295
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-name="beIN IZ TV HD" tvg-logo="http://anonym-tv.com/newpicon/TR/iztvlogo2.png" group-title="TURKEY ☪ BELGESEL",beIN IZ TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/77296
+#EXTINF:-1 tvg-id="" tvg-name="TGRT Belgesel" tvg-logo="http://anonym-tv.com/newpicon/TR/tgrt_belgesel.png" group-title="TURKEY ☪ BELGESEL",TGRT Belgesel
+http://ip.luxetv.club:8080/senkron24/2123686/77297
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TRT Belgesel" tvg-logo="http://anonym-tv.com/newpicon/TR/trtbelgesellogo4.png" group-title="TURKEY ☪ BELGESEL",TRT Belgesel
+http://ip.luxetv.club:8080/senkron24/2123686/77298
+#EXTINF:-1 tvg-id="yabantv.tr" tvg-name="Yaban TV HD" tvg-logo="http://anonym-tv.com/newpicon/TR/yaban_tv.png" group-title="TURKEY ☪ BELGESEL",Yaban TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/77300
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TRT BELGESEL HEVC" tvg-logo="http://focustv.xyz/files/ch/TR/trt_belgesel.png" group-title="TURKEY ☪ BELGESEL",TRT BELGESEL HEVC
+http://ip.luxetv.club:8080/senkron24/2123686/70061
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="VIASAT HISTORY H2" tvg-logo="https://www.resimyukle.org/images/2021/08/30/1f5cc6478318ab93df6f75cc25e25e9c.png" group-title="TURKEY ☪ BELGESEL",VIASAT HISTORY H2
+http://ip.luxetv.club:8080/senkron24/2123686/70069
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX BELGESEL" tvg-logo="https://logodix.com/logo/19547.png" group-title="TURKEY ☪ BELGESEL",REDBOX BELGESEL
+http://ip.luxetv.club:8080/senkron24/2123686/70146
+#EXTINF:-1 tvg-id="" tvg-name="HABITAT TV HD" tvg-logo="https://www.weadapt.org/sites/weadapt.org/files/styles/large/public/2017/november/un-habitat_-_logo_-_inidesain.com_.png" group-title="TURKEY ☪ BELGESEL",HABITAT TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/70150
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TLC HD" tvg-logo="http://anonym-tv.com/newpicon/TR/tlc.png" group-title="TURKEY ☪ BELGESEL",TLC HD
+http://ip.luxetv.club:8080/senkron24/2123686/77312
+#EXTINF:-1 tvg-id="" tvg-name="KÖY TV" tvg-logo="http://logo.sltv.site/logo/turkeyT/koy_tv.png" group-title="TURKEY ☪ BELGESEL",KÖY TV
+http://ip.luxetv.club:8080/senkron24/2123686/77285
+#EXTINF:-1 tvg-id="" tvg-name="Genç Pehlivanlar (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Yo1qtMRXFybBNELs8eW8r8UEym.jpg" group-title="TURKEY ☪ BELGESEL",Genç Pehlivanlar (2016)
+http://ip.luxetv.club:8080/senkron24/2123686/89785
+#EXTINF:-1 tvg-id="" tvg-name="A Man Named Scott (2021)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sihn5PoMqS4EvVOqO5zRtPKJjns.jpg" group-title="TURKEY ☪ BELGESEL",A Man Named Scott (2021)
+http://ip.luxetv.club:8080/senkron24/2123686/89786
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="DMAX HD" tvg-logo="http://foreverfuntv.com/newpicon/TR/dmaxlogo.png" group-title="TURKEY ☪ BELGESEL",DMAX HD
+http://ip.luxetv.club:8080/senkron24/2123686/89787
+#EXTINF:-1 tvg-id="" tvg-name="AV TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUU0RWHYW1AlfXU9I79e5dZg9HL56DRbusoU6PyQyC55IEuF1mclTEz_zBSEJX67O_Guk&usqp=CAU" group-title="TURKEY ☪ BELGESEL",AV TV
+http://ip.luxetv.club:8080/senkron24/2123686/89788
+#EXTINF:-1 tvg-id="trtmuzik.tr" tvg-name="TRT Müzik HD" tvg-logo="http://foreverfuntv.com/newpicon/TR/trtmuziks1.png" group-title="TURKEY ☪ MÜZİK",TRT Müzik HD
+http://ip.luxetv.club:8080/senkron24/2123686/90294
+#EXTINF:-1 tvg-id="" tvg-name="Kral TV HD" tvg-logo="http://foreverfuntv.com/newpicon/TR/kraltvs1.png" group-title="TURKEY ☪ MÜZİK",Kral TV HD
+http://ip.luxetv.club:8080/senkron24/2123686/90295
+#EXTINF:-1 tvg-id="kralpop.tr" tvg-name="Kral TV Pop HD" tvg-logo="http://foreverfuntv.com/newpicon/TR/kraltvpops1.png" group-title="TURKEY ☪ MÜZİK",Kral TV Pop HD
+http://ip.luxetv.club:8080/senkron24/2123686/90296
+#EXTINF:-1 tvg-id="dreamturk.tr" tvg-name="Dream Turk HD" tvg-logo="http://foreverfuntv.com/newpicon/TR/dreamturk.png" group-title="TURKEY ☪ MÜZİK",Dream Turk HD
+http://ip.luxetv.club:8080/senkron24/2123686/90298
+#EXTINF:-1 tvg-id="powerturk.tr" tvg-name="Power Turk HD" tvg-logo="http://foreverfuntv.com/newpicon/TR/powerturk1.png" group-title="TURKEY ☪ MÜZİK",Power Turk HD
+http://ip.luxetv.club:8080/senkron24/2123686/90300
+#EXTINF:-1 tvg-id="" tvg-name="NR1 HD" tvg-logo="http://foreverfuntv.com/newpicon/TR/yerel/nr1.png" group-title="TURKEY ☪ MÜZİK",NR1 HD
+http://ip.luxetv.club:8080/senkron24/2123686/90301
+#EXTINF:-1 tvg-id="" tvg-name="NR1 TURK HD" tvg-logo="http://foreverfuntv.com/newpicon/TR/yerel/nr1turk.png" group-title="TURKEY ☪ MÜZİK",NR1 TURK HD
+http://ip.luxetv.club:8080/senkron24/2123686/90302
+#EXTINF:-1 tvg-id="" tvg-name="YILDIZ TV" tvg-logo="http://foreverfuntv.com/newpicon/TR/yerel/yildiztv.png" group-title="TURKEY ☪ MÜZİK",YILDIZ TV
+http://ip.luxetv.club:8080/senkron24/2123686/90303
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="FIRST MUSIC CHANNEL UHD" tvg-logo="http://foreverfuntv.com/newpicon/TR/first-music-channel-uhd.png" group-title="TURKEY ☪ MÜZİK",FIRST MUSIC CHANNEL UHD
+http://ip.luxetv.club:8080/senkron24/2123686/90304
+#EXTINF:-1 tvg-id="" tvg-name="Metropol Ankara" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol1.png" group-title="TURKEY ☪ MÜZİK",Metropol Ankara
+http://ip.luxetv.club:8080/senkron24/2123686/90310
+#EXTINF:-1 tvg-id="" tvg-name="Anonym FM" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/anonym-fm1.png" group-title="TURKEY ☪ MÜZİK",Anonym FM
+http://ip.luxetv.club:8080/senkron24/2123686/90258
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Pop" tvg-logo="http://foreverfuntv.com/newpicon/store/tr-muzkx/pop.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Pop
+http://ip.luxetv.club:8080/senkron24/2123686/90259
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Pop 2" tvg-logo="http://foreverfuntv.com/newpicon/store/tr-muzkx/pop-2.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Pop 2
+http://ip.luxetv.club:8080/senkron24/2123686/90260
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Rap" tvg-logo="http://foreverfuntv.com/newpicon/store/tr-muzkx/rap1.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Rap
+http://ip.luxetv.club:8080/senkron24/2123686/90261
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Türkü" tvg-logo="http://foreverfuntv.com/newpicon/store/tr-muzkx/turku.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Türkü
+http://ip.luxetv.club:8080/senkron24/2123686/90262
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Oyun Havasi" tvg-logo="http://foreverfuntv.com/newpicon/store/tr-muzkx/oyun-havasi.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Oyun Havasi
+http://ip.luxetv.club:8080/senkron24/2123686/90263
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Ankara" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/ankara11.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Ankara
+http://ip.luxetv.club:8080/senkron24/2123686/90264
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Slow" tvg-logo="http://foreverfuntv.com/newpicon/store/tr-muzkx/slow.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Slow
+http://ip.luxetv.club:8080/senkron24/2123686/90265
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Akustik" tvg-logo="http://foreverfuntv.com/newpicon/store/tr-muzkx/akustik.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Akustik
+http://ip.luxetv.club:8080/senkron24/2123686/90266
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Enstrumental" tvg-logo="http://foreverfuntv.com/newpicon/store/tr-muzkx/enstrumental.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Enstrumental
+http://ip.luxetv.club:8080/senkron24/2123686/90267
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Saz / Baglama" tvg-logo="http://foreverfuntv.com/newpicon/store/tr-muzkx/saz-baglama.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Saz / Baglama
+http://ip.luxetv.club:8080/senkron24/2123686/90268
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Ney" tvg-logo="http://foreverfuntv.com/newpicon/store/tr-muzkx/ney.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Ney
+http://ip.luxetv.club:8080/senkron24/2123686/90269
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Kanun" tvg-logo="http://foreverfuntv.com/newpicon/store/tr-muzkx/kanun.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Kanun
+http://ip.luxetv.club:8080/senkron24/2123686/90270
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Meyhane" tvg-logo="http://foreverfuntv.com/newpicon/store/tr-muzkx/meyhane.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Meyhane
+http://ip.luxetv.club:8080/senkron24/2123686/90271
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Karadeniz" tvg-logo="http://foreverfuntv.com/newpicon/store/tr-muzkx/karadeniz.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Karadeniz
+http://ip.luxetv.club:8080/senkron24/2123686/90272
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Fasıl" tvg-logo="http://foreverfuntv.com/newpicon/store/tr-muzkx/fasil.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Fasıl
+http://ip.luxetv.club:8080/senkron24/2123686/90273
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Türk Sanat Müziği" tvg-logo="http://foreverfuntv.com/newpicon/store/tr-muzkx/turk-sanat.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Türk Sanat Müziği
+http://ip.luxetv.club:8080/senkron24/2123686/90274
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Arabesk" tvg-logo="http://foreverfuntv.com/newpicon/store/tr-muzkx/arabesk.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Arabesk
+http://ip.luxetv.club:8080/senkron24/2123686/90275
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Müslüm Gürses" tvg-logo="https://foreverfuntv.com/newpicon/TR/muslumlogo1.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Müslüm Gürses
+http://ip.luxetv.club:8080/senkron24/2123686/90276
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Orhan Gencebay" tvg-logo="https://foreverfuntv.com/newpicon/TR/orhan_gencebaylogo1.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Orhan Gencebay
+http://ip.luxetv.club:8080/senkron24/2123686/90277
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Ferdi Tayfur" tvg-logo="https://foreverfuntv.com/newpicon/TR/ferdi_tayfurlogo1.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Ferdi Tayfur
+http://ip.luxetv.club:8080/senkron24/2123686/90278
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Ahmet Kaya" tvg-logo="https://foreverfuntv.com/newpicon/TR/Ahmet.kayalogo1.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Ahmet Kaya
+http://ip.luxetv.club:8080/senkron24/2123686/90279
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Bülent Ersoy" tvg-logo="https://foreverfuntv.com/newpicon/TR/bulent_ersoylogo1.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Bülent Ersoy
+http://ip.luxetv.club:8080/senkron24/2123686/90280
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Cengiz Kurtoglu" tvg-logo="https://foreverfuntv.com/newpicon/TR/cengiz_kurtoglulogo1.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Cengiz Kurtoglu
+http://ip.luxetv.club:8080/senkron24/2123686/90281
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Ibrahim Erkal" tvg-logo="https://foreverfuntv.com/newpicon/TR/ibrahim_erkallogo1.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Ibrahim Erkal
+http://ip.luxetv.club:8080/senkron24/2123686/90282
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Ibrahim Tatlises" tvg-logo="https://foreverfuntv.com/newpicon/TR/ibrahim_tatliseslogo1.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Ibrahim Tatlises
+http://ip.luxetv.club:8080/senkron24/2123686/90283
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Kibariye" tvg-logo="https://foreverfuntv.com/newpicon/TR/kibariyelogo1.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Kibariye
+http://ip.luxetv.club:8080/senkron24/2123686/90284
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Kıvırcık Ali" tvg-logo="https://foreverfuntv.com/newpicon/TR/kivircik_alilogo1.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Kıvırcık Ali
+http://ip.luxetv.club:8080/senkron24/2123686/90285
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Zeki Müren" tvg-logo="http://foreverfuntv.com/newpicon/TR/zeki_murenlogo1.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Zeki Müren
+http://ip.luxetv.club:8080/senkron24/2123686/90286
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV RnB Hip Hop" tvg-logo="https://foreverfuntv.com/newpicon/TR/RNBlogo1.png" group-title="TURKEY ☪ MÜZİK",Anonym TV RnB Hip Hop
+http://ip.luxetv.club:8080/senkron24/2123686/90287
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Shazam Top Charts" tvg-logo="https://foreverfuntv.com/newpicon/TR/shazamlgo1.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Shazam Top Charts
+http://ip.luxetv.club:8080/senkron24/2123686/90288
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Deezer Top Charts" tvg-logo="https://foreverfuntv.com/newpicon/TR/deezerlogo1.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Deezer Top Charts
+http://ip.luxetv.club:8080/senkron24/2123686/90289
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Spotify Top Charts" tvg-logo="https://foreverfuntv.com/newpicon/TR/Spotifylogo1.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Spotify Top Charts
+http://ip.luxetv.club:8080/senkron24/2123686/90290
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Parookaville" tvg-logo="http://foreverfuntv.com/newpicon/TR/Parookaville.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Parookaville
+http://ip.luxetv.club:8080/senkron24/2123686/90291
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV RnB Hip Hop" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/MUZIK.LOGO/TR/200x90/RNB.png" group-title="TURKEY ☪ MÜZİK",Anonym TV RnB Hip Hop
+http://ip.luxetv.club:8080/senkron24/2123686/90292
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Tomorrowland" tvg-logo="http://foreverfuntv.com/newpicon/TR/Tomorrowland.png" group-title="TURKEY ☪ MÜZİK",Anonym TV Tomorrowland
+http://ip.luxetv.club:8080/senkron24/2123686/90293
+#EXTINF:-1 tvg-id="" tvg-name="Metropol Pop" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol1.png" group-title="TURKEY ☪ MÜZİK",Metropol Pop
+http://ip.luxetv.club:8080/senkron24/2123686/90306
+#EXTINF:-1 tvg-id="" tvg-name="Metropol Nostalji" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol1.png" group-title="TURKEY ☪ MÜZİK",Metropol Nostalji
+http://ip.luxetv.club:8080/senkron24/2123686/90307
+#EXTINF:-1 tvg-id="" tvg-name="Metropol Müzik  4K" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol1.png" group-title="TURKEY ☪ MÜZİK",Metropol Müzik  4K
+http://ip.luxetv.club:8080/senkron24/2123686/90308
+#EXTINF:-1 tvg-id="" tvg-name="Metropol Karadeniz" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol1.png" group-title="TURKEY ☪ MÜZİK",Metropol Karadeniz
+http://ip.luxetv.club:8080/senkron24/2123686/90309
+#EXTINF:-1 tvg-id="" tvg-name="Elit Slow" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema1.png" group-title="TURKEY ☪ MÜZİK",Elit Slow
+http://ip.luxetv.club:8080/senkron24/2123686/90311
+#EXTINF:-1 tvg-id="" tvg-name="Elit Pop Radyo" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema1.png" group-title="TURKEY ☪ MÜZİK",Elit Pop Radyo
+http://ip.luxetv.club:8080/senkron24/2123686/90312
+#EXTINF:-1 tvg-id="" tvg-name="Elit Ankara" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema1.png" group-title="TURKEY ☪ MÜZİK",Elit Ankara
+http://ip.luxetv.club:8080/senkron24/2123686/90313
+#EXTINF:-1 tvg-id="" tvg-name="Elit Arabesk" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/elit-sinema1.png" group-title="TURKEY ☪ MÜZİK",Elit Arabesk
+http://ip.luxetv.club:8080/senkron24/2123686/90314
+#EXTINF:-1 tvg-id="trtebatvilkokul.tr" tvg-name="TRT EBA Ilkokul HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/ebailk.png" group-title="TURKEY ☪ COCUK ",TRT EBA Ilkokul HD
+http://ip.luxetv.club:8080/senkron24/2123686/59592
+#EXTINF:-1 tvg-id="trtebatvortaokul.tr" tvg-name="TRT EBA Ortaokul HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/ebaorta.png" group-title="TURKEY ☪ COCUK ",TRT EBA Ortaokul HD
+http://ip.luxetv.club:8080/senkron24/2123686/59593
+#EXTINF:-1 tvg-id="" tvg-name="TRT EBA Lise HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/ebalise.png" group-title="TURKEY ☪ COCUK ",TRT EBA Lise HD
+http://ip.luxetv.club:8080/senkron24/2123686/59594
+#EXTINF:-1 tvg-id="" tvg-name="MASA ILE KOCA AYI" tvg-logo="http://focustv.xyz/files/ch/ALBANEXYU/tring-kids-al.png" group-title="TURKEY ☪ COCUK ",MASA ILE KOCA AYI
+http://ip.luxetv.club:8080/senkron24/2123686/84437
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TRT Cocuk FullHD" tvg-logo="http://iptvtelekom.com/newpicon/TR/trtcocuk.png" group-title="TURKEY ☪ COCUK ",TRT Cocuk FullHD
+http://ip.luxetv.club:8080/senkron24/2123686/59578
+#EXTINF:-1 tvg-id="" tvg-name="Cbeebies HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/cbeebies.png" group-title="TURKEY ☪ COCUK ",Cbeebies HD
+http://ip.luxetv.club:8080/senkron24/2123686/59580
+#EXTINF:-1 tvg-id="minikacocuk.tr" tvg-name="Minika  Cocuk" tvg-logo="http://iptvtelekom.com/newpicon/TR/minikacocuk.png" group-title="TURKEY ☪ COCUK ",Minika  Cocuk
+http://ip.luxetv.club:8080/senkron24/2123686/59581
+#EXTINF:-1 tvg-id="minikago.tr" tvg-name="Minika Go HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/minikago.png" group-title="TURKEY ☪ COCUK ",Minika Go HD
+http://ip.luxetv.club:8080/senkron24/2123686/59582
+#EXTINF:-1 tvg-id="nickelodeon.tr" tvg-name="TR: Nickelodeon HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/nickelodeon.png" group-title="TURKEY ☪ COCUK ",TR: Nickelodeon HD
+http://ip.luxetv.club:8080/senkron24/2123686/59583
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/boomerang.png" group-title="TURKEY ☪ COCUK ",Boomerang HD
+http://ip.luxetv.club:8080/senkron24/2123686/59584
+#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="Cartoon Network HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/cartoon.png" group-title="TURKEY ☪ COCUK ",Cartoon Network HD
+http://ip.luxetv.club:8080/senkron24/2123686/59585
+#EXTINF:-1 tvg-id="davinci.tr" tvg-name="Da Vinci Kids HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/davinci_kids.png" group-title="TURKEY ☪ COCUK ",Da Vinci Kids HD
+http://ip.luxetv.club:8080/senkron24/2123686/59586
+#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-name="Movie Smart Cocuk" tvg-logo="http://iptvtelekom.com/newpicon/TR/moviesmartcocuklogo.png" group-title="TURKEY ☪ COCUK ",Movie Smart Cocuk
+http://ip.luxetv.club:8080/senkron24/2123686/59587
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="http://iptvtelekom.com/newpicon/TR/disneyxdlogo2.png" group-title="TURKEY ☪ COCUK ",Disney XD
+http://ip.luxetv.club:8080/senkron24/2123686/59588
+#EXTINF:-1 tvg-id="nickjr.tr" tvg-name="Nick Junior" tvg-logo="http://iptvtelekom.com/newpicon/TR/nickjrr.png" group-title="TURKEY ☪ COCUK ",Nick Junior
+http://ip.luxetv.club:8080/senkron24/2123686/59589
+#EXTINF:-1 tvg-id="disneyjunior.tr" tvg-name="Disney Junior" tvg-logo="http://iptvtelekom.com/newpicon/TR/disneyjr.png" group-title="TURKEY ☪ COCUK ",Disney Junior
+http://ip.luxetv.club:8080/senkron24/2123686/59590
+#EXTINF:-1 tvg-id="babytv.tr" tvg-name="Baby TV" tvg-logo="http://iptvtelekom.com/newpicon/TR/babytvlogo3.png" group-title="TURKEY ☪ COCUK ",Baby TV
+http://ip.luxetv.club:8080/senkron24/2123686/59591
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TRT COCUK HD" tvg-logo="http://iptvtelekom.com/newpicon/TR/trtcocuk.png" group-title="TURKEY ☪ COCUK ",TRT COCUK HD
+http://ip.luxetv.club:8080/senkron24/2123686/59595
+#EXTINF:-1 tvg-id="" tvg-name="TR: ÇOCUK NILOYA" tvg-logo="http://focustv.xyz/files/ch/ALBANEXYU/tring-kids-al.png" group-title="TURKEY ☪ COCUK ",TR: ÇOCUK NILOYA
+http://ip.luxetv.club:8080/senkron24/2123686/84434
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Masa ile Koca Ayi 2" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/ferhat/tr.cocuk.200.90x/masa-ile-koca-ayi-2.png" group-title="TURKEY ☪ COCUK ",Anonym TV Masa ile Koca Ayi 2
+http://ip.luxetv.club:8080/senkron24/2123686/89741
+#EXTINF:-1 tvg-id="" tvg-name="Metropol Tom Ve Jerry" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol.png" group-title="TURKEY ☪ COCUK ",Metropol Tom Ve Jerry
+http://ip.luxetv.club:8080/senkron24/2123686/89753
+#EXTINF:-1 tvg-id="" tvg-name="Metropol Sirinler" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol.png" group-title="TURKEY ☪ COCUK ",Metropol Sirinler
+http://ip.luxetv.club:8080/senkron24/2123686/89754
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Skylanders Akademisi" tvg-logo="https://iptvtelekom.com/newpicon/BURAK/skylanders_academy.png" group-title="TURKEY ☪ COCUK ",Anonym TV Skylanders Akademisi
+http://ip.luxetv.club:8080/senkron24/2123686/59598
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Avengers Dyan En GlKahramanlar" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids1/200x200/the-avengers-200x200.png" group-title="TURKEY ☪ COCUK ",Anonym TV Avengers Dyan En GlKahramanlar
+http://ip.luxetv.club:8080/senkron24/2123686/59599
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Kaptan Ddon'un Uzaydaki DestansHikayeleri" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids1/200x200/the-avengers-200x200.png" group-title="TURKEY ☪ COCUK ",Anonym TV Kaptan Ddon'un Uzaydaki DestansHikayeleri
+http://ip.luxetv.club:8080/senkron24/2123686/59600
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Geceyarcili" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids1/200x200/the-midnight-gospel-200x200.png" group-title="TURKEY ☪ COCUK ",Anonym TV Geceyarcili
+http://ip.luxetv.club:8080/senkron24/2123686/59601
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Kung Fu Panda Kaderin Penleri" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids1/200x200/kung-fu-panda.png" group-title="TURKEY ☪ COCUK ",Anonym TV Kung Fu Panda Kaderin Penleri
+http://ip.luxetv.club:8080/senkron24/2123686/59602
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV hir B" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids1/200x200/motown-magic-200x200.png" group-title="TURKEY ☪ COCUK ",Anonym TV hir B
+http://ip.luxetv.club:8080/senkron24/2123686/59603
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Patron Bebek i Bainda" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids1/200x200/patron-bebek-200x200.png" group-title="TURKEY ☪ COCUK ",Anonym TV Patron Bebek i Bainda
+http://ip.luxetv.club:8080/senkron24/2123686/59604
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Pokemon" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids1/200x200/pokemon-200x200.png" group-title="TURKEY ☪ COCUK ",Anonym TV Pokemon
+http://ip.luxetv.club:8080/senkron24/2123686/59605
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Trol AvcarArkadia Hikayeleri" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids1/200x200/troll-avcilari-arcadia-200x200.png" group-title="TURKEY ☪ COCUK ",Anonym TV Trol AvcarArkadia Hikayeleri
+http://ip.luxetv.club:8080/senkron24/2123686/59606
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Takla Yapra" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids1/200x200/tumble-leaf-200x200.png" group-title="TURKEY ☪ COCUK ",Anonym TV Takla Yapra
+http://ip.luxetv.club:8080/senkron24/2123686/59607
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Carmen Sandiego" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids1/200x200/carmen-sandiego.png" group-title="TURKEY ☪ COCUK ",Anonym TV Carmen Sandiego
+http://ip.luxetv.club:8080/senkron24/2123686/59609
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Gabby'nin Oyuncak Evi" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids1/200x200/gabbys.png" group-title="TURKEY ☪ COCUK ",Anonym TV Gabby'nin Oyuncak Evi
+http://ip.luxetv.club:8080/senkron24/2123686/59611
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV  Merhaba Ninja" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids1/200x200/hello-ninja.png" group-title="TURKEY ☪ COCUK ",Anonym TV  Merhaba Ninja
+http://ip.luxetv.club:8080/senkron24/2123686/59612
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Super Canavarlar" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids/super-monsters.png" group-title="TURKEY ☪ COCUK ",Anonym TV Super Canavarlar
+http://ip.luxetv.club:8080/senkron24/2123686/59613
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Oyuk" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids/the-hollow.png" group-title="TURKEY ☪ COCUK ",Anonym TV Oyuk
+http://ip.luxetv.club:8080/senkron24/2123686/59614
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Lego Elvendale'in Elf Slar" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids/lego-elves.png" group-title="TURKEY ☪ COCUK ",Anonym TV Lego Elvendale'in Elf Slar
+http://ip.luxetv.club:8080/senkron24/2123686/59615
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Dou ile CanlMelodiler" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids/true-melodien.png" group-title="TURKEY ☪ COCUK ",Anonym TV Dou ile CanlMelodiler
+http://ip.luxetv.club:8080/senkron24/2123686/59616
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV  Lego ArkadaslarHer Seyi Yapabilir" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids/lego-friends.png" group-title="TURKEY ☪ COCUK ",Anonym TV  Lego ArkadaslarHer Seyi Yapabilir
+http://ip.luxetv.club:8080/senkron24/2123686/59617
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Pijama Maskeleri" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids/pj-mask.png" group-title="TURKEY ☪ COCUK ",Anonym TV Pijama Maskeleri
+http://ip.luxetv.club:8080/senkron24/2123686/59618
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Peoria Prensi" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids/prince-of.png" group-title="TURKEY ☪ COCUK ",Anonym TV Peoria Prensi
+http://ip.luxetv.club:8080/senkron24/2123686/59619
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Gerk Sihirli Arkadalar" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids/true-magische.png" group-title="TURKEY ☪ COCUK ",Anonym TV Gerk Sihirli Arkadalar
+http://ip.luxetv.club:8080/senkron24/2123686/59620
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Gerk Mhi Hikayeler" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids/true-terrific.png" group-title="TURKEY ☪ COCUK ",Anonym TV Gerk Mhi Hikayeler
+http://ip.luxetv.club:8080/senkron24/2123686/59621
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Biz Lalaloopsy'yiz" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids/wir-sind.png" group-title="TURKEY ☪ COCUK ",Anonym TV Biz Lalaloopsy'yiz
+http://ip.luxetv.club:8080/senkron24/2123686/59622
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Gerk Harika Dilekler" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids/true-wunderbare.png" group-title="TURKEY ☪ COCUK ",Anonym TV Gerk Harika Dilekler
+http://ip.luxetv.club:8080/senkron24/2123686/59623
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Kulipari Ra Yec" tvg-logo="http://iptvtelekom.com/newpicon/Netflix.Kids/kulipari.png" group-title="TURKEY ☪ COCUK ",Anonym TV Kulipari Ra Yec
+http://ip.luxetv.club:8080/senkron24/2123686/59624
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Maymunlar Kong Kral" tvg-logo="http://iptvtelekom.com/newpicon/Netflix.Kids/kong.konig.png" group-title="TURKEY ☪ COCUK ",Anonym TV Maymunlar Kong Kral
+http://ip.luxetv.club:8080/senkron24/2123686/59625
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Jack Canavar Korkuttu" tvg-logo="http://iptvtelekom.com/newpicon/Netflix.Kids/jack.der.monster.png" group-title="TURKEY ☪ COCUK ",Anonym TV Jack Canavar Korkuttu
+http://ip.luxetv.club:8080/senkron24/2123686/59626
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Izzy'nin Koala Dyas" tvg-logo="http://iptvtelekom.com/newpicon/Netflix.Kids/izzys.koala.png" group-title="TURKEY ☪ COCUK ",Anonym TV Izzy'nin Koala Dyas
+http://ip.luxetv.club:8080/senkron24/2123686/59627
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Canterlot Lisesi'nin Equestria KlarMasallar" tvg-logo="http://iptvtelekom.com/newpicon/Netflix.Kids/equestria.canterlot.png" group-title="TURKEY ☪ COCUK ",Anonym TV Canterlot Lisesi'nin Equestria KlarMasallar
+http://ip.luxetv.club:8080/senkron24/2123686/59629
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Bebek BakKul" tvg-logo="http://iptvtelekom.com/newpicon/Netflix.Kids/baby.sitter.png" group-title="TURKEY ☪ COCUK ",Anonym TV Bebek BakKul
+http://ip.luxetv.club:8080/senkron24/2123686/59630
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Barbie Ra Evi Maceralar" tvg-logo="http://iptvtelekom.com/newpicon/Netflix.Kids/barbie.dreamhouse.adventures.png" group-title="TURKEY ☪ COCUK ",Anonym TV Barbie Ra Evi Maceralar
+http://ip.luxetv.club:8080/senkron24/2123686/59631
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Ra Evinde Barbie Yaam" tvg-logo="http://iptvtelekom.com/newpicon/Netflix.Kids/barbie.life.in.png" group-title="TURKEY ☪ COCUK ",Anonym TV Ra Evinde Barbie Yaam
+http://ip.luxetv.club:8080/senkron24/2123686/59632
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Kalevanya" tvg-logo="http://iptvtelekom.com/newpicon/Netflix.Kids/castlevania.png" group-title="TURKEY ☪ COCUK ",Anonym TV Kalevanya
+http://ip.luxetv.club:8080/senkron24/2123686/59633
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Lama Lama" tvg-logo="http://iptvtelekom.com/newpicon/Netflix.Kids/lama-lama-200x90.png" group-title="TURKEY ☪ COCUK ",Anonym TV Lama Lama
+http://ip.luxetv.club:8080/senkron24/2123686/59635
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Cips ve Toffel" tvg-logo="http://iptvtelekom.com/newpicon/Netflix.Kids/chip.and.potato.png" group-title="TURKEY ☪ COCUK ",Anonym TV Cips ve Toffel
+http://ip.luxetv.club:8080/senkron24/2123686/59636
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Kakao Ve S" tvg-logo="http://iptvtelekom.com/newpicon/Kanal_Logo/Anonym.yeni.kanal.logo/kakao.blutv.png" group-title="TURKEY ☪ COCUK ",Anonym TV Kakao Ve S
+http://ip.luxetv.club:8080/senkron24/2123686/59637
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Super Bir Tak" tvg-logo="http://iptvtelekom.com/newpicon/Kanal_Logo/Anonym.yeni.kanal.logo/super.1.takim.exxen.png" group-title="TURKEY ☪ COCUK ",Anonym TV Super Bir Tak
+http://ip.luxetv.club:8080/senkron24/2123686/59638
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Kral kir" tvg-logo="http://iptvtelekom.com/newpicon/gladio.ekip.kanal.logolari/multi-kids1/200x200/kral-sakir.png" group-title="TURKEY ☪ COCUK ",Anonym TV Kral kir
+http://ip.luxetv.club:8080/senkron24/2123686/59639
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV CoComelon" tvg-logo="http://iptvtelekom.com/newpicon/Netflix.Kids/cocomelon.png" group-title="TURKEY ☪ COCUK ",Anonym TV CoComelon
+http://ip.luxetv.club:8080/senkron24/2123686/59640
+#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-name="Smart Cocuk HD" tvg-logo="http://foreverfuntv.com/newpicon/TR/cocuk-eba-logo/smartcocuk.png" group-title="TURKEY ☪ COCUK ",Smart Cocuk HD
+http://ip.luxetv.club:8080/senkron24/2123686/89728
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Kids TV" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Created.Channel/kids-tv.png" group-title="TURKEY ☪ COCUK ",Anonym TV Kids TV
+http://ip.luxetv.club:8080/senkron24/2123686/89729
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Çocuk 1" tvg-logo="http://foreverfuntv.com/newpicon/kids.created.channel/tr/cocuk-1.png" group-title="TURKEY ☪ COCUK ",Anonym TV Çocuk 1
+http://ip.luxetv.club:8080/senkron24/2123686/89730
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Çocuk 2" tvg-logo="http://foreverfuntv.com/newpicon/kids.created.channel/tr/cocuk-2.png" group-title="TURKEY ☪ COCUK ",Anonym TV Çocuk 2
+http://ip.luxetv.club:8080/senkron24/2123686/89731
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Çocuk 3" tvg-logo="http://foreverfuntv.com/newpicon/kids.created.channel/tr/cocuk-3.png" group-title="TURKEY ☪ COCUK ",Anonym TV Çocuk 3
+http://ip.luxetv.club:8080/senkron24/2123686/89732
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Çocuk 4" tvg-logo="http://foreverfuntv.com/newpicon/kids.created.channel/tr/cocuk-4.png" group-title="TURKEY ☪ COCUK ",Anonym TV Çocuk 4
+http://ip.luxetv.club:8080/senkron24/2123686/89733
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Sevimli Dostlar" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sevimli-dostlar.png" group-title="TURKEY ☪ COCUK ",Anonym TV Sevimli Dostlar
+http://ip.luxetv.club:8080/senkron24/2123686/89734
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Peppa Pig" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/ferhat/tr.cocuk.200.90x/peppa-pig.png" group-title="TURKEY ☪ COCUK ",Anonym TV Peppa Pig
+http://ip.luxetv.club:8080/senkron24/2123686/89735
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Aslan" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/ferhat/tr.cocuk.200.90x/aslan.png" group-title="TURKEY ☪ COCUK ",Anonym TV Aslan
+http://ip.luxetv.club:8080/senkron24/2123686/89736
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Ege ile Gaga" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/ferhat/tr.cocuk.200.90x/ege-ile-gaga.png" group-title="TURKEY ☪ COCUK ",Anonym TV Ege ile Gaga
+http://ip.luxetv.club:8080/senkron24/2123686/89737
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Pepee" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/ferhat/tr.cocuk.200.90x/pepe.png" group-title="TURKEY ☪ COCUK ",Anonym TV Pepee
+http://ip.luxetv.club:8080/senkron24/2123686/89738
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Pata Pata" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/ferhat/tr.cocuk.200.90x/pata-pata.png" group-title="TURKEY ☪ COCUK ",Anonym TV Pata Pata
+http://ip.luxetv.club:8080/senkron24/2123686/89739
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Mimocan" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/ferhat/tr.cocuk.200.90x/mimocan.png" group-title="TURKEY ☪ COCUK ",Anonym TV Mimocan
+http://ip.luxetv.club:8080/senkron24/2123686/89740
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Kuzucuk" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/ferhat/tr.cocuk.200.90x/kuzucuk.png" group-title="TURKEY ☪ COCUK ",Anonym TV Kuzucuk
+http://ip.luxetv.club:8080/senkron24/2123686/89742
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Kukuli" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/ferhat/tr.cocuk.200.90x/kukuli.png" group-title="TURKEY ☪ COCUK ",Anonym TV Kukuli
+http://ip.luxetv.club:8080/senkron24/2123686/89743
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Kral Sakir" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/ferhat/tr.cocuk.200.90x/kral-sakir.png" group-title="TURKEY ☪ COCUK ",Anonym TV Kral Sakir
+http://ip.luxetv.club:8080/senkron24/2123686/89744
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Kare" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/ferhat/tr.cocuk.200.90x/kare.png" group-title="TURKEY ☪ COCUK ",Anonym TV Kare
+http://ip.luxetv.club:8080/senkron24/2123686/89745
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Doru" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/ferhat/tr.cocuk.200.90x/doru.png" group-title="TURKEY ☪ COCUK ",Anonym TV Doru
+http://ip.luxetv.club:8080/senkron24/2123686/89746
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Arcadia Büyücü Masalları" tvg-logo="https://foreverfuntv.com/newpicon/gladio.ekip.kanal.logolari/multi-kids1/200x200x/buyuculer-arcadiax200x200x.png" group-title="TURKEY ☪ COCUK ",Anonym TV Arcadia Büyücü Masalları
+http://ip.luxetv.club:8080/senkron24/2123686/89747
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Büyü Bozma" tvg-logo="http://foreverfuntv.com/newpicon/gladio.ekip.kanal.logolari/multi-kids1/200x200x/Disenchantmentx.png" group-title="TURKEY ☪ COCUK ",Anonym TV Büyü Bozma
+http://ip.luxetv.club:8080/senkron24/2123686/89748
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Arıza Teknikleri" tvg-logo="https://foreverfuntv.com/newpicon/Netflix.Kidss/glitch.techs.png" group-title="TURKEY ☪ COCUK ",Anonym TV Arıza Teknikleri
+http://ip.luxetv.club:8080/senkron24/2123686/89749
+#EXTINF:-1 tvg-id="" tvg-name="Anonym TV Benim Küçük Midillim" tvg-logo="https://foreverfuntv.com/newpicon/Kanal_Logo/Anonym.yeni.kanal.logo/my.little.pony1.png" group-title="TURKEY ☪ COCUK ",Anonym TV Benim Küçük Midillim
+http://ip.luxetv.club:8080/senkron24/2123686/89750
+#EXTINF:-1 tvg-id="" tvg-name="Metropol Rafadan Tayfa" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol.png" group-title="TURKEY ☪ COCUK ",Metropol Rafadan Tayfa
+http://ip.luxetv.club:8080/senkron24/2123686/89751
+#EXTINF:-1 tvg-id="" tvg-name="Metropol PJ Maskeliler" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol.png" group-title="TURKEY ☪ COCUK ",Metropol PJ Maskeliler
+http://ip.luxetv.club:8080/senkron24/2123686/89752
+#EXTINF:-1 tvg-id="" tvg-name="Metropol Masal" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol.png" group-title="TURKEY ☪ COCUK ",Metropol Masal
+http://ip.luxetv.club:8080/senkron24/2123686/89755
+#EXTINF:-1 tvg-id="" tvg-name="Metropol Konusan Tom" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol.png" group-title="TURKEY ☪ COCUK ",Metropol Konusan Tom
+http://ip.luxetv.club:8080/senkron24/2123686/89757
+#EXTINF:-1 tvg-id="" tvg-name="Metropol Hapsuu" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol.png" group-title="TURKEY ☪ COCUK ",Metropol Hapsuu
+http://ip.luxetv.club:8080/senkron24/2123686/89759
+#EXTINF:-1 tvg-id="" tvg-name="Metropol Elifin Dusleri" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol.png" group-title="TURKEY ☪ COCUK ",Metropol Elifin Dusleri
+http://ip.luxetv.club:8080/senkron24/2123686/89760
+#EXTINF:-1 tvg-id="" tvg-name="Metropol Chicky" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol.png" group-title="TURKEY ☪ COCUK ",Metropol Chicky
+http://ip.luxetv.club:8080/senkron24/2123686/89761
+#EXTINF:-1 tvg-id="" tvg-name="Metropol Caillou" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol.png" group-title="TURKEY ☪ COCUK ",Metropol Caillou
+http://ip.luxetv.club:8080/senkron24/2123686/89762
+#EXTINF:-1 tvg-id="" tvg-name="Metropol Booba" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol.png" group-title="TURKEY ☪ COCUK ",Metropol Booba
+http://ip.luxetv.club:8080/senkron24/2123686/89763
+#EXTINF:-1 tvg-id="" tvg-name="Metropol Barbie" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol.png" group-title="TURKEY ☪ COCUK ",Metropol Barbie
+http://ip.luxetv.club:8080/senkron24/2123686/89764
+#EXTINF:-1 tvg-id="" tvg-name="METROPOL PEPE TV" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol.png" group-title="TURKEY ☪ COCUK ",METROPOL PEPE TV
+http://ip.luxetv.club:8080/senkron24/2123686/89771
+#EXTINF:-1 tvg-id="" tvg-name="METROPOL KUZUCUK" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol.png" group-title="TURKEY ☪ COCUK ",METROPOL KUZUCUK
+http://ip.luxetv.club:8080/senkron24/2123686/89773
+#EXTINF:-1 tvg-id="" tvg-name="METROPOL KUKILI" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol.png" group-title="TURKEY ☪ COCUK ",METROPOL KUKILI
+http://ip.luxetv.club:8080/senkron24/2123686/89774
+#EXTINF:-1 tvg-id="" tvg-name="METROPOL KRAL SAKIR" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol.png" group-title="TURKEY ☪ COCUK ",METROPOL KRAL SAKIR
+http://ip.luxetv.club:8080/senkron24/2123686/89775
+#EXTINF:-1 tvg-id="" tvg-name="METROPOL KARE" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol.png" group-title="TURKEY ☪ COCUK ",METROPOL KARE
+http://ip.luxetv.club:8080/senkron24/2123686/89776
+#EXTINF:-1 tvg-id="" tvg-name="METROPOL EGE ILE GAGA" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/sadece-metropol.png" group-title="TURKEY ☪ COCUK ",METROPOL EGE ILE GAGA
+http://ip.luxetv.club:8080/senkron24/2123686/89777
+
+
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1 HD" tvg-logo="http://mate.ovh:8000/images/icon/trt1.png" group-title="TR | ULUSAL",TRT 1 HD
 http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/14
 #EXTINF:-1 tvg-id="" tvg-name="KANAL D HD" tvg-logo="" group-title="TR | ULUSAL",KANAL D HD
