@@ -75,34 +75,57 @@ https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 1
-https://srvccc.write8824dont.xyz/kaynakstreamradarco/selcukbein1app/naxi/caxi.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 1
-http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/54439.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT HD 1
-http://goldenhdspor.myftp.biz:8899/live/bugrameh9804/BugraMeh8562/64453.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 2
-http://sibfungold.info:8080/live/pacha-man1/81CWlT7aD5/54440.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 2
-http://goldenhdspor.myftp.biz:8899/live/bugrameh9804/BugraMeh8562/64452.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT HD 2
-http://gogaiptv.com:8000/live/Tolgaabi/anjBEEAafY/234383.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 3
-http://albamax.ddns.me:8080/live/fullhdp/TNNSquCGX5/85440.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 3
-http://goldenhdspor.myftp.biz:8899/live/bugrameh9804/BugraMeh8562/64451.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 4
-http://albamax.ddns.me:8080/live/fullhdp/TNNSquCGX5/85441.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT FHD 4
-http://goldenhdspor.myftp.biz:8899/live/bugrameh9804/BugraMeh8562/64454.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 5
-http://albamax.ddns.me:8080/live/fullhdp/TNNSquCGX5/85720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 6
-http://albamax.ddns.me:8080/live/fullhdp/TNNSquCGX5/85721.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 7
-http://albamax.ddns.me:8080/live/fullhdp/TNNSquCGX5/85722.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="EXXEN SPORT",EXXEN SPORT UHD 8
-http://albamax.ddns.me:8080/live/fullhdp/TNNSquCGX5/85723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="★✦★ EXXEN SPORTS ★✦★" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="TÜRKİYE ☪ SPORT ⚽",★✦★ EXXEN SPOR ★✦★
+http://ip.luxetv.club:8080/senkron24/2123686/90354
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 HEVC (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPOR 1 HEVC (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90356
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPOR 1 FHD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90357
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPOR 1 HD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90358
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 2 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPOR 2 FHD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90359
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 2 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPOR 2 HD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90360
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 3 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPOR 3 FHD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90361
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 3 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPOR 3 HD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90362
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 4 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPOR 4 FHD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90363
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 4 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPOR 4 HD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90364
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 5 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPOR 5 FHD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90365
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 5 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPOR 5 HD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90366
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 6 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPOR 6 FHD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90367
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 6 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPOR 6 HD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90368
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 7 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPOR 7 FHD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90369
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 7 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPOR 7 HD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90370
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 8 FHD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPOR 8 FHD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90371
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 8 HD (MAC ZAMANI)" tvg-logo="http://focustv.xyz/files/ch/TR/Exxen.png.png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPOR 8 HD (MAC ZAMANI)
+http://ip.luxetv.club:8080/senkron24/2123686/90372
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 1HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-1.png" grubu -title="TÜRKİYE ☪ SPOR ⚽",Exxen Spor 1HD
+http://ip.luxetv.club:8080/senkron24/2123686/90373
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 1" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-1.png" grubu -title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPOR 1
+http://ip.luxetv.club:8080/senkron24/2123686/90374
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 2 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-2.png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPOR 2 HD
+http://ip.luxetv.club:8080/senkron24/2123686/90375
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPOR 3 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-3.png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPOR 3 HD
+http://ip.luxetv.club:8080/senkron24/2123686/90376
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORT 4 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-4.png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPORT 4 HD
+http://ip.luxetv.club:8080/senkron24/2123686/90377
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORT 5 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-5.png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPORT 5 HD
+http://ip.luxetv.club:8080/senkron24/2123686/90378
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="EXXEN SPORT 6 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-6 .png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPORT 6 HD
+http://ip.luxetv.club:8080/senkron24/2123686/90379
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORT 7 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-7.png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPORT 7 HD
+http://ip.luxetv.club:8080/senkron24/2123686/90380
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN SPORT 8 HD" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/Spor-TR/exxen-spor-8.png" group-title="TÜRKİYE ☪ SPORT ⚽",EXXEN SPORT 8 HD
+http://ip.luxetv.club:8080/senkron24/2123686/90381
